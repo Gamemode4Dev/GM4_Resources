@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_sword"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 105}, "model": "gm4:item/metallurgy/shamir/ender_bolt/golden_sword"},
+                { "predicate": {"custom_model_data": 108}, "model": "gm4:item/metallurgy/shamir/musical/golden_sword"},
+                { "predicate": {"custom_model_data": 110}, "model": "gm4:item/metallurgy/shamir/hypexperia/golden_sword"}
+    ]
+}

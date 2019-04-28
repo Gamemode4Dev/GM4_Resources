@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_shovel"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 110}, "model": "gm4:item/metallurgy/shamir/hypexperia/stone_shovel"},
+                { "predicate": {"custom_model_data": 111}, "model": "gm4:item/metallurgy/shamir/tinker/stone_shovel"}
+    ]
+}

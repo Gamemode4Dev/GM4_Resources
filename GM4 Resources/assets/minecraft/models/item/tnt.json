@@ -1,0 +1,6 @@
+{
+    "parent": "block/tnt",
+    "overrides": [
+                { "predicate": {"custom_model_data": 1}, "model": "gm4:block/disassembler"}
+    ]
+}

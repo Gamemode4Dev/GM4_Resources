@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_helmet"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 1}, "model": "gm4:item/scuba_helmet"},
+
+                { "predicate": {"custom_model_data": 103}, "model": "gm4:item/metallurgy/shamir/helios/golden_helmet"},
+                { "predicate": {"custom_model_data": 106}, "model": "gm4:item/metallurgy/shamir/defuse/golden_helmet"}
+    ]
+}

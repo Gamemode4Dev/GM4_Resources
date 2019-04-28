@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 105}, "model": "gm4:item/metallurgy/shamir/ender_bolt/diamond_sword"},
+                { "predicate": {"custom_model_data": 108}, "model": "gm4:item/metallurgy/shamir/musical/diamond_sword"},
+                { "predicate": {"custom_model_data": 110}, "model": "gm4:item/metallurgy/shamir/hypexperia/diamond_sword"}
+    ]
+}

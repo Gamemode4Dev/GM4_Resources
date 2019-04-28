@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_axe"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 110}, "model": "gm4:item/metallurgy/shamir/hypexperia/golden_axe"},
+                { "predicate": {"custom_model_data": 111}, "model": "gm4:item/metallurgy/shamir/tinker/golden_axe"}
+    ]
+}

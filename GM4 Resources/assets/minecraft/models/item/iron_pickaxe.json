@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_pickaxe"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 107}, "model": "gm4:item/metallurgy/shamir/forterra/iron_pickaxe"},
+                { "predicate": {"custom_model_data": 110}, "model": "gm4:item/metallurgy/shamir/hypexperia/iron_pickaxe"},
+                { "predicate": {"custom_model_data": 111}, "model": "gm4:item/metallurgy/shamir/tinker/iron_pickaxe"}
+    ]
+}

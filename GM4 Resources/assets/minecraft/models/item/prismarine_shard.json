@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/prismarine_shard"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 1}, "model": "gm4:item/enchanted_prismarine_shard"}
+    ]
+}

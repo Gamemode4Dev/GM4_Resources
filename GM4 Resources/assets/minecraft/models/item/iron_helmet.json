@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_helmet"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 103}, "model": "gm4:item/metallurgy/shamir/helios/iron_helmet"},
+                { "predicate": {"custom_model_data": 106}, "model": "gm4:item/metallurgy/shamir/defuse/iron_helmet"}
+    ]
+}

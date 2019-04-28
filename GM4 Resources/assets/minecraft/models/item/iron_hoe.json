@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_hoe"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 109}, "model": "gm4:item/metallurgy/shamir/gemini/iron_hoe"}
+    ]
+}

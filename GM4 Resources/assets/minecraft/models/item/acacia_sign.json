@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/acacia_sign"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 1}, "model": "gm4:item/trapped_acacia_sign"},
+                { "predicate": {"custom_model_data": 2}, "model": "gm4:item/secret_trapped_acacia_sign"}
+    ]
+}

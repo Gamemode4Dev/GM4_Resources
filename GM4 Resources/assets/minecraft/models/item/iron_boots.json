@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_boots"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 102}, "model": "gm4:item/metallurgy/shamir/levity/iron_boots"},
+                { "predicate": {"custom_model_data": 103}, "model": "gm4:item/metallurgy/shamir/helios/iron_boots"},
+                { "predicate": {"custom_model_data": 106}, "model": "gm4:item/metallurgy/shamir/defuse/iron_boots"}
+    ]
+}

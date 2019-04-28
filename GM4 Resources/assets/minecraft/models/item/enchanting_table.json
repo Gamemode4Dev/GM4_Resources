@@ -1,0 +1,6 @@
+{
+    "parent": "block/enchanting_table",
+    "overrides": [
+                { "predicate": {"custom_model_data": 1}, "model": "gm4:block/enchantment_extractor"}
+    ]
+}

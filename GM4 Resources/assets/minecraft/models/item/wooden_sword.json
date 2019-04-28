@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_sword"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 105}, "model": "gm4:item/metallurgy/shamir/ender_bolt/wooden_sword"},
+                { "predicate": {"custom_model_data": 108}, "model": "gm4:item/metallurgy/shamir/musical/wooden_sword"},
+                { "predicate": {"custom_model_data": 110}, "model": "gm4:item/metallurgy/shamir/hypexperia/wooden_sword"}
+    ]
+}

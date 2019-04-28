@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_leggings"
+    },
+    "overrides": [
+                { "predicate": {"custom_model_data": 103}, "model": "gm4:item/metallurgy/shamir/helios/golden_leggings"},
+                { "predicate": {"custom_model_data": 106}, "model": "gm4:item/metallurgy/shamir/defuse/golden_leggings"}
+    ]
+}
