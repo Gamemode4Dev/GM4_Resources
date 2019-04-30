@@ -12,7 +12,7 @@
     "text.gm4.modules.update.check": "Checking for updates...",
     "text.gm4.modules.update.none_found": "No updates found.",
     "text.gm4.modules.update.completed": "Updates completed.",
-    "text.gm4.modules.update.installing": "Installing %3$s...",
+    "text.gm4.modules.update.installing": "Installing %s...",
     "text.gm4.modules.update.installed": "%s Installed!",
 
     "item.gm4.shamir": "%s Shamir",
@@ -99,6 +99,9 @@
     "module.gm4.zauber_cauldrons": "Zauber Cauldrons",
     "module.gm4.zauber_cauldrons.wormhole.offhand_unsupported": "Offhand not supported in versions below 1.14!",
     "module.gm4.ziprails": "Ziprails",
+
+    "text.gm4.bat_leather.1": "Would make for a very strange,",
+    "text.gm4.bat_leather.2": "very tiny jacket",
 
     "text.gm4.dearest_audrey.prefix": "Dearest Audrey, ",
     "text.gm4.dearest_audrey.1": "I drank all my beer",
