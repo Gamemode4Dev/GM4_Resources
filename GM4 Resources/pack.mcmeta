@@ -1,6 +1,13 @@
 {
-    "pack": {
-        "pack_format": 4,
-        "description": "§bOptional Resources for GM4\n§81.14+"
+  "pack": {
+    "pack_format": 4,
+    "description": "§bOptional Resources for GM4\n§81.14+"
+  },
+  "credits":{
+    "translators": {
+      "Spanish": [
+        ["SarguCopperpot", "https://twitter.com/SarguCopperpot"]
+      ]
     }
+  }
 }
