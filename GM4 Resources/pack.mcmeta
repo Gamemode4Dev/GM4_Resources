@@ -4,10 +4,8 @@
     "description": "§bOptional Resources for GM4\n§81.14+"
   },
   "credits":{
-    "translators": {
-      "Spanish": [
-        ["SarguCopperpot", "https://twitter.com/SarguCopperpot"]
-      ]
+    "Translators": {
+      ["Spanish: SarguCopperpot", "https://twitter.com/SarguCopperpot"]
     }
   }
 }
