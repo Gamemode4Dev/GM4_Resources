@@ -17,7 +17,6 @@
 
     "text.gm4.xp_storage.stored_experience": "Stored Experience: ",
     "text.gm4.xp_storage.stored_experience.points": "%s Points",
-    "text.gm4.zauber_cauldrons.wormhole.offhand_unsupported": "Offhand not supported in versions below 1.14!",
 
     "item.gm4.shamir": "%s Shamir",
     "item.gm4.conduction_shamir": "Conduction",
@@ -54,8 +53,12 @@
     "item.gm4.trapped_sign": "Trapped ",
     "item.gm4.trapped_sign.secret": "Secret Trapped ",
     "item.gm4.waders": "Waders",
+    "item.gm4.zauber_armour.magic": "+ %s%% Magic",
     "item.gm4.wormhole_in_a_bottle": "Wormhole in a Bottle",
-    "item.gm4.zauber_crystal.prefix": "Crystal of ",
+    "item.gm4.zauber_crystal.resistance": "Crystal of Resistance",
+    "item.gm4.zauber_crystal.fire_resistance": "Crystal of Fire Resistance",
+    "item.gm4.zauber_crystal.speed": "Crystal of Speed",
+    "item.gm4.zauber_crystal.regeneration": "Crystal of Regeneration",
 
     "block.gm4.block_compressor": "Compressor",
     "block.gm4.custom_crafter": "Custom Crafter",
@@ -69,6 +72,7 @@
     "entity.gm4.living_enchantment": "Living Enchantment",
     "entity.gm4.falling_star": "Falling Star",
     "entity.gm4.undead_player": "Undead Player",
+    "entity.gm4.possessed_item": "Possessed Item",
 
     "module.gm4.bat_grenades": "Bat Grenades",
     "module.gm4.better_armour_stands": "Better Armor Stands",
