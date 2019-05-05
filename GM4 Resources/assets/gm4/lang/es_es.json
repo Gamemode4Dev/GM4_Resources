@@ -1,6 +1,5 @@
 {
     "lang.gm4.test": "Prueba de Idioma de GM4",
-    "lang.gm4.test.en.regional": "Color",
     "text.gm4.prefix": "[GM4]: ",
     "text.gm4.modules.init": "Bienvenido/a a Gamemode 4. Iniciando...",
     "text.gm4.modules.outdated": "Algunos modulos están desactualizados: %s",
