@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 4,
+    "description": "§bOptional Translations for GM4\n§81.14+"
+  },
+  "module_name": "Translations",
+  "module_id": "translations",
+  "credits": {
+    "Shakespearean English": [
+      ["ToffeeMax", "https://twitter.com/SarguCopperpot"]
+    ],
+    "Spanish": [
+      ["SarguCopperpot", "https://twitter.com/SarguCopperpot"]
+    ]
+  }
+}
