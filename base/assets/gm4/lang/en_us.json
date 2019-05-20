@@ -102,7 +102,6 @@
     "block.gm4.liquid_tank.turtle_master": "Turtle Master Potion Tank",
     "block.gm4.liquid_tank.water_breathing": "Water Breathing Potion Tank",
     "block.gm4.liquid_tank.weakness": "Weakness Potion Tank",
-    "block.gm4.liquid_tank.empty": "Empty Potion Tank",
 
     "entity.gm4.congealed_enchantment": "Congealed Enchantment",
     "entity.gm4.living_enchantment": "Living Enchantment",
