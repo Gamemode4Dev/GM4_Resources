@@ -1,5 +1,6 @@
 {
     "lang.gm4.test": "Prueba de Idioma de GM4",
+
     "text.gm4.prefix": "[GM4]: ",
     "text.gm4.modules.init": "Bienvenido/a a Gamemode 4. Iniciando...",
     "text.gm4.modules.outdated": "Algunos modulos están desactualizados: %s",
@@ -10,8 +11,10 @@
     "text.gm4.modules.update.completed": "Actualizaciones completadas.",
     "text.gm4.modules.update.installing": "Instalando %s...",
     "text.gm4.modules.update.installed": "¡Se ha instalado %s!",
+
     "text.gm4.xp_storage.stored_experience": "Experiencia almacenada: ",
     "text.gm4.xp_storage.stored_experience.points": "%s puntos",
+
     "item.gm4.shamir": "%s Shamir",
     "item.gm4.conduction_shamir": "Conducción",
     "item.gm4.defuse_shamir": "Desactivar",
@@ -53,6 +56,7 @@
     "item.gm4.zauber_crystal.fire_resistance": "Cristal de Resistencia al Fuego",
     "item.gm4.zauber_crystal.speed": "Cristal de Velocidad",
     "item.gm4.zauber_crystal.regeneration": "Cristal de Regeneración",
+
     "block.gm4.block_compressor": "Compresor",
     "block.gm4.custom_crafter": "Mesa de Trabajo Personalizado",
     "block.gm4.disassembler": "Desensamblador",
@@ -60,11 +64,13 @@
     "block.gm4.ender_hopper": "Tolva del End",
     "block.gm4.master_crafter": "Mesa de Trabajo de maestro artesano",
     "block.gm4.treasure_chest": "Cofre del Tesoro",
+
     "entity.gm4.congealed_enchantment": "Encantamiento Congelado",
     "entity.gm4.living_enchantment": "Encantamiento Viviente",
     "entity.gm4.falling_star": "Estrella Fugaz",
     "entity.gm4.undead_player": "Jugador no-muerto",
     "entity.gm4.possessed_item": "Objeto Poseïdo",
+
     "module.gm4.bat_grenades": "Murcielagos Explosivos",
     "module.gm4.better_armour_stands": "Mejores soportes para Armaduras",
     "module.gm4.better_fire": "Fuego Mejorado",
@@ -107,6 +113,7 @@
     "module.gm4.xp_storage": "Almacenamiento de Experiencia",
     "module.gm4.zauber_cauldrons": "Calderos de Zauber",
     "module.gm4.ziprails": "Cables colgantes",
+
     "text.gm4.dearest_audrey.prefix": "Querida y amada Audrey:",
     "text.gm4.dearest_audrey.1": "Me he bebido todo el alcohol",
     "text.gm4.dearest_audrey.2.1": "My barco se ha",
@@ -185,6 +192,7 @@
     "text.gm4.dearest_audrey.19.5": "monstruos y nunca volveré a casa.",
     "text.gm4.dearest_audrey.20.1": "Dar golpes a los arboles",
     "text.gm4.dearest_audrey.20.2": "para tener troncos no funciona en la vida real.",
+
     "advancement.gm4.root.title": "Gamemode 4",
     "advancement.gm4.root.description": "Cosas divertidas de GM4",
     "advancement.gm4.bat_grenades.title": "Explosión Murcielaguil",
