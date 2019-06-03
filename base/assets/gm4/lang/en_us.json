@@ -39,6 +39,7 @@
     "item.gm4.boots_of_ostara.lore": "Brings Abundance Beneath You!",
     "item.gm4.enchanted_prismarine_shard": "Enchanted Prismarine Shard",
     "item.gm4.flippers": "Flippers",
+    "item.gm4.floating_potion": "Potion of Floating",
     "item.gm4.heart_canister": "Heart Canister",
     "item.gm4.heart_canister.lore.tier": "Tier %s",
     "item.gm4.lightning_rod": "Lightning Rod",
@@ -59,7 +60,6 @@
     "item.gm4.zauber_crystal.fire_resistance": "Crystal of Fire Resistance",
     "item.gm4.zauber_crystal.speed": "Crystal of Speed",
     "item.gm4.zauber_crystal.regeneration": "Crystal of Regeneration",
-    "item.gm4.floating_potion": "Potion of Floating",
 
     "block.gm4.block_compressor": "Compressor",
     "block.gm4.custom_crafter": "Custom Crafter",
