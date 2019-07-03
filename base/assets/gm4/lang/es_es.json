@@ -92,7 +92,7 @@
     "block.gm4.liquid_tank.poison": "Tanque de Poción de Veneno",
     "block.gm4.liquid_tank.regeneration": "Tanque de Poción de Regeneración",
     "block.gm4.liquid_tank.slow_falling": "Tanque de Poción de Caída lenta",
-    "block.gm4.liquid_tank.slowness": "Tanque de Poción de Lentitud,
+    "block.gm4.liquid_tank.slowness": "Tanque de Poción de Lentitud"
     "block.gm4.liquid_tank.strength": "Tanque de Poción de Fuerza",
     "block.gm4.liquid_tank.strong_harming": "Tanque de Poción de Daño (Fuerte)",
     "block.gm4.liquid_tank.strong_healing": "Tanque de Poción de Curación (Fuerte)",
@@ -104,7 +104,7 @@
     "block.gm4.liquid_tank.strong_swiftness": "Tanque de Poción de Rapidez (Fuerte)",
     "block.gm4.liquid_tank.strong_turtle_master": "Tanque de Poción del maestro Tortuga (Fuerte)",
     "block.gm4.liquid_tank.swiftness": "Tanque de Poción de Rapidez",
-    "block.gm4.liquid_tank.turtle_master": "Tanque de Poción del maestro Tortuga,
+    "block.gm4.liquid_tank.turtle_master": "Tanque de Poción del maestro Tortuga",
     "block.gm4.liquid_tank.water_breathing": "Tanque de Poción de Apnea",
     "block.gm4.liquid_tank.weakness": "Tanque de Poción de Debilidad",
 
