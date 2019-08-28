@@ -1,9 +1,20 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/generated",
     "textures": {
-        "layer0": "item/diamond_hoe"
+        "layer0": "item/diamond_helmet"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 109}, "model": "gm4:item/metallurgy/shamir/gemini/diamond_hoe"}
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "gm4:item/metallurgy/shamir/helios/diamond_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/metallurgy/shamir/defuse/diamond_helmet"
+        }
     ]
 }

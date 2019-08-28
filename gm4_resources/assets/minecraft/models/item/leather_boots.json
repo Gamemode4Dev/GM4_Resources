@@ -5,11 +5,35 @@
         "layer1": "item/leather_boots_overlay"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 1}, "model": "gm4:item/boots_of_ostara"},
-                { "predicate": {"custom_model_data": 2}, "model": "gm4:item/flippers"},
-
-                { "predicate": {"custom_model_data": 102}, "model": "gm4:item/metallurgy/shamir/levity/leather_boots"},
-                { "predicate": {"custom_model_data": 103}, "model": "gm4:item/metallurgy/shamir/helios/leather_boots"},
-                { "predicate": {"custom_model_data": 106}, "model": "gm4:item/metallurgy/shamir/defuse/leather_boots"}
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/boots_of_ostara"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/flippers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "gm4:item/metallurgy/shamir/levity/leather_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "gm4:item/metallurgy/shamir/helios/leather_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/metallurgy/shamir/defuse/leather_boots"
+        }
     ]
 }

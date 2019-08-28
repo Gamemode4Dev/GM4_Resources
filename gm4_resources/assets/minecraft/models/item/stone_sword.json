@@ -4,9 +4,29 @@
         "layer0": "item/wooden_sword"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 104}, "model": "gm4:item/metallurgy/shamir/conduction/stone_sword"},
-                { "predicate": {"custom_model_data": 105}, "model": "gm4:item/metallurgy/shamir/ender_bolt/stone_sword"},
-                { "predicate": {"custom_model_data": 108}, "model": "gm4:item/metallurgy/shamir/musical/stone_sword"},
-                { "predicate": {"custom_model_data": 110}, "model": "gm4:item/metallurgy/shamir/hypexperia/stone_sword"}
+        {
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "gm4:item/metallurgy/shamir/conduction/stone_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "gm4:item/metallurgy/shamir/ender_bolt/stone_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "gm4:item/metallurgy/shamir/musical/stone_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "gm4:item/metallurgy/shamir/hypexperia/stone_sword"
+        }
     ]
 }

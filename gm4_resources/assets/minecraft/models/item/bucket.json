@@ -4,6 +4,11 @@
         "layer0": "item/bucket"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 100}, "model": "gm4:item/metallurgy/shamir/spiraculum/bucket"}
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "gm4:item/metallurgy/shamir/spiraculum/bucket"
+        }
     ]
 }

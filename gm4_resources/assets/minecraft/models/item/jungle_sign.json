@@ -4,7 +4,17 @@
         "layer0": "item/jungle_sign"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 1}, "model": "gm4:item/trapped_jungle_sign"},
-                { "predicate": {"custom_model_data": 2}, "model": "gm4:item/secret_trapped_jungle_sign"}
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/trapped_jungle_sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/secret_trapped_jungle_sign"
+        }
     ]
 }

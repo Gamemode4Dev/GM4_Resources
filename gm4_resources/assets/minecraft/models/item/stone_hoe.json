@@ -4,6 +4,11 @@
         "layer0": "item/stone_hoe"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 109}, "model": "gm4:item/metallurgy/shamir/gemini/stone_hoe"}
+        {
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "gm4:item/metallurgy/shamir/gemini/stone_hoe"
+        }
     ]
 }

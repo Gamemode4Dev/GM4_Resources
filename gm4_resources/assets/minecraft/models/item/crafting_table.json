@@ -1,7 +1,23 @@
 {
     "parent": "block/crafting_table",
     "overrides": [
-                { "predicate": {"custom_model_data": 1}, "model": "gm4:block/custom_crafter"},
-                { "predicate": {"custom_model_data": 2}, "model": "gm4:item/slightly_damaged_workbench"}
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:block/custom_crafter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/slightly_damaged_workbench"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:gui/advancements/icon/custom_crafters"
+        }
     ]
 }
