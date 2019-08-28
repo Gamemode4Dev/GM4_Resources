@@ -1,0 +1,11 @@
+{
+    "parent": "block/command_block",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/root"
+        }
+    ]
+}

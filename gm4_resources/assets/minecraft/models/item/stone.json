@@ -1,0 +1,11 @@
+{
+    "parent": "block/stone",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/template_pack"
+        }
+    ]
+}
