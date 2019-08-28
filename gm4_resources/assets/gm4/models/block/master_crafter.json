@@ -1,3 +1,9 @@
 {
-    "parent": "block/piston_inventory"
+    "parent": "gm4:block/cube",
+    "textures": {
+        "side": "gm4:block/master_crafter_side",
+        "top": "gm4:block/master_crafter_top",
+        "front": "gm4:block/master_crafter_side",
+        "bottom": "gm4:block/master_crafter_bottom"
+    }
 }
