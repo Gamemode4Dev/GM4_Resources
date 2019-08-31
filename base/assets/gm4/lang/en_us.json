@@ -17,11 +17,11 @@
 
     "text.gm4.xp_storage.stored_experience": "Stored Experience: ",
     "text.gm4.xp_storage.stored_experience.points": "%s Points",
+    "text.gm4.block_compressors.compressed": "Compressed *%s",
 
     "item.gm4.bat_leather": "Bat Leather",
     "item.gm4.bat_leather.lore.1": "Would make for a very strange,",
     "item.gm4.bat_leather.lore.2": "very tiny jacket",
-    "item.gm4.block_compressors.compressed": "Compressed *%s",
     "item.gm4.boots_of_ostara": "Boots of Ostara",
     "item.gm4.boots_of_ostara.lore": "Brings Abundance Beneath You!",
     "item.gm4.enchanted_prismarine_shard": "Enchanted Prismarine Shard",

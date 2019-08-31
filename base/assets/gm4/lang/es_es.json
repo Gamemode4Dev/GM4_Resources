@@ -14,6 +14,7 @@
 
     "text.gm4.xp_storage.stored_experience": "Experiencia almacenada: ",
     "text.gm4.xp_storage.stored_experience.points": "%s puntos",
+    "text.gm4.block_compressors.compressed": "%s Comprimido",
 
     "item.gm4.shamir": "%s Shamir",
     "item.gm4.conduction_shamir": "Conducción",
@@ -31,7 +32,6 @@
     "item.gm4.bat_leather": "Cuero de Murciélago",
     "item.gm4.bat_leather.lore.1": "Esto podría ser util para hacer",
     "item.gm4.bat_leather.lore.2": "una chaqueta muy rara y muy pequeña...",
-    "item.gm4.block_compressors.compressed": "%s Comprimido",
     "item.gm4.boots_of_ostara": "Botas de Ostara",
     "item.gm4.boots_of_ostara.lore": "¡Te da mucha abundancia en ti!",
     "item.gm4.enchanted_prismarine_shard": "Cristal de Prismarina Encantada",
