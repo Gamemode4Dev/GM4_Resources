@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "item/handheld",
     "textures": {
-        "layer0": "item/diamond_helmet"
+        "layer0": "item/diamond_hoe"
     },
     "overrides": [
         {
