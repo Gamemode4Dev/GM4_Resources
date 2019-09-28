@@ -15,7 +15,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:advancements/icon/potion_liquids"
+            "model": "gm4:gui/advancements/icon/potion_liquids"
         }
     ]
 }
