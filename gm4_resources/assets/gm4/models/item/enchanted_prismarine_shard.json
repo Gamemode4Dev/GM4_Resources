@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/prismarine_shard"
+        "layer0": "gm4:item/enchanted_prismarine_shard"
     }
 }
