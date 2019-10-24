@@ -1,6 +1,5 @@
 {
     "lang.gm4.test": "GM4 מבחן שפה",
-    "lang.gm4.test.en.regional": "צבע",
     
     "text.gm4.modules.init": "ברוך הבא ל Gamemode 4.אתחול.",
     "text.gm4.modules.outdated": "חלק מהמודולים שלך מיושנים: %s",
