@@ -6,15 +6,9 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 103
+                "custom_model_data": 109
             },
-            "model": "gm4:item/metallurgy/shamir/helios/diamond_hoe"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 106
-            },
-            "model": "gm4:item/metallurgy/shamir/defuse/diamond_hoe"
+            "model": "gm4:item/metallurgy/shamir/gemini/diamond_hoe"
         }
     ]
 }
