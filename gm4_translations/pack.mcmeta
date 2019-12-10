@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 4,
+    "pack_format": 5,
     "description": "§bOptional Translations for GM4\n§81.14+"
   },
   "module_name": "Translations",
