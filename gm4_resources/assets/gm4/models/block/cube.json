@@ -32,7 +32,7 @@
                     ]
                 },
                 "south": {
-                    "texture": "#side",
+                    "texture": "#front",
                     "uv": [
                         0.0,
                         0.0,
