@@ -139,6 +139,12 @@
                 "custom_model_data": 26
             },
             "model": "gm4:block/hot_sand_ring_metal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "gm4:item/relocator"
         }
     ]
 }

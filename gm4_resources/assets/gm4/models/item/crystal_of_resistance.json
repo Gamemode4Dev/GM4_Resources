@@ -2,5 +2,10 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "gm4:item/crystal_of_resistance"
+    },
+    "display": {
+        "firstperson_lefthand": {
+            "scale": [0, 0, 0]
+        }
     }
 }
