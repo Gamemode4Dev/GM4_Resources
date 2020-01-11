@@ -6,6 +6,19 @@
                 "custom_model_data": 1
             },
             "model": "gm4:gui/advancements/icon/undead_players"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/zombie_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/zombie_head"
         }
     ]
 }

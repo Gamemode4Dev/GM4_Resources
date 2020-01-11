@@ -1,21 +1,21 @@
 {
-    "parent":"item/generated",
-    "textures":{
-        "layer0":"item/leather_helmet",
-        "layer1":"item/leather_helmet_overlay"
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_helmet",
+        "layer1": "item/leather_helmet_overlay"
     },
-    "overrides":[
+    "overrides": [
         {
-            "predicate":{
-                "custom_model_data":103
+            "predicate": {
+                "custom_model_data": 103
             },
-            "model":"gm4:item/metallurgy/shamir/helios/leather_helmet"
+            "model": "gm4:item/metallurgy/shamir/helios/leather_helmet"
         },
         {
-            "predicate":{
-                "custom_model_data":106
+            "predicate": {
+                "custom_model_data": 106
             },
-            "model":"gm4:item/metallurgy/shamir/defuse/leather_helmet"
+            "model": "gm4:item/metallurgy/shamir/defuse/leather_helmet"
         }
     ]
 }

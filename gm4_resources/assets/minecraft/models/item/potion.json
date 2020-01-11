@@ -16,6 +16,12 @@
                 "custom_model_data": 2
             },
             "model": "gm4:gui/advancements/icon/potion_liquids"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:gui/advancements/icon/ambrosia_bottled_honey"
         }
     ]
 }

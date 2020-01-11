@@ -6,6 +6,19 @@
                 "custom_model_data": 1
             },
             "model": "gm4:block/master_crafter"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/piston"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/piston"
         }
     ]
 }

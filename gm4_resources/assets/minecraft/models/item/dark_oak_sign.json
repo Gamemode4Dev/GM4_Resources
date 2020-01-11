@@ -15,6 +15,19 @@
                 "custom_model_data": 2
             },
             "model": "gm4:item/secret_trapped_dark_oak_sign"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/dark_oak_sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/dark_oak_sign"
         }
     ]
 }
