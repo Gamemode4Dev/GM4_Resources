@@ -9,6 +9,19 @@
                 "custom_model_data": 1
             },
             "model": "gm4:item/lightning_rod"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/blaze_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/blaze_rod"
         }
     ]
 }

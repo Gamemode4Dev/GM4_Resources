@@ -202,11 +202,25 @@
             },
             "model": "item/compass"
         },
+
         {
             "predicate": {
                 "custom_model_data": 101
             },
             "model": "gm4:item/metallurgy/shamir/sensus/compass"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/compass"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/compass"
         }
     ]
 }

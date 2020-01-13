@@ -9,6 +9,19 @@
                 "custom_model_data": 1
             },
             "model": "gm4:gui/advancements/icon/standard_liquids"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/experience_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/experience_bottle"
         }
     ]
 }
