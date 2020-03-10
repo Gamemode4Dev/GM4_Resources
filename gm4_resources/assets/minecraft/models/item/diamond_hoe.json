@@ -4,6 +4,11 @@
         "layer0": "item/diamond_hoe"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 109}, "model": "gm4:item/metallurgy/shamir/gemini/diamond_hoe"}
+        {
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "gm4:item/metallurgy/shamir/gemini/diamond_hoe"
+        }
     ]
 }

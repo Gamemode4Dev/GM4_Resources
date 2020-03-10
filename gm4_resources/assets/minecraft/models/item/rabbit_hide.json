@@ -4,6 +4,24 @@
         "layer0": "item/rabbit_hide"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 1}, "model": "gm4:item/bat_leather"}
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/bat_leather"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/rabbit_hide"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/rabbit_hide"
+        }
     ]
 }

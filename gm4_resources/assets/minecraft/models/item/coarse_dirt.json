@@ -1,0 +1,24 @@
+{
+    "parent": "block/coarse_dirt",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/desire_lines_10000"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/coarse_dirt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/coarse_dirt"
+        }
+    ]
+}

@@ -4,6 +4,24 @@
         "layer0": "item/phantom_membrane"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 1}, "model": "gm4:item/bat_droppings"}
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/bat_droppings"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/phantom_membrane"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/phantom_membrane"
+        }
     ]
 }

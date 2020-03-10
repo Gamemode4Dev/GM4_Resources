@@ -1,0 +1,163 @@
+{
+    "parent": "item/template_skull",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:block/block_compressor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:block/ender_hopper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:gui/advancements/icon/enderman_support_class"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "gm4:gui/advancements/icon/heart_canisters_tier_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "gm4:gui/advancements/icon/heart_canisters_tier_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "gm4:gui/advancements/icon/heart_canisters_max"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "gm4:item/heart_canister_tier_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "gm4:item/heart_canister_tier_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "gm4:item/scuba_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/crystal_of_resistance"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/crystal_of_fire_resistance"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gm4:item/crystal_of_speed"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gm4:item/crystal_of_regeneration"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gm4:item/enderpuff"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "gm4:item/malachite_lump"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "gm4:item/baryte_lump"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "gm4:item/thorianite_lump"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "gm4:item/bauxite_lump"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "gm4:item/mundane_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "gm4:block/cool_sand_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "gm4:block/hot_sand_ring"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "gm4:block/cool_sand_ring_metal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "gm4:block/hot_sand_ring_metal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "gm4:item/relocator"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/player_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/player_head"
+        }
+    ]
+}

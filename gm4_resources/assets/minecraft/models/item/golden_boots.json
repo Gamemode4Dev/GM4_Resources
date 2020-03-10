@@ -4,10 +4,35 @@
         "layer0": "item/golden_boots"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 1}, "model": "gm4:item/waders"},
-
-                { "predicate": {"custom_model_data": 102}, "model": "gm4:item/metallurgy/shamir/levity/golden_boots"},
-                { "predicate": {"custom_model_data": 103}, "model": "gm4:item/metallurgy/shamir/helios/golden_boots"},
-                { "predicate": {"custom_model_data": 106}, "model": "gm4:item/metallurgy/shamir/defuse/golden_boots"}
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/waders"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/zauber_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "gm4:item/metallurgy/shamir/levity/golden_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "gm4:item/metallurgy/shamir/helios/golden_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/metallurgy/shamir/defuse/golden_boots"
+        }
     ]
 }

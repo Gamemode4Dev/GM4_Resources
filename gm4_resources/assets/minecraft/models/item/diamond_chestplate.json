@@ -4,7 +4,17 @@
         "layer0": "item/diamond_chestplate"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 103}, "model": "gm4:item/metallurgy/shamir/helios/diamond_chestplate"},
-                { "predicate": {"custom_model_data": 106}, "model": "gm4:item/metallurgy/shamir/defuse/diamond_chestplate"}
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "gm4:item/metallurgy/shamir/helios/diamond_chestplate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/metallurgy/shamir/defuse/diamond_chestplate"
+        }
     ]
 }

@@ -15,6 +15,7 @@
 
     "text.gm4.xp_storage.stored_experience": "St'r'd Exp'rience:",
     "text.gm4.xp_storage.stored_experience.points": "%s Points",
+    "text.gm4.block_compressors.compressed": "Compress'd *%s",
 
     "item.gm4.shamir": "%s Shamir",
     "item.gm4.conduction_shamir": "Conduction",
@@ -32,7 +33,6 @@
     "item.gm4.bat_leather": "Bateth Leath'r",
     "item.gm4.bat_leather.lore.1": "Wouldst maketh f'r a v'ry strange,",
     "item.gm4.bat_leather.lore.2": "v'ry tiny doublet",
-    "item.gm4.block_compressors.compressed": "Compress'd *%s",
     "item.gm4.boots_of_ostara": "Boots of Eden",
     "item.gm4.boots_of_ostara.lore": "Bringeth abundance beneath thee!",
     "item.gm4.enchanted_prismarine_shard": "Enchant'd E'rie shard",

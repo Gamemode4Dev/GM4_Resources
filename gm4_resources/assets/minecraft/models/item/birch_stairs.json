@@ -1,0 +1,24 @@
+{
+    "parent": "block/birch_stairs",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/chairs_creation"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/birch_stairs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/birch_stairs"
+        }
+    ]
+}

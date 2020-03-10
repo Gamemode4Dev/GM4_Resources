@@ -4,7 +4,17 @@
         "layer0": "item/diamond_shovel"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 110}, "model": "gm4:item/metallurgy/shamir/hypexperia/diamond_shovel"},
-                { "predicate": {"custom_model_data": 111}, "model": "gm4:item/metallurgy/shamir/tinker/diamond_shovel"}
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "gm4:item/metallurgy/shamir/hypexperia/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "gm4:item/metallurgy/shamir/tinker/diamond_shovel"
+        }
     ]
 }

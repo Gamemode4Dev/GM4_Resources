@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cauldron"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/zauber_cauldrons_create"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/cauldron"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/cauldron"
+        }
+    ]
+}
