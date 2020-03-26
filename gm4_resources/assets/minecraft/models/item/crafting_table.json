@@ -19,7 +19,7 @@
             },
             "model": "gm4:gui/advancements/icon/custom_crafters"
         },
-        
+
         {
             "predicate": {
                 "custom_model_data": 16
