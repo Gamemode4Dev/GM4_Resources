@@ -1,11 +1,14 @@
 {
   "pack": {
-    "pack_format": 4,
-    "description": "§bOptional Resources for GM4\n§81.14+"
+    "pack_format": 5,
+    "description": "§bOptional Resources for GM4\n§81.15+"
   },
   "module_name": "Resources",
   "module_id": "resources",
   "credits": {
-    
+    "Management": [
+      ["Andante", "https://twitter.com/Andantweets"],
+      ["Misode", "https://twitter.com/misode_"]
+    ]
   }
 }
