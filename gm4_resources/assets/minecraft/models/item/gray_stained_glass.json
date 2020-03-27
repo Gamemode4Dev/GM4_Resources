@@ -5,7 +5,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:block/blast_furnace"
+            "model": "gm4:block/smeltery"
         }
     ]
 }
