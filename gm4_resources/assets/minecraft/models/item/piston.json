@@ -7,6 +7,12 @@
             },
             "model": "gm4:block/master_crafter"
         },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:gui/advancements/icon/tunnel_bores"
+        },
         
         {
             "predicate": {
