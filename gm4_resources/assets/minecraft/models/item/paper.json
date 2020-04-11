@@ -1,30 +1,27 @@
 {
-    "parent": "block/piston_inventory",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
     "overrides": [
         {
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:block/master_crafter"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "gm4:gui/advancements/icon/tunnel_bores"
+            "model": "gm4:item/enchanted_page"
         },
         
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "item/piston"
+            "model": "item/paper"
         },
         {
             "predicate": {
                 "custom_model_data": 64
             },
-            "model": "item/piston"
+            "model": "item/paper"
         }
     ]
 }
