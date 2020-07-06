@@ -4,7 +4,17 @@
         "layer0": "item/chainmail_leggings"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 103}, "model": "gm4:item/metallurgy/shamir/helios/chainmail_leggings"},
-                { "predicate": {"custom_model_data": 106}, "model": "gm4:item/metallurgy/shamir/defuse/chainmail_leggings"}
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "gm4:item/metallurgy/shamir/helios/chainmail_leggings"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/metallurgy/shamir/defuse/chainmail_leggings"
+        }
     ]
 }

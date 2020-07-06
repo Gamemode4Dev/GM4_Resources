@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/hopper"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/liquid_tanks_create"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/hopper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/hopper"
+        }
+    ]
+}

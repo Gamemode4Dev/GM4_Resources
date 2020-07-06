@@ -4,7 +4,17 @@
         "layer0": "item/chainmail_chestplate"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 103}, "model": "gm4:item/metallurgy/shamir/helios/chainmail_chestplate"},
-                { "predicate": {"custom_model_data": 106}, "model": "gm4:item/metallurgy/shamir/defuse/chainmail_chestplate"}
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "gm4:item/metallurgy/shamir/helios/chainmail_chestplate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/metallurgy/shamir/defuse/chainmail_chestplate"
+        }
     ]
 }

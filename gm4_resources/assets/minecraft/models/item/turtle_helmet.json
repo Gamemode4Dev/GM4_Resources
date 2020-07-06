@@ -4,7 +4,17 @@
         "layer0": "item/turtle_helmet"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 103}, "model": "gm4:item/metallurgy/shamir/helios/turtle_helmet"},
-                { "predicate": {"custom_model_data": 106}, "model": "gm4:item/metallurgy/shamir/defuse/turtle_helmet"}
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "gm4:item/metallurgy/shamir/helios/turtle_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/metallurgy/shamir/defuse/turtle_helmet"
+        }
     ]
 }

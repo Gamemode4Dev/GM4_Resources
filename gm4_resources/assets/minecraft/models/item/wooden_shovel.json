@@ -4,7 +4,17 @@
         "layer0": "item/wooden_shovel"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 110}, "model": "gm4:item/metallurgy/shamir/hypexperia/wooden_shovel"},
-                { "predicate": {"custom_model_data": 111}, "model": "gm4:item/metallurgy/shamir/tinker/wooden_shovel"}
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "gm4:item/metallurgy/shamir/hypexperia/wooden_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "gm4:item/metallurgy/shamir/tinker/wooden_shovel"
+        }
     ]
 }

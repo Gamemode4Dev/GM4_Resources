@@ -4,7 +4,36 @@
         "layer0": "item/glass_bottle"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 1}, "model": "gm4:item/message_in_a_bottle"},
-                { "predicate": {"custom_model_data": 3}, "model": "gm4:item/magic_in_a_bottle"}
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/message_in_a_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:gui/advancements/icon/sunken_treasure"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/magic_in_a_bottle"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/glass_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/glass_bottle"
+        }
     ]
 }

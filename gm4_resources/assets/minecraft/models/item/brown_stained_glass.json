@@ -1,0 +1,24 @@
+{
+    "parent": "block/brown_stained_glass",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/soul_glass"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/brown_stained_glass"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/brown_stained_glass"
+        }
+    ]
+}

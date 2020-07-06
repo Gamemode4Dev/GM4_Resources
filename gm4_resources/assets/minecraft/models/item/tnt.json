@@ -1,6 +1,36 @@
 {
     "parent": "block/tnt",
     "overrides": [
-                { "predicate": {"custom_model_data": 1}, "model": "gm4:block/disassembler"}
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:block/disassembler"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:gui/advancements/icon/disassemblers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:gui/advancements/icon/tnt_landmines"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/tnt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/tnt"
+        }
     ]
 }

@@ -4,8 +4,23 @@
         "layer0": "item/diamond_pickaxe"
     },
     "overrides": [
-                { "predicate": {"custom_model_data": 107}, "model": "gm4:item/metallurgy/shamir/forterra/diamond_pickaxe"},
-                { "predicate": {"custom_model_data": 110}, "model": "gm4:item/metallurgy/shamir/hypexperia/diamond_pickaxe"},
-                { "predicate": {"custom_model_data": 111}, "model": "gm4:item/metallurgy/shamir/tinker/diamond_pickaxe"}
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "gm4:item/metallurgy/shamir/forterra/diamond_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "gm4:item/metallurgy/shamir/hypexperia/diamond_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "gm4:item/metallurgy/shamir/tinker/diamond_pickaxe"
+        }
     ]
 }

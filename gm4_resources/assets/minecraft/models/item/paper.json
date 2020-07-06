@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/enchanted_page"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/paper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/paper"
+        }
+    ]
+}
