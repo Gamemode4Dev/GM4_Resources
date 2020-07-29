@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "gm4:item/thorianite_lump"	
+        "layer0": "gm4:item/charred_shell"
     }
 }
