@@ -8,19 +8,31 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "gm4:item/metallurgy/shamir/forterra/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/copper/iron_pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/hypexperia/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/copper/iron_pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/metallurgy/shamir/tinker/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/iron_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_pickaxe"
         }
     ]
 }

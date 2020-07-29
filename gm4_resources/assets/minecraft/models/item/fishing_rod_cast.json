@@ -1,0 +1,14 @@
+{
+    "parent": "item/fishing_rod",
+    "textures": {
+        "layer0": "item/fishing_rod_cast"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/fishing_rod_cast"
+        }
+	]
+}

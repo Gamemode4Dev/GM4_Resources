@@ -8,19 +8,31 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "gm4:item/metallurgy/shamir/forterra/golden_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/copper/golden_pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/hypexperia/golden_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/copper/golden_pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/metallurgy/shamir/tinker/golden_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/golden_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/golden_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/golden_pickaxe"
         }
     ]
 }

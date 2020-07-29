@@ -1,20 +1,20 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/diamond_chestplate"
+        "layer0": "item/iron_chestplate"
     },
     "overrides": [
         {
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "gm4:item/metallurgy/shamir/aluminium/diamond_chestplate"
+            "model": "gm4:item/metallurgy/shamir/aluminium/iron_chestplate"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "gm4:item/metallurgy/shamir/aluminium/diamond_chestplate"
+            "model": "gm4:item/metallurgy/shamir/aluminium/iron_chestplate"
         }
     ]
 }

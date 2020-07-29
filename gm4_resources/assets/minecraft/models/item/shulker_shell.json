@@ -1,14 +1,14 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/bucket"
+        "layer0": "item/shulker_shell"
     },
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 100
+                "custom_model_data": 1
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/bucket"
+            "model": "gm4:item/charred_shell"
         }
     ]
 }

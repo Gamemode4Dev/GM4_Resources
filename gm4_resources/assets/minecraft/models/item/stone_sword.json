@@ -1,32 +1,38 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/wooden_sword"
+        "layer0": "item/stone_sword"
     },
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 104
+                "custom_model_data": 105
             },
-            "model": "gm4:item/metallurgy/shamir/conduction/stone_sword"
+            "model": "gm4:item/metallurgy/shamir/thorium/stone_sword"
         },
         {
             "predicate": {
-                "custom_model_data": 105
+                "custom_model_data": 106
             },
-            "model": "gm4:item/metallurgy/shamir/ender_bolt/stone_sword"
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "gm4:item/metallurgy/shamir/musical/stone_sword"
+            "model": "gm4:item/metallurgy/shamir/barimium/stone_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/hypexperia/stone_sword"
+            "model": "gm4:item/metallurgy/shamir/copper/stone_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/stone_sword"
         }
     ]
 }
