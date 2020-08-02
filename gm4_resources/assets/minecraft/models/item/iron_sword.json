@@ -18,12 +18,6 @@
         },
         {
             "predicate": {
-                "custom_model_data": 106
-            },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_sword"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 108
             },
             "model": "gm4:item/metallurgy/shamir/barimium/iron_sword"
@@ -39,6 +33,12 @@
                 "custom_model_data": 116
             },
             "model": "gm4:item/metallurgy/shamir/copper/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 117
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_sword"
         }
     ]
 }
