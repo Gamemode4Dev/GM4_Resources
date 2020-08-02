@@ -4,11 +4,23 @@
         "layer0": "item/stone_hoe"
     },
     "overrides": [
-        {
+         {
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "gm4:item/metallurgy/shamir/gemini/stone_hoe"
+            "model": "gm4:item/metallurgy/shamir/barimium/stone_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/stone_hoe"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/stone_hoe"
         }
     ]
 }

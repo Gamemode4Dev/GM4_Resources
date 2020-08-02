@@ -8,19 +8,19 @@
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "gm4:item/metallurgy/shamir/levity/iron_boots"
+            "model": "gm4:item/metallurgy/shamir/aluminium/iron_boots"
         },
         {
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "gm4:item/metallurgy/shamir/helios/iron_boots"
+            "model": "gm4:item/metallurgy/shamir/aluminium/iron_boots"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "gm4:item/metallurgy/shamir/defuse/iron_boots"
+            "model": "gm4:item/metallurgy/shamir/aluminium/iron_boots"
         }
     ]
 }

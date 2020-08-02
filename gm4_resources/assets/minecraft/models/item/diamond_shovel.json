@@ -8,13 +8,25 @@
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/hypexperia/diamond_shovel"
+            "model": "gm4:item/metallurgy/shamir/copper/diamond_shovel"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/metallurgy/shamir/tinker/diamond_shovel"
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_shovel"
         }
     ]
 }

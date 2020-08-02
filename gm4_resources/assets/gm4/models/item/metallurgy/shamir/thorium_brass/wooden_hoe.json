@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_hoe",
+		"layer1": "gm4:item/metallurgy/shamir/thorium_brass/hoe"
+    }
+}

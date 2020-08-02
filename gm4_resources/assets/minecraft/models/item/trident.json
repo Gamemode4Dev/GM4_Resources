@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/trident"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "gm4:item/metallurgy/shamir/barimium/trident"
+        }
+    ]
+}

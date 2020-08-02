@@ -85,7 +85,6 @@
             },
             "model": "gm4:item/enderpuff"
         },
-
         {
             "predicate": {
                 "custom_model_data": 18
@@ -103,7 +102,7 @@
                 "custom_model_data": 20
             },
             "model": "gm4:item/thorianite_lump"
-        },
+        },		
         {
             "predicate": {
                 "custom_model_data": 21
@@ -146,18 +145,107 @@
             },
             "model": "gm4:item/relocator"
         },
-        
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 100
             },
-            "model": "item/player_head"
+            "model": "gm4:item/thorium_brass_band"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 101
             },
-            "model": "item/player_head"
+            "model": "gm4:item/barium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "gm4:item/aluminium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "gm4:item/aluminium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "gm4:item/thorium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "gm4:item/thorium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/aluminium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "gm4:item/copper_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "gm4:item/barimium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "gm4:item/barimium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "gm4:item/copper_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "gm4:item/thorium_brass_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "gm4:item/barium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "gm4:item/aluminium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "gm4:item/thorium_brass_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 115
+            },
+            "model": "gm4:item/barimium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "gm4:item/copper_band"
         }
     ]
 }

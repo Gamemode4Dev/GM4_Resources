@@ -9,13 +9,13 @@
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "gm4:item/metallurgy/shamir/helios/leather_chestplate"
+            "model": "gm4:item/metallurgy/shamir/aluminium/leather_chestplate"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "gm4:item/metallurgy/shamir/defuse/leather_chestplate"
+            "model": "gm4:item/metallurgy/shamir/aluminium/leather_chestplate"
         }
     ]
 }

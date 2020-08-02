@@ -8,13 +8,13 @@
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "gm4:item/metallurgy/shamir/helios/chainmail_chestplate"
+            "model": "gm4:item/metallurgy/shamir/aluminium/chainmail_chestplate"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "gm4:item/metallurgy/shamir/defuse/chainmail_chestplate"
+            "model": "gm4:item/metallurgy/shamir/aluminium/chainmail_chestplate"
         }
     ]
 }

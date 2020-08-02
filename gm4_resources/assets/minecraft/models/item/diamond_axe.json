@@ -6,15 +6,33 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_axe"
+        },
+         {
+            "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/hypexperia/diamond_axe"
+            "model": "gm4:item/metallurgy/shamir/copper/diamond_axe"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/metallurgy/shamir/tinker/diamond_axe"
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "gm4:item/metallurgy/shamir/barium/diamond_axe"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/diamond_axe"
         }
     ]
 }

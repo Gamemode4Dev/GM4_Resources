@@ -8,13 +8,13 @@
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "gm4:item/metallurgy/shamir/helios/diamond_leggings"
+            "model": "gm4:item/metallurgy/shamir/aluminium/diamond_leggings"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "gm4:item/metallurgy/shamir/defuse/diamond_leggings"
+            "model": "gm4:item/metallurgy/shamir/aluminium/diamond_leggings"
         }
     ]
 }

@@ -9,13 +9,13 @@
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "gm4:item/metallurgy/shamir/helios/leather_helmet"
+            "model": "gm4:item/metallurgy/shamir/aluminium/leather_helmet"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "gm4:item/metallurgy/shamir/defuse/leather_helmet"
+            "model": "gm4:item/metallurgy/shamir/aluminium/leather_helmet"
         }
     ]
 }

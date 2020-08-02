@@ -1,7 +1,8 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "gm4:item/crystal_of_speed"
+        "layer0": "gm4:item/crystal",
+		"layer1": "gm4:item/crystal_of_speed"
     },
     "display": {
         "firstperson_lefthand": {

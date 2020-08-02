@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond_boots"
+    },
+    "overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/diamond_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/diamond_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/diamond_boots"
+        }
+    ]
+}
