@@ -14,13 +14,25 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:item/zauber_chestplate"
+            "model": "gm4:item/zauber_chestplate_health"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "gm4:gui/advancements/icon/zauber_cauldrons_full_armor"
+            "model": "gm4:item/zauber_chestplate_attack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "gm4:item/zauber_chestplate_speed"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "gm4:item/zauber_chestplate_knockback"
         },
         {
             "predicate": {

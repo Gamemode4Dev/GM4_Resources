@@ -165,6 +165,16 @@
                 "custom_model_data": 231
             },
             "model": "gm4:item/orb_of_ankou/shards/withering"
+        },        {
+            "predicate": {
+                "custom_model_data": 232
+            },
+            "model": "gm4:item/orb_of_ankou/shards/striding"
+        },        {
+            "predicate": {
+                "custom_model_data": 233
+            },
+            "model": "gm4:item/orb_of_ankou/shards/freezing"
         }
     ]
 }

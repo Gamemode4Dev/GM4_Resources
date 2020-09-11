@@ -8,7 +8,25 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:item/zauber_leggings"
+            "model": "gm4:item/zauber_leggings_health"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/zauber_leggings_attack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "gm4:item/zauber_leggings_speed"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "gm4:item/zauber_leggings_knockback"
         },
         {
             "predicate": {

@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/netherite_chestplate"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/netherite_chestplate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/netherite_chestplate"
+        }
+    ]
+}
