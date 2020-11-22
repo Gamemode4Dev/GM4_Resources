@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/acacia_sapling"
+  },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/custom_trees/basswood_sapling"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/custom_trees/swamp_tupelo_sapling"
+        }
+	]
+}

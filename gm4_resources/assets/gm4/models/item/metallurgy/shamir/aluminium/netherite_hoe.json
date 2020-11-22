@@ -1,0 +1,7 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_hoe",
+		"layer1": "gm4:item/metallurgy/shamir/aluminium/hoe"
+    }
+}

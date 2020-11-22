@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/dark_oak_sapling"
+  },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/custom_trees/black_locust_sapling"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/custom_trees/black_maple_sapling"
+        }
+	]
+}

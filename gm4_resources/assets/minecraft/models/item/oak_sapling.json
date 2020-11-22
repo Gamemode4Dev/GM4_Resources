@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/oak_sapling"
+  },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/custom_trees/elm_sapling"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/custom_trees/hawthorn_sapling"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/custom_trees/japanese_black_pine_sapling"
+        }
+	]
+}
