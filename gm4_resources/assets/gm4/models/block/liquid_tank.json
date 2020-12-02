@@ -4,24 +4,5 @@
 		"top": "gm4:block/liquid_tank_top",
 		"bottom": "gm4:block/liquid_tank_top",
 		"side": "gm4:block/liquid_tank_side"
-	},
-	"display": {
-        "head": {
-            "translation": [
-                0,
-                1.437,
-                0
-            ],
-            "scale": [
-                1.147,
-                1.147,
-                1.147
-            ],
-            "rotation": [
-                0,
-                0,
-                0
-            ]
-        }
-    }
+	}
 }

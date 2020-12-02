@@ -4,24 +4,5 @@
 		"top": "gm4:block/chorus_fruit_display_top",
 		"side": "gm4:block/chorus_fruit_display_side",
 		"bottom": "gm4:block/chorus_fruit_display_bottom"
-	},
-	"display": {
-        "head": {
-            "translation": [
-                0,
-                -2.27,
-                0
-            ],
-            "scale": [
-                1.147,
-                1.147,
-                1.147
-            ],
-            "rotation": [
-                0,
-                0,
-                0
-            ]
-        }
-    }
+	}
 }

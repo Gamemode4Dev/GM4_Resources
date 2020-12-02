@@ -12,5 +12,24 @@
 				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
 			}
 		}
-	]
+	],
+	"display": {
+        "head": {
+            "translation": [
+                0,
+                1.437,
+                0
+            ],
+            "scale": [
+                1.147,
+                1.147,
+                1.147
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        }
+    }	
 }
