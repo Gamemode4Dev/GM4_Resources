@@ -1,30 +1,23 @@
 {
-    "parent": "block/iron_ore",
+    "parent": "block/sand",
     "overrides": [
         {
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/metallurgy_blast_ore"
+            "model": "gm4:block/sand_display"
         },
-		{
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "gm4:block/iron_ore_display"
-        },
-        
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "item/iron_ore"
+            "model": "item/sand"
         },
         {
             "predicate": {
                 "custom_model_data": 64
             },
-            "model": "item/iron_ore"
+            "model": "item/sand"
         }
     ]
 }
