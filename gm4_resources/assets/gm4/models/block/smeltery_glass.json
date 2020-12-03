@@ -3,6 +3,6 @@
 	"textures": {
 		"top": "gm4:block/smeltery_glass_top",
 		"side": "gm4:block/smeltery_glass_side",
-		"bottom": "gm4:block/smeltery_glass_bottom"
+		"bottom": "gm4:block/smeltery_glass_top"
 	}
 }
