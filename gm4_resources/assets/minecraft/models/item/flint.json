@@ -6,6 +6,12 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/orb_of_ankou_soul_shard"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 200
             },
             "model": "gm4:item/orb_of_ankou/shards/aggressive"
