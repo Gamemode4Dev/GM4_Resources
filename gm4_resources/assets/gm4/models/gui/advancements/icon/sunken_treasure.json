@@ -1,3 +1,6 @@
 {
-    "parent": "item/glass_bottle"
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gm4:item/message_in_a_bottle"
+    }
 }
