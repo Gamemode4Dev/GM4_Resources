@@ -36,6 +36,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "gm4:gui/advancements/icon/zauber_cauldrons_full_armor"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 103
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/golden_chestplate"

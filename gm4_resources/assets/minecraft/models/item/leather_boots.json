@@ -19,6 +19,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:gui/advancements/icon/boots_of_ostara"
+        },		
+        {
+            "predicate": {
                 "custom_model_data": 102
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/leather_boots"

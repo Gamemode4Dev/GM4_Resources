@@ -22,6 +22,12 @@
             },
             "model": "gm4:item/magic_in_a_bottle"
         },
+		{
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "gm4:gui/advancements/icon/zauber_cauldrons_drink_multi_use_bottle"
+        },
         
         {
             "predicate": {
