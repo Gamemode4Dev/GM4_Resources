@@ -87,6 +87,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "gm4:gui/advancements/icon/tinkering_compressor"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 18
             },
             "model": "gm4:item/malachite_lump"
@@ -198,6 +204,30 @@
                 "custom_model_data": 36
             },
             "model": "gm4:item/relocator_tinkering_compressor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "gm4:gui/advancements/icon/relocator"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "gm4:gui/advancements/icon/scuba_gear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "gm4:gui/advancements/icon/metallurgy_blast_ore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "gm4:gui/advancements/icon/metallurgy_cast"
         },
         {
             "predicate": {
