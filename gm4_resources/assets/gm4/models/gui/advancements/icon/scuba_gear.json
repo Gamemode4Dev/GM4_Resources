@@ -1,3 +1,6 @@
 {
-    "parent": "item/horn_coral"
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gm4:item/scuba_helmet"	
+    }
 }
