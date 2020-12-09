@@ -219,6 +219,54 @@
         },
         {
             "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "gm4:item/tnt_landmine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "gm4:item/tnt_landmine_grass"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "gm4:item/tnt_landmine_dirt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "gm4:item/tnt_landmine_stone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "gm4:item/tnt_landmine_stone_bricks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "gm4:item/tnt_landmine_crafting_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "gm4:item/tnt_landmine_netherrack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "gm4:item/tnt_landmine_invisible"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 48
             },
             "model": "gm4:gui/advancements/icon/scuba_gear"

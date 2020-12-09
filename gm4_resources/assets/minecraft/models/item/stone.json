@@ -7,12 +7,17 @@
             },
             "model": "gm4:gui/advancements/icon/template_pack"
         },
-        
         {
             "predicate": {
                 "custom_model_data": 16
             },
             "model": "item/stone"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "gm4:entity/tnt_landmines/tnt_landmine_stone"
         },
         {
             "predicate": {

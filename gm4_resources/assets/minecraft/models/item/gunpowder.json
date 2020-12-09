@@ -10,6 +10,12 @@
             },
             "model": "gm4:gui/advancements/icon/bat_grenades"
         },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/soft_defuser"
+        },
         
         {
             "predicate": {
