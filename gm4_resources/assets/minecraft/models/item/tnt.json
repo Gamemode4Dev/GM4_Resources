@@ -26,6 +26,12 @@
             },
             "model": "item/tnt"
         },
+		{
+            "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "gm4:entity/tnt_landmines/tnt_landmine"
+        },
         {
             "predicate": {
                 "custom_model_data": 64
