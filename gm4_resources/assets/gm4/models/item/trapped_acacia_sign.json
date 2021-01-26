@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/acacia_sign"
+        "layer0": "gm4:item/trapped_acacia_sign"
     }
 }
