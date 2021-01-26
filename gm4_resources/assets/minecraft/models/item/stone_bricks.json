@@ -1,0 +1,23 @@
+{
+    "parent": "block/stone_bricks",
+    "overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/stone_bricks"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "gm4:entity/tnt_landmines/tnt_landmine_stone_bricks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/stone_bricks"
+        }
+    ]
+}

@@ -19,12 +19,17 @@
             },
             "model": "gm4:gui/advancements/icon/custom_crafters"
         },
-        
         {
             "predicate": {
                 "custom_model_data": 16
             },
             "model": "item/crafting_table"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "gm4:entity/tnt_landmines/tnt_landmine_crafting_table"
         },
         {
             "predicate": {
