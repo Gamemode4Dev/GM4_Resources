@@ -36,6 +36,30 @@
         },
         {
             "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/golden_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "gm4:item/sky_dimension/golden_boots_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_explore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "item/golden_boots"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 102
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/golden_boots"
@@ -45,6 +69,12 @@
                 "custom_model_data": 103
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/golden_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "item/golden_boots"
         },
         {
             "predicate": {

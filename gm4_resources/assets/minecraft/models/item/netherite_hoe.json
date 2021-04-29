@@ -4,11 +4,29 @@
         "layer0": "item/netherite_hoe"
     },
     "overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "gm4:item/sky_dimension/netherite_hoe_20"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "item/netherite_hoe"
+        },
         {
             "predicate": {
                 "custom_model_data": 109
             },
             "model": "gm4:item/metallurgy/shamir/barimium/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "item/netherite_hoe"
         },
         {
             "predicate": {
@@ -18,9 +36,21 @@
         },
         {
             "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "item/netherite_hoe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 113
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "item/netherite_hoe"
         }
     ]
 }

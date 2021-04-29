@@ -10,7 +10,12 @@
             },
             "model": "gm4:item/enchanted_page"
         },
-        
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/paper"
+        },
         {
             "predicate": {
                 "custom_model_data": 16

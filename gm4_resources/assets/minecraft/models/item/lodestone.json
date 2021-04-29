@@ -1,0 +1,29 @@
+{
+    "parent": "block/lodestone",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/teleportation_anchor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/lodestone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/lodestone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/lodestone"
+        }
+    ]
+}

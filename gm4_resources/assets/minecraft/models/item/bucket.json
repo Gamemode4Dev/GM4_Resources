@@ -6,9 +6,21 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/bucket"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gm4:item/metallurgy/shamir/thorium_brass/bucket"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "item/bucket"
         }
     ]
 }

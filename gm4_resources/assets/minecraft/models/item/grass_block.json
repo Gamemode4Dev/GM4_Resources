@@ -13,6 +13,12 @@
             },
             "model": "gm4:entity/tnt_landmines/tnt_landmine_grass"
         },
+		{
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "item/grass_block"
+        },
         {
             "predicate": {
                 "custom_model_data": 64

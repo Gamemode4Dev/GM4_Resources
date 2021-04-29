@@ -6,15 +6,15 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1
+                "custom_model_data": 16
             },
-            "model": "gm4:item/custom_trees/basswood_sapling"
+            "model": "item/acacia_sapling"
         },
         {
             "predicate": {
-                "custom_model_data": 2
+                "custom_model_data": 64
             },
-            "model": "gm4:item/custom_trees/swamp_tupelo_sapling"
+            "model": "item/acacia_sapling"
         }
 	]
 }

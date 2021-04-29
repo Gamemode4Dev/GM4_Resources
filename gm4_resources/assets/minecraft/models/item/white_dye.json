@@ -16,6 +16,18 @@
             },
             "model": "gm4:gui/advancements/icon/ambrosia_find_larvae"
         },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/sky_dimension/phantom_bait"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/white_dye"
+        },
         
         {
             "predicate": {

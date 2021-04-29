@@ -6,6 +6,72 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/end_fishing/armor/iron_boots_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/end_fishing/armor/iron_boots_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gm4:item/end_fishing/armor/iron_boots_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gm4:item/end_fishing/armor/iron_boots_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gm4:item/end_fishing/armor/iron_boots_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "gm4:item/end_fishing/armor/iron_boots_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "gm4:item/end_fishing/armor/iron_boots_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "gm4:item/end_fishing/armor/iron_boots_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "gm4:item/end_fishing/armor/iron_boots_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "gm4:item/end_fishing/armor/iron_boots_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "item/iron_boots"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 102
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/iron_boots"
@@ -18,9 +84,21 @@
         },
         {
             "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "item/iron_boots"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 106
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/iron_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "item/iron_boots"
         }
     ]
 }

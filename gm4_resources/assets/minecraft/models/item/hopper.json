@@ -10,7 +10,13 @@
             },
             "model": "gm4:gui/advancements/icon/liquid_tanks_create"
         },
-        
+           {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/hopper"
+        },
+		
         {
             "predicate": {
                 "custom_model_data": 16

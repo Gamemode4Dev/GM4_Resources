@@ -6,6 +6,132 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_25"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_26"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_27"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_28"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_29"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "item/iron_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 104
             },
             "model": "gm4:item/metallurgy/shamir/thorium/iron_sword"
@@ -18,15 +144,33 @@
         },
         {
             "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "item/iron_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 108
             },
             "model": "gm4:item/metallurgy/shamir/barimium/iron_sword"
         },
         {
             "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "item/iron_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 110
             },
             "model": "gm4:item/metallurgy/shamir/copper/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "item/iron_sword"
         },
         {
             "predicate": {
@@ -39,6 +183,12 @@
                 "custom_model_data": 117
             },
             "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "item/iron_sword"
         }
     ]
 }

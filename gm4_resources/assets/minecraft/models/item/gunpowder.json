@@ -16,6 +16,12 @@
             },
             "model": "gm4:item/soft_defuser"
         },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/gunpowder"
+        },
         
         {
             "predicate": {

@@ -4,6 +4,78 @@
         "layer0": "item/diamond_boots"
     },
     "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_boots_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_boots_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_boots_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_boots_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_boots_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_boots_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_boots_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_boots_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_boots_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_boots_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "gm4:item/sky_dimension/diamond_boots_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "item/diamond_boots"
+        },
 		{
             "predicate": {
                 "custom_model_data": 102
@@ -18,9 +90,21 @@
         },
         {
             "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "item/diamond_boots"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 106
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/diamond_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "item/diamond_boots"
         }
     ]
 }

@@ -7,6 +7,12 @@
             },
             "model": "gm4:gui/advancements/icon/soul_glass"
         },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/brown_stained_glass"
+        },
         
         {
             "predicate": {

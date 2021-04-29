@@ -12,9 +12,21 @@
         },
         {
             "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "item/turtle_helmet"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 106
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/turtle_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "item/turtle_helmet"
         }
     ]
 }

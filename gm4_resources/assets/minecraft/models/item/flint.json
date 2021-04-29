@@ -6,6 +6,30 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/orb_of_ankou_soul_shard"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/flint"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/flint"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/flint"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 200
             },
             "model": "gm4:item/orb_of_ankou/shards/aggressive"
@@ -175,6 +199,12 @@
                 "custom_model_data": 233
             },
             "model": "gm4:item/orb_of_ankou/shards/freezing"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234
+            },
+            "model": "item/flint"
         }
     ]
 }

@@ -10,7 +10,12 @@
             },
             "model": "gm4:gui/advancements/icon/phantom_scarecrows"
         },
-        
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/firework_rocket"
+        },     
         {
             "predicate": {
                 "custom_model_data": 16

@@ -1,0 +1,68 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/gold_ingot"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/metallurgy_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/gold_ingot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/end_fishing/ores/gold_ingot_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/end_fishing/ores/gold_ingot_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gm4:item/end_fishing/ores/gold_ingot_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gm4:item/end_fishing/ores/gold_ingot_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gm4:item/end_fishing/ores/gold_ingot_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "item/gold_ingot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/gold_ingot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/gold_ingot"
+        }
+    ]
+}

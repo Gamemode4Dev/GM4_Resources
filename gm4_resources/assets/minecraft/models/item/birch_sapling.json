@@ -6,9 +6,15 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1
+                "custom_model_data": 16
             },
-            "model": "gm4:item/custom_trees/aspen_sapling"
+            "model": "item/birch_sapling"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/birch_sapling"
         }
 	]
 }

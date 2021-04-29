@@ -9,6 +9,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/nether_gold_ore"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 16
             },
             "model": "item/nether_gold_ore"

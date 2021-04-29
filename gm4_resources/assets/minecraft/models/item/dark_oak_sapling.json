@@ -6,15 +6,15 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1
+                "custom_model_data": 16
             },
-            "model": "gm4:item/custom_trees/black_locust_sapling"
+            "model": "item/dark_oak_sapling"
         },
         {
             "predicate": {
-                "custom_model_data": 2
+                "custom_model_data": 64
             },
-            "model": "gm4:item/custom_trees/black_maple_sapling"
+            "model": "item/dark_oak_sapling"
         }
 	]
 }

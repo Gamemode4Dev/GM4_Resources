@@ -9,6 +9,12 @@
                 "custom_model_data": 1
             },
             "model": "gm4:gui/advancements/icon/crossbow_cartridges_fish"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/tropical_fish_bucket"
         }
     ]
 }

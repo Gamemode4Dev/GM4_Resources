@@ -1,0 +1,39 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/crimson_sign"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/trapped_crimson_sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/secret_trapped_crimson_sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/crimson_sign"
+        },
+		
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/crimson_sign"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/crimson_sign"
+        }
+    ]
+}

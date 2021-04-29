@@ -1,0 +1,29 @@
+{
+    "parent": "block/white_wool",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_reach_sky"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/white_wool"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/white_wool"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/white_wool"
+        }
+    ]
+}

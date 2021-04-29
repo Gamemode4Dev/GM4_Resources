@@ -1,0 +1,6 @@
+{
+    "parent": "item/nether_brick",
+	"textures": {
+        "layer0": "gm4:item/sky_dimension/netherite_damascus_billet"	
+    }
+}

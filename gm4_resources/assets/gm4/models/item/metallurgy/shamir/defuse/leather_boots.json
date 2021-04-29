@@ -1,8 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/leather_boots",
-        "layer1": "item/leather_boots_overlay",
-        "layer2": "gm4:item/metallurgy/shamir/defuse/boots"
-    }
-}

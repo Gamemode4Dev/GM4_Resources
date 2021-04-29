@@ -7,7 +7,13 @@
             },
             "model": "gm4:gui/advancements/icon/ambrosia_create_beehive"
         },
-
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/barrel"
+        },
+		
         {
             "predicate": {
                 "custom_model_data": 16

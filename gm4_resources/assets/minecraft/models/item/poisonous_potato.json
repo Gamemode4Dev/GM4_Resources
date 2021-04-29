@@ -10,7 +10,12 @@
             },
             "model": "gm4:gui/advancements/icon/chairs_sit"
         },
-        
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/poisonous_potato"
+        },      
         {
             "predicate": {
                 "custom_model_data": 16

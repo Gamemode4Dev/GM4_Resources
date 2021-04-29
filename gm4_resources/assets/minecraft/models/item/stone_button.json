@@ -30,6 +30,12 @@
                 "custom_model_data": 5
             },
             "model": "gm4:block/smeltery_45"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/stone_button"
         }
     ]
 }

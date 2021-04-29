@@ -4,6 +4,84 @@
         "layer0": "item/iron_chestplate"
     },
     "overrides": [
+	    {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/sky_dimension/iron_chestplate_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/iron_chestplate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/end_fishing/armor/iron_chestplate_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/end_fishing/armor/iron_chestplate_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gm4:item/end_fishing/armor/iron_chestplate_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gm4:item/end_fishing/armor/iron_chestplate_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gm4:item/end_fishing/armor/iron_chestplate_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "gm4:item/end_fishing/armor/iron_chestplate_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "gm4:item/end_fishing/armor/iron_chestplate_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "gm4:item/end_fishing/armor/iron_chestplate_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "gm4:item/end_fishing/armor/iron_chestplate_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "gm4:item/end_fishing/armor/iron_chestplate_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "item/iron_chestplate"
+        },
         {
             "predicate": {
                 "custom_model_data": 103
@@ -12,9 +90,21 @@
         },
         {
             "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "item/iron_chestplate"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 106
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/iron_chestplate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "item/iron_chestplate"
         }
     ]
 }

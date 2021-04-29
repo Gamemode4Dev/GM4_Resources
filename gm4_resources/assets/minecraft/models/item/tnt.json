@@ -17,9 +17,8 @@
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "gm4:gui/advancements/icon/tnt_landmines"
+            "model": "item/tnt"
         },
-        
         {
             "predicate": {
                 "custom_model_data": 16
@@ -31,6 +30,12 @@
                 "custom_model_data": 40
             },
             "model": "gm4:entity/tnt_landmines/tnt_landmine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "item/tnt"
         },
         {
             "predicate": {

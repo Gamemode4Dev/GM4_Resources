@@ -9,6 +9,13 @@
         },
         {
             "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/chorus_flower"
+        },		
+		
+        {
+            "predicate": {
                 "custom_model_data": 16
             },
             "model": "item/chorus_flower"

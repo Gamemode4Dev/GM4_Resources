@@ -131,25 +131,7 @@
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "gm4:block/cool_sand_ring"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 24
-            },
-            "model": "gm4:block/hot_sand_ring"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 25
-            },
-            "model": "gm4:block/cool_sand_ring_metal"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 26
-            },
-            "model": "gm4:block/hot_sand_ring_metal"
+            "model": "item/player_head"
         },
         {
             "predicate": {
@@ -214,6 +196,18 @@
         {
             "predicate": {
                 "custom_model_data": 37
+            },
+            "model": "gm4:item/relocator_teleportation_jammer"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "gm4:item/relocator_teleportation_anchor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 39
             },
             "model": "gm4:gui/advancements/icon/relocator"
         },
@@ -282,6 +276,24 @@
                 "custom_model_data": 50
             },
             "model": "gm4:gui/advancements/icon/metallurgy_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "gm4:item/sky_dimension/aetherpuff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_aetherpuff"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "item/player_head"
         },
         {
             "predicate": {
@@ -390,6 +402,18 @@
                 "custom_model_data": 116
             },
             "model": "gm4:item/copper_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 117
+            },
+            "model": "gm4:item/thorium_brass_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "item/player_head"
         }
     ]
 }

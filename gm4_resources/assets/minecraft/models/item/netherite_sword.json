@@ -6,9 +6,159 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_25"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_26"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_27"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_28"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "gm4:item/end_fishing/swords/netherite_sword_29"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "item/netherite_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "gm4:item/sky_dimension/netherite_sword_30"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "gm4:item/sky_dimension/netherite_sword_31"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "item/netherite_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 105
             },
             "model": "gm4:item/metallurgy/shamir/thorium/netherite_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "item/netherite_sword"
         },
         {
             "predicate": {
@@ -18,9 +168,21 @@
         },
         {
             "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "item/netherite_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 110
             },
             "model": "gm4:item/metallurgy/shamir/copper/netherite_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "item/netherite_sword"
         },
         {
             "predicate": {
@@ -33,6 +195,12 @@
                 "custom_model_data": 117
             },
             "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_sword"
-        }		
+        },
+        {
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "item/netherite_sword"
+        }
     ]
 }

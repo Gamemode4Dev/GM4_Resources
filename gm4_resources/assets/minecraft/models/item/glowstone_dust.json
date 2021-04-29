@@ -1,0 +1,39 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/glowstone_dust"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/sky_dimension/stardust"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_stardust"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/glowstone_dust"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/glowstone_dust"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/glowstone_dust"
+        }
+    ]
+}

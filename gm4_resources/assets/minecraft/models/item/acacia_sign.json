@@ -16,7 +16,12 @@
             },
             "model": "gm4:item/secret_trapped_acacia_sign"
         },
-
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/acacia_sign"
+        },
         {
             "predicate": {
                 "custom_model_data": 16

@@ -1,0 +1,29 @@
+{
+    "parent": "block/chiseled_quartz_block",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_enter_tower"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/chiseled_quartz_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/chiseled_quartz_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/chiseled_quartz_block"
+        }
+    ]
+}

@@ -13,7 +13,24 @@
             },
             "model": "gm4:gui/advancements/icon/tunnel_bores"
         },
-        
+		{
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:gui/advancements/icon/block_compressor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "gm4:gui/advancements/icon/tinkering_compressor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/piston"
+        },        
         {
             "predicate": {
                 "custom_model_data": 16
