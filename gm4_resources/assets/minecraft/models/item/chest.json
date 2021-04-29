@@ -10,6 +10,18 @@
             },
             "model": "gm4:item/treasure_chest"
         },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_loot_tower"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/chest"
+        },
         
         {
             "predicate": {

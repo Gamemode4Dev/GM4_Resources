@@ -6,6 +6,32 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/orb_of_ankou_soul_essence"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/black_dye"
+        },
+		
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/black_dye"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/black_dye"
+        },
+		
+        {
+            "predicate": {
                 "custom_model_data": 200
             },
             "model": "gm4:item/orb_of_ankou/essences/aggressive"
@@ -207,6 +233,12 @@
                 "custom_model_data": 233
             },
             "model": "gm4:item/orb_of_ankou/essences/freezing"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234
+            },
+            "model": "item/black_dye"
         }
     ]
 }

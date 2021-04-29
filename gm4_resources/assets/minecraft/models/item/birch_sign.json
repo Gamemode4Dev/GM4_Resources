@@ -16,7 +16,13 @@
             },
             "model": "gm4:item/secret_trapped_birch_sign"
         },
-
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/birch_sign"
+        },
+		
         {
             "predicate": {
                 "custom_model_data": 16

@@ -1,0 +1,30 @@
+{
+    "parent": "block/furnace",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/smeltery"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/crafting_table"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/crafting_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/crafting_table"
+        }
+    ]
+}

@@ -16,7 +16,12 @@
             },
             "model": "gm4:item/secret_trapped_jungle_sign"
         },
-
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/jungle_sign"
+        },
         {
             "predicate": {
                 "custom_model_data": 16

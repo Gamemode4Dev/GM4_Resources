@@ -30,9 +30,21 @@
         },
         {
             "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "item/golden_axe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 117
             },
             "model": "gm4:item/metallurgy/shamir/thorium_brass/golden_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "item/golden_axe"
         }
     ]
 }

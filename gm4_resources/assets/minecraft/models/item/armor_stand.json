@@ -16,7 +16,12 @@
             },
             "model": "gm4:gui/advancements/icon/poses_pack"
         },
-
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/armor_stand"
+        },
         {
             "predicate": {
                 "custom_model_data": 16

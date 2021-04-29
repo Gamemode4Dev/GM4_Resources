@@ -10,6 +10,12 @@
             },
             "model": "gm4:item/bat_leather"
         },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/rabbit_hide"
+        },
         
         {
             "predicate": {

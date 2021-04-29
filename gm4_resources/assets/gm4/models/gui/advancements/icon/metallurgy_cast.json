@@ -1,3 +1,6 @@
 {
-    "parent": "item/iron_ingot"
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gm4:item/aluminium_band"	
+    }
 }

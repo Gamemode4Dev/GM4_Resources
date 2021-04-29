@@ -1,0 +1,44 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond_horse_armor"
+    },
+    "overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/end_fishing/horse_armor/diamond_horse_armor_10"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/end_fishing/horse_armor/diamond_horse_armor_11"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gm4:item/end_fishing/horse_armor/diamond_horse_armor_12"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gm4:item/end_fishing/horse_armor/diamond_horse_armor_13"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gm4:item/end_fishing/horse_armor/diamond_horse_armor_14"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "item/diamond_horse_armor"
+        }
+    ]
+}

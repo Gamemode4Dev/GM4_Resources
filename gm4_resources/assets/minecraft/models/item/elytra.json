@@ -12,16 +12,94 @@
         },
 		{
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/orb_of_ankou_soaring_pneuma"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1,
+			    "broken": 1
+            },
+            "model": "gm4:gui/advancements/icon/end_fishing_phantom"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/elytra"
+        },		
+		{
+            "predicate": {
+				"broken": 1,
+                "custom_model_data": 2
+            },
+            "model": "item/broken_elytra"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/end_fishing/elytra/elytra_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10,
+                "broken": 1
+            },
+             "model": "gm4:item/end_fishing/elytra/broken_elytra_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/end_fishing/elytra/elytra_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11,
+                "broken": 1
+            },
+             "model": "gm4:item/end_fishing/elytra/broken_elytra_11"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "item/elytra"
+        },		
+		{
+            "predicate": {
+				"broken": 1,
+                "custom_model_data": 12
+            },
+            "model": "item/broken_elytra"
+        },
+		{
+            "predicate": {
                 "custom_model_data": 113
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/elytra"
-        },
+        },		
 		{
             "predicate": {
 				"broken": 1,
                 "custom_model_data": 113
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/broken_elytra"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "item/elytra"
+        },		
+		{
+            "predicate": {
+				"broken": 1,
+                "custom_model_data": 114
+            },
+            "model": "item/broken_elytra"
         }
     ]
 }

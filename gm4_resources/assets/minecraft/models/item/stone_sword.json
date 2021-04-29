@@ -12,15 +12,33 @@
         },
         {
             "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "item/stone_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 108
             },
             "model": "gm4:item/metallurgy/shamir/barimium/stone_sword"
         },
         {
             "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "item/stone_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 110
             },
             "model": "gm4:item/metallurgy/shamir/copper/stone_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "item/stone_sword"
         },
         {
             "predicate": {
@@ -33,6 +51,12 @@
                 "custom_model_data": 117
             },
             "model": "gm4:item/metallurgy/shamir/thorium_brass/stone_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "item/stone_sword"
         }
     ]
 }

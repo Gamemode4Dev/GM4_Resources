@@ -12,15 +12,33 @@
         },
         {
             "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "item/stone_hoe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 111
             },
             "model": "gm4:item/metallurgy/shamir/thorium_brass/stone_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "item/stone_hoe"
         },
 		{
             "predicate": {
                 "custom_model_data": 113
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/stone_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "item/stone_hoe"
         }
     ]
 }

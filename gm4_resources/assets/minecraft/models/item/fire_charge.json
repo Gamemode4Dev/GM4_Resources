@@ -1,0 +1,33 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/fire_charge"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_defeat_boss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/fire_charge"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/fire_charge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/fire_charge"
+        }
+    ]
+}

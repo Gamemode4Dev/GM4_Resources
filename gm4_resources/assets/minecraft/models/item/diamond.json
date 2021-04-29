@@ -1,0 +1,56 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/end_fishing/ores/diamond_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/end_fishing/ores/diamond_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gm4:item/end_fishing/ores/diamond_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gm4:item/end_fishing/ores/diamond_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gm4:item/end_fishing/ores/diamond_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "item/diamond"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/diamond"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/diamond"
+        }
+    ]
+}

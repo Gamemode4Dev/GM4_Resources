@@ -12,6 +12,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "item/stone_pickaxe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 110
             },
             "model": "gm4:item/metallurgy/shamir/copper/stone_pickaxe"
@@ -33,6 +39,12 @@
                 "custom_model_data": 114
             },
             "model": "gm4:item/metallurgy/shamir/thorium_brass/stone_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 115
+            },
+            "model": "item/stone_pickaxe"
         }
     ]
 }

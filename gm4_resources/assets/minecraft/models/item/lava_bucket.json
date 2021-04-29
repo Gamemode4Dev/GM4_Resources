@@ -9,6 +9,12 @@
                 "custom_model_data": 1
             },
             "model": "gm4:gui/advancements/icon/metallurgy_overheat_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/lava_bucket"
         }
     ]
 }

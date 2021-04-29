@@ -10,6 +10,18 @@
             },
             "model": "gm4:item/bat_droppings"
         },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_summon_boss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/phantom_membrane"
+        },
         
         {
             "predicate": {

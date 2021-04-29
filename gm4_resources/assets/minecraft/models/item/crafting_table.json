@@ -21,6 +21,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/crafting_table"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 16
             },
             "model": "item/crafting_table"
@@ -30,6 +36,12 @@
                 "custom_model_data": 45
             },
             "model": "gm4:entity/tnt_landmines/tnt_landmine_crafting_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "item/crafting_table"
         },
         {
             "predicate": {

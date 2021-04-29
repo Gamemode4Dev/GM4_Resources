@@ -10,6 +10,12 @@
             },
             "model": "gm4:gui/advancements/icon/zauber_cauldrons_create"
         },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/cauldron"
+        },
         
         {
             "predicate": {

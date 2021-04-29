@@ -13,7 +13,13 @@
             },
             "model": "gm4:block/iron_ore_display"
         },
-        
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/iron_ore"
+        },
+
         {
             "predicate": {
                 "custom_model_data": 16

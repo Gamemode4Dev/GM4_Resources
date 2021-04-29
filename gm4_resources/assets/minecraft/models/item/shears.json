@@ -6,9 +6,33 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/tnt_landmines"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/sky_dimension/shears_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/shears"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 113
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/shears"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "item/shears"
         }
     ]
 }

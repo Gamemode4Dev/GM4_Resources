@@ -10,6 +10,12 @@
             },
             "model": "gm4:item/enchanted_prismarine_shard"
         },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/prismarine_shard"
+        },
         
         {
             "predicate": {

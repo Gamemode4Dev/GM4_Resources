@@ -6,15 +6,99 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_leggings_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_leggings_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_leggings_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_leggings_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_leggings_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_leggings_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_leggings_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_leggings_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_leggings_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "gm4:item/end_fishing/armor/diamond_leggings_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "gm4:item/sky_dimension/diamond_leggings_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "item/diamond_leggings"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 103
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/diamond_leggings"
         },
         {
             "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "item/diamond_leggings"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 106
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/diamond_leggings"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "item/diamond_leggings"
         }
     ]
 }

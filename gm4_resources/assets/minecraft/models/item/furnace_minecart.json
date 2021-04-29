@@ -1,0 +1,33 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/furnace_minecart"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/piston_minecart"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/furnace_minecart"
+        },
+        
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/furnace_minecart"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/furnace_minecart"
+        }
+    ]
+}

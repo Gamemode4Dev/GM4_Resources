@@ -9,6 +9,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/gray_stained_glass"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 16
             },
             "model": "item/gray_stained_glass"
