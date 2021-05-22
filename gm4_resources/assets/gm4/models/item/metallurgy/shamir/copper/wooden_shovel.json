@@ -1,7 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/wooden_shovel",
-		"layer1": "gm4:item/metallurgy/shamir/copper/shovel"
+		"layer0": "gm4:item/metallurgy/shamir/copper/wooden_shovel"
     }
 }

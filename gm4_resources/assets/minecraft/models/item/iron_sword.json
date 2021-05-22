@@ -170,6 +170,12 @@
             "predicate": {
                 "custom_model_data": 111
             },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112
+            },
             "model": "item/iron_sword"
         },
         {

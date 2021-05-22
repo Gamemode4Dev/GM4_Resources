@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/golden_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "item/golden_pickaxe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 107
             },
             "model": "gm4:item/metallurgy/shamir/copper/golden_pickaxe"

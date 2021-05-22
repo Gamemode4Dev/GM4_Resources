@@ -36,6 +36,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/stone_axe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 117
             },
             "model": "gm4:item/metallurgy/shamir/thorium_brass/stone_axe"

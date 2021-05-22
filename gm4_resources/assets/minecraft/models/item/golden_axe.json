@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/golden_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "item/golden_axe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 110
             },
             "model": "gm4:item/metallurgy/shamir/copper/golden_axe"
@@ -33,6 +45,12 @@
                 "custom_model_data": 114
             },
             "model": "item/golden_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/golden_axe"
         },
         {
             "predicate": {

@@ -50,11 +50,17 @@
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "item/gold_ingot"
+            "model": "gm4:item/end_fishing/ores/gold_ingot_15"
         },
         {
             "predicate": {
                 "custom_model_data": 16
+            },
+            "model": "gm4:item/end_fishing/ores/gold_ingot_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
             },
             "model": "item/gold_ingot"
         },

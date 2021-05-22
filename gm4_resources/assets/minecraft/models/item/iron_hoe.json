@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/iron_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "item/iron_hoe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 109
             },
             "model": "gm4:item/metallurgy/shamir/barimium/iron_hoe"

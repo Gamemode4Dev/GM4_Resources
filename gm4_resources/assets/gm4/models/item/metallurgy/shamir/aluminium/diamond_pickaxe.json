@@ -1,7 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/diamond_pickaxe",
-		"layer1": "gm4:item/metallurgy/shamir/aluminium/pickaxe"
+		"layer0": "gm4:item/metallurgy/shamir/aluminium/diamond_pickaxe"
     }
 }

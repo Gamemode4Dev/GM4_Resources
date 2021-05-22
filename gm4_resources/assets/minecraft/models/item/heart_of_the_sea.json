@@ -1,0 +1,32 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/heart_of_the_sea"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/crystal_orb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/heart_of_the_sea"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "item/heart_of_the_sea"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "item/heart_of_the_sea"
+        }
+    ]
+}

@@ -33,6 +33,18 @@
                 "custom_model_data": 107
             },
             "model": "item/chainmail_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/chainmail_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 119
+            },
+            "model": "item/chainmail_boots"
         }
     ]
 }

@@ -1,7 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/golden_hoe",
-		"layer1": "gm4:item/metallurgy/shamir/barimium/hoe"
+		"layer0": "gm4:item/metallurgy/shamir/barimium/golden_hoe"
     }
 }

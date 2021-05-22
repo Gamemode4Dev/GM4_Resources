@@ -1,7 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/chainmail_leggings",
-		"layer1": "gm4:item/metallurgy/shamir/aluminium/leggings"
+		"layer0": "gm4:item/metallurgy/shamir/aluminium/chainmail_leggings"
     }
 }

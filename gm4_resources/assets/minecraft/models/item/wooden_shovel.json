@@ -8,13 +8,13 @@
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/wooden_shovel"
+            "model": "gm4:item/metallurgy/shamir/copper/wooden_shovel"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/metallurgy/shamir/copper/wooden_shovel"
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/wooden_shovel"
         },
         {
             "predicate": {

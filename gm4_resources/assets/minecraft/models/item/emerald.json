@@ -38,11 +38,17 @@
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "item/emerald"
+            "model": "gm4:item/end_fishing/ores/emerald_15"
         },
         {
             "predicate": {
                 "custom_model_data": 16
+            },
+            "model": "gm4:item/end_fishing/ores/emerald_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
             },
             "model": "item/emerald"
         },

@@ -1,7 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/iron_chestplate",
-		"layer1": "gm4:item/metallurgy/shamir/aluminium/chestplate"
+		"layer0": "gm4:item/metallurgy/shamir/aluminium/iron_chestplate"
     }
 }

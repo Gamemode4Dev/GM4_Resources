@@ -1,7 +1,6 @@
 {
     "parent": "item/handheld_rod",
     "textures": {
-        "layer0": "item/fishing_rod",
-		"layer1": "gm4:item/metallurgy/shamir/copper/fishing_rod"
+		"layer0": "gm4:item/metallurgy/shamir/copper/fishing_rod"
     }
 }

@@ -1,7 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/stone_axe",
-		"layer1": "gm4:item/metallurgy/shamir/thorium_brass/axe"
+		"layer0": "gm4:item/metallurgy/shamir/thorium_brass/stone_axe"
     }
 }

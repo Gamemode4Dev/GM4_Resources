@@ -1,7 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/netherite_shovel",
-		"layer1": "gm4:item/metallurgy/shamir/thorium_brass/shovel"
+		"layer0": "gm4:item/metallurgy/shamir/thorium_brass/netherite_shovel"
     }
 }

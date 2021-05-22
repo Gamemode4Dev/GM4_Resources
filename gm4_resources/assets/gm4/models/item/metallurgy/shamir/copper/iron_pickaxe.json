@@ -1,7 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/iron_pickaxe",
-		"layer1": "gm4:item/metallurgy/shamir/copper/pickaxe"
+		"layer0": "gm4:item/metallurgy/shamir/copper/iron_pickaxe"
     }
 }

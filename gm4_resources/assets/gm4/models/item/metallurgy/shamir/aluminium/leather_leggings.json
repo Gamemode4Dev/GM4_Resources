@@ -2,7 +2,6 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "item/leather_leggings",
-		"layer1": "item/leather_leggings_overlay",
-		"layer2": "gm4:item/metallurgy/shamir/aluminium/leather_leggings"
+		"layer1": "gm4:item/metallurgy/shamir/aluminium/leather_leggings_overlay"
     }
 }

@@ -1,7 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/diamond_axe",
-		"layer1": "gm4:item/metallurgy/shamir/barium/axe"
+		"layer0": "gm4:item/metallurgy/shamir/barium/diamond_axe"
     }
 }

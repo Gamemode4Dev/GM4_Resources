@@ -72,6 +72,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/iron_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "item/iron_shovel"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 110
             },
             "model": "gm4:item/metallurgy/shamir/copper/iron_shovel"

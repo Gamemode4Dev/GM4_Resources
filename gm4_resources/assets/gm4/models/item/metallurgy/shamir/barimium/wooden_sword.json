@@ -1,7 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/wooden_sword",
-		"layer1": "gm4:item/metallurgy/shamir/barimium/sword"
+		"layer0": "gm4:item/metallurgy/shamir/barimium/wooden_sword"
     }
 }

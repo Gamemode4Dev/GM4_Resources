@@ -146,6 +146,139 @@
                 "firework": 1
             },
             "model": "gm4:item/sky_dimension/crossbow_firework_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/sky_dimension/crossbow_3"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/sky_dimension/crossbow_pulling_0_3"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 3,
+                "pull": 0.58
+            },
+            "model": "gm4:item/sky_dimension/crossbow_pulling_1_3"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 3,
+                "pull": 1.0
+            },
+            "model": "gm4:item/sky_dimension/crossbow_pulling_2_3"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/sky_dimension/crossbow_arrow_3"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 3,
+                "firework": 1
+            },
+            "model": "gm4:item/sky_dimension/crossbow_firework_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "gm4:item/sky_dimension/crossbow_4"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4
+            },
+            "model": "gm4:item/sky_dimension/crossbow_pulling_0_4"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4,
+                "pull": 0.58
+            },
+            "model": "gm4:item/sky_dimension/crossbow_pulling_1_4"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4,
+                "pull": 1.0
+            },
+            "model": "gm4:item/sky_dimension/crossbow_pulling_2_4"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4
+            },
+            "model": "gm4:item/sky_dimension/crossbow_arrow_4"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 4,
+                "firework": 1
+            },
+            "model": "gm4:item/sky_dimension/crossbow_firework_4"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "item/crossbow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 5
+            },
+            "model": "item/crossbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 5,
+                "pull": 0.58
+            },
+            "model": "item/crossbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 5,
+                "pull": 1.0
+            },
+            "model": "item/crossbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 5
+            },
+            "model": "item/crossbow_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "custom_model_data": 5,
+                "firework": 1
+            },
+            "model": "item/crossbow_firework"
         }
     ]
 }

@@ -1,7 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/elytra",
-		"layer1": "gm4:item/metallurgy/shamir/aluminium/elytra"
+		"layer0": "gm4:item/metallurgy/shamir/aluminium/elytra"
 	}
 }

@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/golden_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "item/golden_shovel"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 110
             },
             "model": "gm4:item/metallurgy/shamir/copper/golden_shovel"
