@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/gunpowder"
+        "layer0": "minecraft:item/gunpowder"
     },
     "overrides": [
         {
@@ -20,20 +20,7 @@
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "item/gunpowder"
-        },
-        
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/gunpowder"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/gunpowder"
+            "model": "minecraft:item/gunpowder"
         }
     ]
 }

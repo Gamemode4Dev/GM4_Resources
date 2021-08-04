@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/chorus_fruit"
+        "layer0": "minecraft:item/chorus_fruit"
     },
     "overrides": [
         {
@@ -14,20 +14,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/chorus_fruit"
-        },
-        
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/chorus_fruit"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/chorus_fruit"
+            "model": "minecraft:item/chorus_fruit"
         }
     ]
 }

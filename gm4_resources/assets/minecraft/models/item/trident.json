@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/trident"
+        "layer0": "minecraft:item/trident"
     },
     "overrides": [
         {
@@ -14,7 +14,7 @@
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "item/trident"
+            "model": "minecraft:item/trident"
         },
         {
             "predicate": {
@@ -26,7 +26,7 @@
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "item/trident"
+            "model": "minecraft:item/trident"
         },
         {
             "predicate": {
@@ -38,7 +38,7 @@
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "item/trident"
+            "model": "minecraft:item/trident"
         }
     ]
 }

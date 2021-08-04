@@ -1,13 +1,7 @@
 {
-    "parent": "block/dirt",
-    "overrides": [        
+    "parent": "minecraft:block/dirt",
+    "overrides": [
         {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/dirt"
-        },
-		{
             "predicate": {
                 "custom_model_data": 42
             },
@@ -17,13 +11,7 @@
             "predicate": {
                 "custom_model_data": 43
             },
-            "model": "item/dirt"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/dirt"
+            "model": "minecraft:item/dirt"
         }
     ]
 }

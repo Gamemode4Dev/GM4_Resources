@@ -1,5 +1,5 @@
 {
-    "parent": "block/tnt",
+    "parent": "minecraft:block/tnt",
     "overrides": [
         {
             "predicate": {
@@ -17,15 +17,9 @@
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "item/tnt"
+            "model": "minecraft:item/tnt"
         },
         {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/tnt"
-        },
-		{
             "predicate": {
                 "custom_model_data": 40
             },
@@ -35,13 +29,7 @@
             "predicate": {
                 "custom_model_data": 41
             },
-            "model": "item/tnt"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/tnt"
+            "model": "minecraft:item/tnt"
         }
     ]
 }

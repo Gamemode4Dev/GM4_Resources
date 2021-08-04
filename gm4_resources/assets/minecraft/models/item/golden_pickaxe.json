@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/golden_pickaxe"
+        "layer0": "minecraft:item/golden_pickaxe"
     },
     "overrides": [
         {
@@ -14,7 +14,7 @@
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "item/golden_pickaxe"
+            "model": "minecraft:item/golden_pickaxe"
         },
         {
             "predicate": {
@@ -32,7 +32,7 @@
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "item/golden_pickaxe"
+            "model": "minecraft:item/golden_pickaxe"
         },
         {
             "predicate": {
@@ -50,7 +50,7 @@
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "item/golden_pickaxe"
+            "model": "minecraft:item/golden_pickaxe"
         }
     ]
 }

@@ -27,7 +27,7 @@
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "item/potion"
+            "model": "minecraft:item/potion"
         }
     ]
 }

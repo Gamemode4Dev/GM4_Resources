@@ -1,5 +1,5 @@
 {
-    "parent": "block/stone_button_inventory",
+    "parent": "minecraft:block/stone_button_inventory",
     "overrides": [
         {
             "predicate": {
@@ -7,35 +7,35 @@
             },
             "model": "gm4:block/block_compressor"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 2
             },
             "model": "gm4:block/tinkering_compressor"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 3
             },
             "model": "gm4:block/ender_hopper"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 4
             },
             "model": "gm4:block/smeltery"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 5
             },
             "model": "gm4:block/smeltery_45"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "item/stone_button"
+            "model": "minecraft:item/stone_button"
         }
     ]
 }

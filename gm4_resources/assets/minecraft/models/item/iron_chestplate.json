@@ -1,10 +1,10 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/iron_chestplate"
+        "layer0": "minecraft:item/iron_chestplate"
     },
     "overrides": [
-	    {
+        {
             "predicate": {
                 "custom_model_data": 1
             },
@@ -14,7 +14,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/iron_chestplate"
+            "model": "minecraft:item/iron_chestplate"
         },
         {
             "predicate": {
@@ -80,7 +80,7 @@
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "item/iron_chestplate"
+            "model": "minecraft:item/iron_chestplate"
         },
         {
             "predicate": {
@@ -92,7 +92,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/iron_chestplate"
+            "model": "minecraft:item/iron_chestplate"
         },
         {
             "predicate": {
@@ -104,7 +104,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/iron_chestplate"
+            "model": "minecraft:item/iron_chestplate"
         }
     ]
 }

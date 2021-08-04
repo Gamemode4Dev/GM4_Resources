@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/golden_helmet"
+        "layer0": "minecraft:item/golden_helmet"
     },
     "overrides": [
         {
@@ -32,7 +32,7 @@
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "item/golden_helmet"
+            "model": "minecraft:item/golden_helmet"
         },
         {
             "predicate": {
@@ -50,7 +50,7 @@
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "item/golden_helmet"
+            "model": "minecraft:item/golden_helmet"
         },
         {
             "predicate": {
@@ -62,7 +62,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/golden_helmet"
+            "model": "minecraft:item/golden_helmet"
         },
         {
             "predicate": {
@@ -74,7 +74,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/golden_helmet"
+            "model": "minecraft:item/golden_helmet"
         }
     ]
 }

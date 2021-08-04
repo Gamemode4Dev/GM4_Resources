@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/diamond_axe"
+        "layer0": "minecraft:item/diamond_axe"
     },
     "overrides": [
         {
@@ -14,7 +14,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/diamond_axe"
+            "model": "minecraft:item/diamond_axe"
         },
         {
             "predicate": {
@@ -26,7 +26,7 @@
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "item/diamond_axe"
+            "model": "minecraft:item/diamond_axe"
         },
         {
             "predicate": {
@@ -46,7 +46,7 @@
             },
             "model": "gm4:item/metallurgy/shamir/barium/diamond_axe"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 113
             },
@@ -56,7 +56,7 @@
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "item/diamond_axe"
+            "model": "minecraft:item/diamond_axe"
         },
         {
             "predicate": {
@@ -68,7 +68,7 @@
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "item/diamond_axe"
+            "model": "minecraft:item/diamond_axe"
         }
     ]
 }

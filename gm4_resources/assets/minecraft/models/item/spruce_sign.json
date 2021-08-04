@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/spruce_sign"
+        "layer0": "minecraft:item/spruce_sign"
     },
     "overrides": [
         {
@@ -20,19 +20,7 @@
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "item/spruce_sign"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/spruce_sign"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/spruce_sign"
+            "model": "minecraft:item/spruce_sign"
         }
     ]
 }

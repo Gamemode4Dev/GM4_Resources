@@ -1,5 +1,5 @@
 {
-    "parent": "item/template_skull",
+    "parent": "minecraft:item/template_skull",
     "overrides": [
         {
             "predicate": {
@@ -11,20 +11,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/zombie_head"
-        },
-        
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/zombie_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/zombie_head"
+            "model": "minecraft:item/zombie_head"
         }
     ]
 }

@@ -1,8 +1,8 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:block/white_tulip"
-  },
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:block/white_tulip"
+    },
     "overrides": [
         {
             "predicate": {
@@ -14,19 +14,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/white_tulip"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/white_tulip"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/white_tulip"
+            "model": "minecraft:item/white_tulip"
         }
-	]
+    ]
 }

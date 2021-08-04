@@ -1,12 +1,6 @@
 {
-    "parent": "block/light_blue_stained_glass",
+    "parent": "minecraft:block/light_blue_stained_glass",
     "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "item/light_blue_stained_glass"
-        },
         {
             "predicate": {
                 "custom_model_data": 2
@@ -15,15 +9,9 @@
         },
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 3
             },
-            "model": "item/light_blue_stained_glass"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/light_blue_stained_glass"
+            "model": "minecraft:item/light_blue_stained_glass"
         }
     ]
 }

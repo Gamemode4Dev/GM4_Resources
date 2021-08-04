@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/netherite_axe"
+        "layer0": "minecraft:item/netherite_axe"
     },
     "overrides": [
         {
@@ -14,19 +14,19 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/netherite_axe"
+            "model": "minecraft:item/netherite_axe"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 20
             },
             "model": "gm4:item/sky_dimension/netherite_axe_20"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "item/netherite_axe"
+            "model": "minecraft:item/netherite_axe"
         },
         {
             "predicate": {
@@ -46,17 +46,17 @@
             },
             "model": "gm4:item/metallurgy/shamir/barium/netherite_axe"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 113
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/netherite_axe"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "item/netherite_axe"
+            "model": "minecraft:item/netherite_axe"
         },
         {
             "predicate": {
@@ -64,11 +64,11 @@
             },
             "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_axe"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "item/netherite_axe"
+            "model": "minecraft:item/netherite_axe"
         }
     ]
 }

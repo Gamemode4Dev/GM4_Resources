@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/golden_leggings"
+        "layer0": "minecraft:item/golden_leggings"
     },
     "overrides": [
         {
@@ -32,7 +32,7 @@
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "item/golden_leggings"
+            "model": "minecraft:item/golden_leggings"
         },
         {
             "predicate": {
@@ -44,7 +44,7 @@
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "item/golden_leggings"
+            "model": "minecraft:item/golden_leggings"
         },
         {
             "predicate": {
@@ -56,7 +56,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/golden_leggings"
+            "model": "minecraft:item/golden_leggings"
         },
         {
             "predicate": {
@@ -68,7 +68,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/golden_leggings"
+            "model": "minecraft:item/golden_leggings"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/iron_shovel"
+        "layer0": "minecraft:item/iron_shovel"
     },
     "overrides": [
         {
@@ -68,7 +68,7 @@
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "item/iron_shovel"
+            "model": "minecraft:item/iron_shovel"
         },
         {
             "predicate": {
@@ -86,7 +86,7 @@
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "item/iron_shovel"
+            "model": "minecraft:item/iron_shovel"
         },
         {
             "predicate": {
@@ -104,7 +104,7 @@
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "item/iron_shovel"
+            "model": "minecraft:item/iron_shovel"
         }
     ]
 }

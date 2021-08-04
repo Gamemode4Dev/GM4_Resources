@@ -1,5 +1,5 @@
 {
-    "parent": "block/glass",
+    "parent": "minecraft:block/glass",
     "overrides": [
         {
             "predicate": {
@@ -11,19 +11,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/glass"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/glass"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/glass"
+            "model": "minecraft:item/glass"
         }
     ]
 }

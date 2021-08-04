@@ -27,8 +27,8 @@
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "item/leather_boots"
-        },		
+            "model": "minecraft:item/leather_boots"
+        },
         {
             "predicate": {
                 "custom_model_data": 102
@@ -45,7 +45,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/leather_boots"
+            "model": "minecraft:item/leather_boots"
         },
         {
             "predicate": {
@@ -57,7 +57,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/leather_boots"
+            "model": "minecraft:item/leather_boots"
         }
     ]
 }

@@ -1,10 +1,9 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/iron_axe"
+        "layer0": "minecraft:item/iron_axe"
     },
     "overrides": [
-
         {
             "predicate": {
                 "custom_model_data": 104
@@ -15,7 +14,7 @@
             "predicate": {
                 "custom_model_data": 105
             },
-            "model": "item/iron_axe"
+            "model": "minecraft:item/iron_axe"
         },
         {
             "predicate": {
@@ -45,7 +44,7 @@
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "item/iron_axe"
+            "model": "minecraft:item/iron_axe"
         },
         {
             "predicate": {
@@ -57,7 +56,7 @@
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "item/iron_axe"
+            "model": "minecraft:item/iron_axe"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/turtle_helmet"
+        "layer0": "minecraft:item/turtle_helmet"
     },
     "overrides": [
         {
@@ -14,7 +14,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/turtle_helmet"
+            "model": "minecraft:item/turtle_helmet"
         },
         {
             "predicate": {
@@ -26,7 +26,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/turtle_helmet"
+            "model": "minecraft:item/turtle_helmet"
         }
     ]
 }

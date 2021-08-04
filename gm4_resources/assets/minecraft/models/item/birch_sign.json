@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/birch_sign"
+        "layer0": "minecraft:item/birch_sign"
     },
     "overrides": [
         {
@@ -20,20 +20,7 @@
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "item/birch_sign"
-        },
-		
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/birch_sign"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/birch_sign"
+            "model": "minecraft:item/birch_sign"
         }
     ]
 }

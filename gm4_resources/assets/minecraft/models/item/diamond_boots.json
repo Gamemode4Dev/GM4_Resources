@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/diamond_boots"
+        "layer0": "minecraft:item/diamond_boots"
     },
     "overrides": [
         {
@@ -74,9 +74,9 @@
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "item/diamond_boots"
+            "model": "minecraft:item/diamond_boots"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 102
             },
@@ -92,7 +92,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/diamond_boots"
+            "model": "minecraft:item/diamond_boots"
         },
         {
             "predicate": {
@@ -104,7 +104,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/diamond_boots"
+            "model": "minecraft:item/diamond_boots"
         }
     ]
 }

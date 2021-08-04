@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/glass_bottle"
+        "layer0": "minecraft:item/glass_bottle"
     },
     "overrides": [
         {
@@ -22,7 +22,7 @@
             },
             "model": "gm4:item/magic_in_a_bottle"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 4
             },
@@ -32,20 +32,7 @@
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "item/glass_bottle"
-        },		
-        
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/glass_bottle"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/glass_bottle"
+            "model": "minecraft:item/glass_bottle"
         }
     ]
 }

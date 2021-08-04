@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/netherite_pickaxe"
+        "layer0": "minecraft:item/netherite_pickaxe"
     },
     "overrides": [
         {
@@ -64,17 +64,17 @@
             },
             "model": "gm4:item/end_fishing/tools/netherite_pickaxe_19"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 20
             },
             "model": "gm4:item/sky_dimension/netherite_pickaxe_20"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "item/netherite_pickaxe"
+            "model": "minecraft:item/netherite_pickaxe"
         },
         {
             "predicate": {
@@ -86,7 +86,7 @@
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "item/netherite_pickaxe"
+            "model": "minecraft:item/netherite_pickaxe"
         },
         {
             "predicate": {
@@ -104,7 +104,7 @@
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "item/netherite_pickaxe"
+            "model": "minecraft:item/netherite_pickaxe"
         },
         {
             "predicate": {
@@ -122,7 +122,7 @@
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "item/netherite_pickaxe"
+            "model": "minecraft:item/netherite_pickaxe"
         }
     ]
 }

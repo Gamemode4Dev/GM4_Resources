@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/wooden_sword"
+        "layer0": "minecraft:item/wooden_sword"
     },
     "overrides": [
         {
@@ -14,7 +14,7 @@
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "item/wooden_sword"
+            "model": "minecraft:item/wooden_sword"
         },
         {
             "predicate": {
@@ -26,7 +26,7 @@
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "item/wooden_sword"
+            "model": "minecraft:item/wooden_sword"
         },
         {
             "predicate": {
@@ -38,7 +38,7 @@
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "item/wooden_sword"
+            "model": "minecraft:item/wooden_sword"
         },
         {
             "predicate": {
@@ -56,7 +56,7 @@
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "item/wooden_sword"
+            "model": "minecraft:item/wooden_sword"
         }
     ]
 }

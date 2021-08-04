@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/iron_sword"
+        "layer0": "minecraft:item/iron_sword"
     },
     "overrides": [
         {
@@ -128,7 +128,7 @@
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "item/iron_sword"
+            "model": "minecraft:item/iron_sword"
         },
         {
             "predicate": {
@@ -146,7 +146,7 @@
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "item/iron_sword"
+            "model": "minecraft:item/iron_sword"
         },
         {
             "predicate": {
@@ -158,7 +158,7 @@
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "item/iron_sword"
+            "model": "minecraft:item/iron_sword"
         },
         {
             "predicate": {
@@ -170,7 +170,7 @@
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "item/iron_sword"
+            "model": "minecraft:item/iron_sword"
         },
         {
             "predicate": {
@@ -188,7 +188,7 @@
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "item/iron_sword"
+            "model": "minecraft:item/iron_sword"
         }
     ]
 }

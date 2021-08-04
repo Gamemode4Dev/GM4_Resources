@@ -1,13 +1,7 @@
 {
-    "parent": "block/netherrack",
-    "overrides": [        
+    "parent": "minecraft:block/netherrack",
+    "overrides": [
         {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/netherrack"
-        },
-		{
             "predicate": {
                 "custom_model_data": 46
             },
@@ -17,13 +11,7 @@
             "predicate": {
                 "custom_model_data": 47
             },
-            "model": "item/netherrack"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/netherrack"
+            "model": "minecraft:item/netherrack"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/paper"
+        "layer0": "minecraft:item/paper"
     },
     "overrides": [
         {
@@ -14,19 +14,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/paper"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/paper"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/paper"
+            "model": "minecraft:item/paper"
         }
     ]
 }

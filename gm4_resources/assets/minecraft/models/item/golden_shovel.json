@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/golden_shovel"
+        "layer0": "minecraft:item/golden_shovel"
     },
     "overrides": [
         {
@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "item/golden_shovel"
+            "model": "minecraft:item/golden_shovel"
         },
         {
             "predicate": {
@@ -38,7 +38,7 @@
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "item/golden_shovel"
+            "model": "minecraft:item/golden_shovel"
         }
     ]
 }

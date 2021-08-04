@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/diamond_shovel"
+        "layer0": "minecraft:item/diamond_shovel"
     },
     "overrides": [
         {
@@ -14,7 +14,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/diamond_shovel"
+            "model": "minecraft:item/diamond_shovel"
         },
         {
             "predicate": {
@@ -86,7 +86,7 @@
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "item/diamond_shovel"
+            "model": "minecraft:item/diamond_shovel"
         },
         {
             "predicate": {
@@ -104,7 +104,7 @@
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "item/diamond_shovel"
+            "model": "minecraft:item/diamond_shovel"
         },
         {
             "predicate": {
@@ -122,7 +122,7 @@
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "item/diamond_shovel"
+            "model": "minecraft:item/diamond_shovel"
         }
     ]
 }

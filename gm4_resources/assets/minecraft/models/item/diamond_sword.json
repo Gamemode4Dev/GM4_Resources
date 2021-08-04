@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/diamond_sword"
+        "layer0": "minecraft:item/diamond_sword"
     },
     "overrides": [
         {
@@ -14,7 +14,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/diamond_sword"
+            "model": "minecraft:item/diamond_sword"
         },
         {
             "predicate": {
@@ -152,7 +152,7 @@
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "item/diamond_sword"
+            "model": "minecraft:item/diamond_sword"
         },
         {
             "predicate": {
@@ -164,7 +164,7 @@
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "item/diamond_sword"
+            "model": "minecraft:item/diamond_sword"
         },
         {
             "predicate": {
@@ -176,7 +176,7 @@
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "item/diamond_sword"
+            "model": "minecraft:item/diamond_sword"
         },
         {
             "predicate": {
@@ -188,7 +188,7 @@
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "item/diamond_sword"
+            "model": "minecraft:item/diamond_sword"
         },
         {
             "predicate": {
@@ -206,7 +206,7 @@
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "item/diamond_sword"
+            "model": "minecraft:item/diamond_sword"
         }
     ]
 }

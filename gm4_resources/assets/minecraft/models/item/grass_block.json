@@ -1,29 +1,17 @@
 {
-    "parent": "block/grass_block",
-    "overrides": [       
+    "parent": "minecraft:block/grass_block",
+    "overrides": [
         {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/grass_block"
-        },
-		{
             "predicate": {
                 "custom_model_data": 41
             },
             "model": "gm4:entity/tnt_landmines/tnt_landmine_grass"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 42
             },
-            "model": "item/grass_block"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/grass_block"
+            "model": "minecraft:item/grass_block"
         }
     ]
 }

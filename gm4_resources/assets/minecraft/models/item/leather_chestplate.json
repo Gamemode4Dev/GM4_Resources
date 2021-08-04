@@ -15,7 +15,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/leather_chestplate"
+            "model": "minecraft:item/leather_chestplate"
         },
         {
             "predicate": {
@@ -27,7 +27,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/leather_chestplate"
+            "model": "minecraft:item/leather_chestplate"
         }
     ]
 }

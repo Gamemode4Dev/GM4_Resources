@@ -3,39 +3,6 @@
     "textures": {
         "particle": "block/oak_planks"
     },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "gm4:item/treasure_chest"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "gm4:gui/advancements/icon/sky_dimension_loot_tower"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3
-            },
-            "model": "item/chest"
-        },
-        
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/chest"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/chest"
-        }
-    ],
     "display": {
         "gui": {
             "rotation": [
@@ -139,5 +106,25 @@
                 0.4
             ]
         }
-    }
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/treasure_chest"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_loot_tower"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "minecraft:item/chest"
+        }
+    ]
 }

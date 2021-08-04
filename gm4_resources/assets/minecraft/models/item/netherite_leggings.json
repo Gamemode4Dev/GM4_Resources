@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/netherite_leggings"
+        "layer0": "minecraft:item/netherite_leggings"
     },
     "overrides": [
         {
@@ -64,17 +64,17 @@
             },
             "model": "gm4:item/end_fishing/armor/netherite_leggings_19"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 20
             },
             "model": "gm4:item/sky_dimension/netherite_leggings_20"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "item/netherite_leggings"
+            "model": "minecraft:item/netherite_leggings"
         },
         {
             "predicate": {
@@ -86,7 +86,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/netherite_leggings"
+            "model": "minecraft:item/netherite_leggings"
         },
         {
             "predicate": {
@@ -98,7 +98,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/netherite_leggings"
+            "model": "minecraft:item/netherite_leggings"
         }
     ]
 }

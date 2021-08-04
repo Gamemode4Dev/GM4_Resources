@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/ender_pearl"
+        "layer0": "minecraft:item/ender_pearl"
     },
     "overrides": [
         {
@@ -14,13 +14,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/ender_pearl"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/ender_pearl"
+            "model": "minecraft:item/ender_pearl"
         }
     ]
 }

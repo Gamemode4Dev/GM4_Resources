@@ -1,5 +1,5 @@
 {
-    "parent": "block/red_sand",
+    "parent": "minecraft:block/red_sand",
     "overrides": [
         {
             "predicate": {
@@ -11,19 +11,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/red_sand"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/red_sand"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/red_sand"
+            "model": "minecraft:item/red_sand"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/netherite_boots"
+        "layer0": "minecraft:item/netherite_boots"
     },
     "overrides": [
         {
@@ -64,19 +64,19 @@
             },
             "model": "gm4:item/end_fishing/armor/netherite_boots_19"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 20
             },
             "model": "gm4:item/sky_dimension/netherite_boots_20"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "item/netherite_boots"
+            "model": "minecraft:item/netherite_boots"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 102
             },
@@ -92,7 +92,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/netherite_boots"
+            "model": "minecraft:item/netherite_boots"
         },
         {
             "predicate": {
@@ -104,7 +104,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/netherite_boots"
+            "model": "minecraft:item/netherite_boots"
         }
     ]
 }

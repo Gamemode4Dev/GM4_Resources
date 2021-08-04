@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/netherite_shovel"
+        "layer0": "minecraft:item/netherite_shovel"
     },
     "overrides": [
         {
@@ -64,17 +64,17 @@
             },
             "model": "gm4:item/end_fishing/tools/netherite_shovel_19"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 20
             },
             "model": "gm4:item/sky_dimension/netherite_shovel_20"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "item/netherite_shovel"
+            "model": "minecraft:item/netherite_shovel"
         },
         {
             "predicate": {
@@ -92,7 +92,7 @@
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "item/netherite_shovel"
+            "model": "minecraft:item/netherite_shovel"
         },
         {
             "predicate": {
@@ -110,7 +110,7 @@
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "item/netherite_shovel"
+            "model": "minecraft:item/netherite_shovel"
         }
     ]
 }

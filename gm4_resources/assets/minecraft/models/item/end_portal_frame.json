@@ -1,7 +1,7 @@
 {
-    "parent": "block/end_portal_frame",
-    "overrides": [        
-		{
+    "parent": "minecraft:block/end_portal_frame",
+    "overrides": [
+        {
             "predicate": {
                 "custom_model_data": 1
             },
@@ -11,19 +11,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/end_portal_frame"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/end_portal_frame"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/end_portal_frame"
+            "model": "minecraft:item/end_portal_frame"
         }
     ]
 }

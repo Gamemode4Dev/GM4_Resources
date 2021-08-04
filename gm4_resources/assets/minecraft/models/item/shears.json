@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/shears"
+        "layer0": "minecraft:item/shears"
     },
     "overrides": [
         {
@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "item/shears"
+            "model": "minecraft:item/shears"
         },
         {
             "predicate": {
@@ -32,7 +32,7 @@
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "item/shears"
+            "model": "minecraft:item/shears"
         }
     ]
 }

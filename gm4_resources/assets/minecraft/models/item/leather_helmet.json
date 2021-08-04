@@ -5,17 +5,17 @@
         "layer1": "item/leather_helmet_overlay"
     },
     "overrides": [
-	    {
+        {
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:item/sky_dimension/leather_helmet_1"
+            "model": "gm4:item/leather_helmet_1"
         },
-	    {
+        {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/leather_helmet"
+            "model": "minecraft:item/leather_helmet"
         },
         {
             "predicate": {
@@ -27,7 +27,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/leather_helmet"
+            "model": "minecraft:item/leather_helmet"
         },
         {
             "predicate": {
@@ -39,7 +39,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/leather_helmet"
+            "model": "minecraft:item/leather_helmet"
         }
     ]
 }

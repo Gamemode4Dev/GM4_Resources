@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/lava_bucket"
+        "layer0": "minecraft:item/lava_bucket"
     },
     "overrides": [
         {
@@ -14,7 +14,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/lava_bucket"
+            "model": "minecraft:item/lava_bucket"
         }
     ]
 }

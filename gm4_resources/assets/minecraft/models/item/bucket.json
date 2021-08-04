@@ -1,26 +1,20 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/bucket"
+        "layer0": "minecraft:item/bucket"
     },
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/bucket"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 100
+                "custom_model_data": 10
             },
             "model": "gm4:item/metallurgy/shamir/thorium_brass/bucket"
         },
         {
             "predicate": {
-                "custom_model_data": 101
+                "custom_model_data": 11
             },
-            "model": "item/bucket"
+            "model": "minecraft:item/bucket"
         }
     ]
 }

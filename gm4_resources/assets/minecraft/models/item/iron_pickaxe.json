@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/iron_pickaxe"
+        "layer0": "minecraft:item/iron_pickaxe"
     },
     "overrides": [
         {
@@ -68,7 +68,7 @@
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "item/iron_pickaxe"
+            "model": "minecraft:item/iron_pickaxe"
         },
         {
             "predicate": {
@@ -80,7 +80,7 @@
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "item/iron_pickaxe"
+            "model": "minecraft:item/iron_pickaxe"
         },
         {
             "predicate": {
@@ -98,7 +98,7 @@
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "item/iron_pickaxe"
+            "model": "minecraft:item/iron_pickaxe"
         },
         {
             "predicate": {
@@ -116,7 +116,7 @@
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "item/iron_pickaxe"
+            "model": "minecraft:item/iron_pickaxe"
         }
     ]
 }

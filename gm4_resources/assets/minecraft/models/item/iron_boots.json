@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/iron_boots"
+        "layer0": "minecraft:item/iron_boots"
     },
     "overrides": [
         {
@@ -68,7 +68,7 @@
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "item/iron_boots"
+            "model": "minecraft:item/iron_boots"
         },
         {
             "predicate": {
@@ -86,7 +86,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/iron_boots"
+            "model": "minecraft:item/iron_boots"
         },
         {
             "predicate": {
@@ -98,7 +98,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/iron_boots"
+            "model": "minecraft:item/iron_boots"
         }
     ]
 }

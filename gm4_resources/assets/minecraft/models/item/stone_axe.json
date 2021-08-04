@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/stone_axe"
+        "layer0": "minecraft:item/stone_axe"
     },
     "overrides": [
         {
@@ -32,7 +32,7 @@
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "item/stone_axe"
+            "model": "minecraft:item/stone_axe"
         },
         {
             "predicate": {
@@ -44,7 +44,7 @@
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "item/stone_axe"
+            "model": "minecraft:item/stone_axe"
         }
     ]
 }

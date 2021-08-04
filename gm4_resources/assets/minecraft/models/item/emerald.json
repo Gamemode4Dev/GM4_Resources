@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/emerald"
+        "layer0": "minecraft:item/emerald"
     },
     "overrides": [
         {
@@ -38,19 +38,7 @@
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "item/emerald"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/emerald"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/emerald"
+            "model": "minecraft:item/emerald"
         }
     ]
 }

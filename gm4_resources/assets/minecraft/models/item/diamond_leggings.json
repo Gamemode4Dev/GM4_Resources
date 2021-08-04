@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/diamond_leggings"
+        "layer0": "minecraft:item/diamond_leggings"
     },
     "overrides": [
         {
@@ -74,7 +74,7 @@
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "item/diamond_leggings"
+            "model": "minecraft:item/diamond_leggings"
         },
         {
             "predicate": {
@@ -86,7 +86,7 @@
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "item/diamond_leggings"
+            "model": "minecraft:item/diamond_leggings"
         },
         {
             "predicate": {
@@ -98,7 +98,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "item/diamond_leggings"
+            "model": "minecraft:item/diamond_leggings"
         }
     ]
 }

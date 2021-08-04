@@ -1,18 +1,6 @@
 {
-    "parent": "item/template_skull",
+    "parent": "minecraft:item/template_skull",
     "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "gm4:block/block_compressor"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "gm4:block/ender_hopper"
-        },
         {
             "predicate": {
                 "custom_model_data": 3
@@ -95,7 +83,7 @@
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "item/player_head"
+            "model": "minecraft:item/player_head"
         },
         {
             "predicate": {
@@ -114,7 +102,7 @@
                 "custom_model_data": 20
             },
             "model": "gm4:item/thorianite_lump"
-        },		
+        },
         {
             "predicate": {
                 "custom_model_data": 21
@@ -131,7 +119,7 @@
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "item/player_head"
+            "model": "minecraft:item/player_head"
         },
         {
             "predicate": {
@@ -293,13 +281,7 @@
             "predicate": {
                 "custom_model_data": 53
             },
-            "model": "item/player_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/player_head"
+            "model": "minecraft:item/player_head"
         },
         {
             "predicate": {
@@ -413,7 +395,7 @@
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "item/player_head"
+            "model": "minecraft:item/player_head"
         }
     ]
 }

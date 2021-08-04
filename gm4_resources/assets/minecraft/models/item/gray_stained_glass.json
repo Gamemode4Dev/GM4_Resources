@@ -1,5 +1,5 @@
 {
-    "parent": "block/gray_stained_glass",
+    "parent": "minecraft:block/gray_stained_glass",
     "overrides": [
         {
             "predicate": {
@@ -11,19 +11,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/gray_stained_glass"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/gray_stained_glass"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/gray_stained_glass"
+            "model": "minecraft:item/gray_stained_glass"
         }
     ]
 }

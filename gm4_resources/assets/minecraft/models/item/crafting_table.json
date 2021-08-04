@@ -1,5 +1,5 @@
 {
-    "parent": "block/crafting_table",
+    "parent": "minecraft:block/crafting_table",
     "overrides": [
         {
             "predicate": {
@@ -23,15 +23,9 @@
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "item/crafting_table"
+            "model": "minecraft:item/crafting_table"
         },
         {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/crafting_table"
-        },
-		{
             "predicate": {
                 "custom_model_data": 45
             },
@@ -41,13 +35,7 @@
             "predicate": {
                 "custom_model_data": 46
             },
-            "model": "item/crafting_table"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/crafting_table"
+            "model": "minecraft:item/crafting_table"
         }
     ]
 }

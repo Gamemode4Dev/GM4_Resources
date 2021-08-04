@@ -1,5 +1,5 @@
 {
-    "parent": "block/chiseled_quartz_block",
+    "parent": "minecraft:block/chiseled_quartz_block",
     "overrides": [
         {
             "predicate": {
@@ -11,19 +11,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/chiseled_quartz_block"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/chiseled_quartz_block"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 64
-            },
-            "model": "item/chiseled_quartz_block"
+            "model": "minecraft:item/chiseled_quartz_block"
         }
     ]
 }
