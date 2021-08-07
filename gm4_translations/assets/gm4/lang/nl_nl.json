@@ -1,17 +1,6 @@
 {
     "lang.gm4.test": "GM4 Taal Test",
 
-    "text.gm4.prefix": "[GM4]: ",
-    "text.gm4.modules.init": "Welkom bij Gamemode 4. Initialiseren...",
-    "text.gm4.modules.outdated": "Sommige van je modules zijn een oude versie: %s",
-    "text.gm4.modules.outdated_link": "Klik om onze website met de laatste versies te bezoeken.",
-    "text.gm4.modules.update.hover_text": "Click om gm4.co/modules te bezoeken.",
-    "text.gm4.modules.update.check": "Aan het controleren voor updates...",
-    "text.gm4.modules.update.none_found": "Geen updates gevonden.",
-    "text.gm4.modules.update.completed": "Updates zijn compleet.",
-    "text.gm4.modules.update.installing": "%s aan het initialiseren...",
-    "text.gm4.modules.update.installed": "%s is geïnstalleerd!",
-
     "text.gm4.xp_storage.stored_experience": "Opgeslagen Ervaring: ",
     "text.gm4.xp_storage.stored_experience.points": "%s Punten",
 

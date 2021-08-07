@@ -1,16 +1,6 @@
 {
     "lang.gm4.test": "GM4 מבחן שפה",
     
-    "text.gm4.modules.init": "ברוך הבא ל Gamemode 4.אתחול.",
-    "text.gm4.modules.outdated": "חלק מהמודולים שלך מיושנים: %s",
-    "text.gm4.modules.outdated_link": "לחץ כדי לבקר באתר שלנו עם הגרסאות העדכניות ביותר",
-    "text.gm4.modules.update.hover_text": "לחץ כדי לבקר ב- gm4.co/modules",
-    "text.gm4.modules.update.check": "מחפש עדכונים...",
-    "text.gm4.modules.update.none_found": "עדכונים לא נמצאו.",
-    "text.gm4.modules.update.completed": "עדכון הושלם.",
-    "text.gm4.modules.update.installing": "מתקין %s...",
-    "text.gm4.modules.update.installed": "%s הותקן!",
-    
     "text.gm4.xp_storage.stored_experience": "נקודות ניסיון שמורות:",
     "text.gm4.xp_storage.stored_experience.points": "%s נקודות",
     

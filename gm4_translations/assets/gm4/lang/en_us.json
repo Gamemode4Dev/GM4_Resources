@@ -1,19 +1,9 @@
 {
     "%1$s%3427655$s": "%2$s",
 
-    "pack.gm4.description": "A Gamemode 4 Module",
-
     "lang.gm4.test": "GM4 Language Test",
     "lang.gm4.test.en.regional": "Color",
 
-    "text.gm4.prefix": "[GM4]: ",
-    "text.gm4.modules.init": "Welcome to Gamemode 4. Initialising...",
-    "text.gm4.modules.outdated": "Some of your modules are outdated: %s",
-    "text.gm4.modules.outdated_link": "Click to visit our site with the latest versions.",
-    "text.gm4.modules.update.hover_text": "Click to visit gm4.co/modules",
-    "text.gm4.modules.update.check": "Checking for updates...",
-    "text.gm4.modules.update.none_found": "No updates found.",
-    "text.gm4.modules.update.completed": "Updates completed.",
     "text.gm4.block_compressors.compressed": "Compressed *%s",
     "text.gm4.xp_storage.stored_experience": "Stored Experience: ",
     "text.gm4.xp_storage.stored_experience.points": "%s Points",
@@ -221,55 +211,6 @@
     "entity.ps.infested_plantlife": "Infested Plantlife\u00A7",
     "entity.ps.unstable_magic": "Unstable Magic\u00A7",
     "entity.ps.withered_caretaker": "Withered Caretaker\u00A7",
-
-    "module.gm4.bat_grenades": "Bat Grenades",
-    "module.gm4.better_armour_stands": "Better Armor Stands",
-    "module.gm4.better_fire": "Better Fire",
-    "module.gm4.block_compressors": "Block Compressors",
-    "module.gm4.boots_of_ostara": "Boots of Ostara",
-    "module.gm4.chairs": "Chairs",
-    "module.gm4.cooler_caves": "Cooler Caves",
-    "module.gm4.crossbow_cartridges": "Crossbow Cartridges",
-    "module.gm4.custom_crafters": "Custom Crafters",
-    "module.gm4.dangerous_dungeons": "Dangerous Dungeons",
-    "module.gm4.desire_lines": "Desire Lines",
-    "module.gm4.disassemblers": "Disassemblers",
-    "module.gm4.enchantment_extractors": "Enchantment Extractors",
-    "module.gm4.ender_hoppers": "Ender Hoppers",
-    "module.gm4.enderman_support_class": "Enderman Support Class",
-    "module.gm4.heart_canisters": "Heart Canisters",
-    "module.gm4.ink_spitting_squid": "Ink Spitting Squid",
-    "module.gm4.lightning_rods": "Lightning Rods",
-    "module.gm4.liquid_tanks": "Liquid Tanks",
-    "module.gm4.master_crafting": "Master Crafting",
-    "module.gm4.metallurgy": "Metallurgy",
-    "module.gm4.mob_conversion": "Mob Conversion",
-    "module.gm4.mysterious_midnights": "Mysterious Midnights",
-    "module.gm4.note_block_interface": "Note Block Interface",
-    "module.gm4.orbis": "Orbis",
-    "module.gm4.particles_pack": "Particles Pack",
-    "module.gm4.phantom_scarecrows": "Phantom Scarecrows",
-    "module.gm4.pig_tractors": "Pig Tractors",
-    "module.gm4.poses_pack": "Poses Pack",
-    "module.gm4.potion_liquids": "Potion Liquids",
-    "module.gm4.potion_swords": "Potion Swords",
-    "module.gm4.record_crafting": "Record Crafting",
-    "module.gm4.relocators": "Relocators",
-    "module.gm4.scuba_gear": "Scuba Gear",
-    "module.gm4.shroomites": "Shroomites",
-    "module.gm4.sky_dimension": "Sky Dimension",	
-    "module.gm4.spawner_minecarts": "Spawner Minecarts",
-    "module.gm4.speed_paths": "Speed Paths",
-    "module.gm4.standard_crafting": "Standard Crafting",
-    "module.gm4.sunken_treasure": "Sunken Treasure",
-    "module.gm4.tower_structures": "Tower Structures",
-    "module.gm4.trapped_signs": "Trapped Signs",
-    "module.gm4.undead_players": "Undead Players",
-    "module.gm4.vertical_rails": "Vertical Rails",
-    "module.gm4.weighted_armour": "Weighted Armor",
-    "module.gm4.xp_storage": "XP Storage",
-    "module.gm4.zauber_cauldrons": "Zauber Cauldrons",
-    "module.gm4.ziprails": "Ziprails",
 
     "text.gm4.beehive_inspector.bees": "Bees",
     "text.gm4.beehive_inspector.honey": "Honey",
@@ -510,7 +451,7 @@
     "text.gm4.sky_axe.1": "Enhanced for maximum precision",
     "text.gm4.sky_shears.1_1": "Ultra durable!",
     "text.gm4.sky_shears.1_2": "It also keeps mobs away!",
-	
+
     "advancement.gm4.root.title": "Gamemode 4",
     "advancement.gm4.root.description": "Semi-funny blurb about GM4",
     "advancement.gm4.ambrosia_bottled_honey.title": "A Sweet Upgrade",
@@ -702,8 +643,7 @@
     "advancement.ps.postcards.flower_parkour.description": "Complete the Flowertown Parkour.\n",
     "advancement.ps.postcards.flower_ziprail.title": "Welcome to the Jungle",
     "advancement.ps.postcards.flower_ziprail.description": "Ziprail all the way from Flowertown to Jungletown.\n",
-	
-	
+
     "advancement.ps.postcards.jungle.aether.title": "Dust to Dust",
     "advancement.ps.postcards.jungle.aether.description": "Find the Jungletown Ruins of the Sky Dimension.\n",
     "advancement.ps.postcards.jungle.nether.title": "I Am Gettin' So Hot",
@@ -716,13 +656,11 @@
     "advancement.ps.postcards.jungle_parkour.description": "Complete the Jungletown Parkour.\n",
     "advancement.ps.postcards.jungle_ziprail.title": "Tiptoe Through the Tulips",
     "advancement.ps.postcards.jungle_ziprail.description": "Ziprail all the way from Jungletown to Flowertown.\n",
-	
-	
+
     "advancement.mcpp.multiplayer_sleep.50.title": "The Wake Up Call",
     "advancement.mcpp.multiplayer_sleep.50.description": "Good morning. You have been in suspension for fifty days.",
     "advancement.mcpp.multiplayer_sleep.999.title": "The Courtesy Call",
     "advancement.mcpp.multiplayer_sleep.999.description": "Good morning. You have been in suspension for nine nine nine...",
 
-    "item.gm4.lingering_potion.effect.levitation": "Lingering Potion of Blindness",
-	
+    "item.gm4.lingering_potion.effect.levitation": "Lingering Potion of Blindness"
 }
