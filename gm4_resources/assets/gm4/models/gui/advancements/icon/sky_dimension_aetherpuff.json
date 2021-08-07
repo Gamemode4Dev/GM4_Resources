@@ -1,3 +1,6 @@
 {
-    "parent": "gm4:item/sky_dimension/aetherpuff"
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "gm4:item/sky_dimension/aetherpuff"
+    }
 }

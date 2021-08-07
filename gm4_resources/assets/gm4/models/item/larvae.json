@@ -1,6 +1,6 @@
 {
-    "parent": "item/white_dye",
-	"textures": {
-        "layer0": "gm4:item/larvae"	
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "gm4:item/larvae"
     }
 }

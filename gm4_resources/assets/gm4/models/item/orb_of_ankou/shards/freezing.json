@@ -1,5 +1,5 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "gm4:item/orb_of_ankou/shards/freezing"
     }

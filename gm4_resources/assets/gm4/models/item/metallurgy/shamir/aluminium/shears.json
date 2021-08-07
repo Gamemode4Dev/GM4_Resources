@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/shears",
-		"layer1": "gm4:item/metallurgy/shamir/aluminium/shears"
+        "layer0": "minecraft:item/shears",
+        "layer1": "gm4:item/metallurgy/shamir/aluminium/shears"
     }
 }

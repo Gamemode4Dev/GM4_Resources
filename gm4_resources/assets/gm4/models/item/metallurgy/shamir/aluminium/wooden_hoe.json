@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/wooden_hoe",
-		"layer1": "gm4:item/metallurgy/shamir/aluminium/hoe"
+        "layer0": "minecraft:item/wooden_hoe",
+        "layer1": "gm4:item/metallurgy/shamir/aluminium/hoe"
     }
 }

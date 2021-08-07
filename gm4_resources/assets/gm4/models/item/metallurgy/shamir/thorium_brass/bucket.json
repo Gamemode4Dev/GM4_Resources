@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/bucket",
-		"layer1": "gm4:item/metallurgy/shamir/thorium_brass/bucket"
-	}
+        "layer0": "minecraft:item/bucket",
+        "layer1": "gm4:item/metallurgy/shamir/thorium_brass/bucket"
+    }
 }

@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/trident",
-		"layer1": "gm4:item/metallurgy/shamir/barimium/trident"
+        "layer0": "minecraft:item/trident",
+        "layer1": "gm4:item/metallurgy/shamir/barimium/trident"
     }
 }
