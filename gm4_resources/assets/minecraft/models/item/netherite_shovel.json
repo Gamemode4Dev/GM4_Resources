@@ -111,6 +111,114 @@
                 "custom_model_data": 115
             },
             "model": "minecraft:item/netherite_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420010
+            },
+            "model": "gm4:item/end_fishing/tools/netherite_shovel_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420011
+            },
+            "model": "gm4:item/end_fishing/tools/netherite_shovel_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420012
+            },
+            "model": "gm4:item/end_fishing/tools/netherite_shovel_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420013
+            },
+            "model": "gm4:item/end_fishing/tools/netherite_shovel_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420014
+            },
+            "model": "gm4:item/end_fishing/tools/netherite_shovel_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420015
+            },
+            "model": "gm4:item/end_fishing/tools/netherite_shovel_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420016
+            },
+            "model": "gm4:item/end_fishing/tools/netherite_shovel_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420017
+            },
+            "model": "gm4:item/end_fishing/tools/netherite_shovel_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420018
+            },
+            "model": "gm4:item/end_fishing/tools/netherite_shovel_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420019
+            },
+            "model": "gm4:item/end_fishing/tools/netherite_shovel_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420020
+            },
+            "model": "gm4:item/sky_dimension/netherite_shovel_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420021
+            },
+            "model": "minecraft:item/netherite_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420110
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/netherite_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420111
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420112
+            },
+            "model": "minecraft:item/netherite_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420113
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/netherite_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420114
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420115
+            },
+            "model": "minecraft:item/netherite_shovel"
         }
     ]
 }

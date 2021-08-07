@@ -15,6 +15,18 @@
                 "custom_model_data": 2
             },
             "model": "minecraft:item/chorus_fruit"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/zauber_cauldrons_wormhole"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/chorus_fruit"
         }
     ]
 }

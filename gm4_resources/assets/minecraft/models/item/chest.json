@@ -125,6 +125,24 @@
                 "custom_model_data": 3
             },
             "model": "minecraft:item/chest"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:item/treasure_chest"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_loot_tower"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "minecraft:item/chest"
         }
     ]
 }

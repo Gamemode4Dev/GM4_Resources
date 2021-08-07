@@ -189,6 +189,192 @@
                 "custom_model_data": 118
             },
             "model": "minecraft:item/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420010
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420011
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420012
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420013
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420014
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420015
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420016
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420017
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420018
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420019
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420020
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420021
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420022
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420023
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420024
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420025
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_25"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420026
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_26"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420027
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_27"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420028
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_28"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420029
+            },
+            "model": "gm4:item/end_fishing/swords/iron_sword_29"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420030
+            },
+            "model": "minecraft:item/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420104
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420105
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420106
+            },
+            "model": "minecraft:item/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420108
+            },
+            "model": "gm4:item/metallurgy/shamir/barimium/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420109
+            },
+            "model": "minecraft:item/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420110
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420111
+            },
+            "model": "minecraft:item/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420116
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420117
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420118
+            },
+            "model": "minecraft:item/iron_sword"
         }
     ]
 }

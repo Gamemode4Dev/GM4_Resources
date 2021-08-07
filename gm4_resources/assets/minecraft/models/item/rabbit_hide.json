@@ -15,6 +15,18 @@
                 "custom_model_data": 2
             },
             "model": "minecraft:item/rabbit_hide"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:item/bat_leather"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/rabbit_hide"
         }
     ]
 }

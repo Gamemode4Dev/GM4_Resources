@@ -15,6 +15,18 @@
                 "custom_model_data": 2
             },
             "model": "minecraft:item/hopper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/liquid_tanks_create"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/hopper"
         }
     ]
 }

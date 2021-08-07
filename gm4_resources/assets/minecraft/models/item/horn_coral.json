@@ -15,6 +15,18 @@
                 "custom_model_data": 2
             },
             "model": "minecraft:item/horn_coral"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/scuba_gear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/horn_coral"
         }
     ]
 }

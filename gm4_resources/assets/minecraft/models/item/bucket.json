@@ -15,6 +15,18 @@
                 "custom_model_data": 11
             },
             "model": "minecraft:item/bucket"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420010
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/bucket"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420011
+            },
+            "model": "minecraft:item/bucket"
         }
     ]
 }

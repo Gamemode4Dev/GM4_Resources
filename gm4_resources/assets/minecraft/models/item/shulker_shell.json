@@ -15,6 +15,18 @@
                 "custom_model_data": 2
             },
             "model": "minecraft:item/shulker_shell"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:item/charred_shell"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/shulker_shell"
         }
     ]
 }

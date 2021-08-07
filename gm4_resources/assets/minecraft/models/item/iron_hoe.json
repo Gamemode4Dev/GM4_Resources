@@ -39,6 +39,42 @@
                 "custom_model_data": 114
             },
             "model": "minecraft:item/iron_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420109
+            },
+            "model": "gm4:item/metallurgy/shamir/barimium/iron_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420110
+            },
+            "model": "minecraft:item/iron_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420111
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420112
+            },
+            "model": "minecraft:item/iron_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420113
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/iron_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420114
+            },
+            "model": "minecraft:item/iron_hoe"
         }
     ]
 }

@@ -12,6 +12,18 @@
                 "custom_model_data": 2
             },
             "model": "minecraft:item/coarse_dirt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/desire_lines_10000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/coarse_dirt"
         }
     ]
 }

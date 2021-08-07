@@ -15,6 +15,18 @@
                 "custom_model_data": 5
             },
             "model": "minecraft:item/oak_sapling"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
+            },
+            "model": "gm4:item/apple_tree_sapling"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420005
+            },
+            "model": "minecraft:item/oak_sapling"
         }
     ]
 }

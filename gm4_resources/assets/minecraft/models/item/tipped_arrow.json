@@ -16,6 +16,18 @@
                 "custom_model_data": 2
             },
             "model": "minecraft:item/tipped_arrow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_stray"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/tipped_arrow"
         }
     ]
 }

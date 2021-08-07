@@ -12,6 +12,18 @@
                 "custom_model_data": 2
             },
             "model": "minecraft:item/gold_ore"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:block/gold_ore_display"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/gold_ore"
         }
     ]
 }

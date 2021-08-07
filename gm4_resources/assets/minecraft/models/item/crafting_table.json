@@ -36,6 +36,42 @@
                 "custom_model_data": 46
             },
             "model": "minecraft:item/crafting_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:block/custom_crafter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "gm4:item/slightly_damaged_workbench"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "gm4:gui/advancements/icon/custom_crafters"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
+            },
+            "model": "minecraft:item/crafting_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420045
+            },
+            "model": "gm4:entity/tnt_landmines/tnt_landmine_crafting_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420046
+            },
+            "model": "minecraft:item/crafting_table"
         }
     ]
 }

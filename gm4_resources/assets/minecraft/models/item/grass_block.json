@@ -12,6 +12,18 @@
                 "custom_model_data": 42
             },
             "model": "minecraft:item/grass_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420041
+            },
+            "model": "gm4:entity/tnt_landmines/tnt_landmine_grass"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420042
+            },
+            "model": "minecraft:item/grass_block"
         }
     ]
 }

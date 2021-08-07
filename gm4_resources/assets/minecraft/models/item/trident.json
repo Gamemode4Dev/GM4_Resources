@@ -39,6 +39,42 @@
                 "custom_model_data": 118
             },
             "model": "minecraft:item/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420105
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420106
+            },
+            "model": "minecraft:item/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420108
+            },
+            "model": "gm4:item/metallurgy/shamir/barimium/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420109
+            },
+            "model": "minecraft:item/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420117
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420118
+            },
+            "model": "minecraft:item/trident"
         }
     ]
 }

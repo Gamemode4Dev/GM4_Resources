@@ -12,6 +12,18 @@
                 "custom_model_data": 2
             },
             "model": "minecraft:item/white_wool"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_reach_sky"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/white_wool"
         }
     ]
 }

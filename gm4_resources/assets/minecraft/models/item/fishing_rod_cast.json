@@ -15,6 +15,18 @@
                 "custom_model_data": 111
             },
             "model": "minecraft:item/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420110
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420111
+            },
+            "model": "minecraft:item/fishing_rod_cast"
         }
     ]
 }

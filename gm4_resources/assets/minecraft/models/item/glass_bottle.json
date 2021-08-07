@@ -33,6 +33,36 @@
                 "custom_model_data": 5
             },
             "model": "minecraft:item/glass_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:item/message_in_a_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "gm4:gui/advancements/icon/sunken_treasure"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "gm4:item/magic_in_a_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
+            },
+            "model": "gm4:gui/advancements/icon/zauber_cauldrons_drink_multi_use_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420005
+            },
+            "model": "minecraft:item/glass_bottle"
         }
     ]
 }
