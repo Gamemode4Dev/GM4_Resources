@@ -3,18 +3,6 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "gm4:block/UNUSED_block_compressors"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "gm4:block/UNUSED_ender_hoppers"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 3
             },
             "model": "gm4:gui/advancements/icon/enderman_support_class"
@@ -408,18 +396,6 @@
                 "custom_model_data": 118
             },
             "model": "minecraft:item/player_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420001
-            },
-            "model": "gm4:block/UNUSED_block_compressors"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420002
-            },
-            "model": "gm4:block/UNUSED_ender_hoppers"
         },
         {
             "predicate": {
