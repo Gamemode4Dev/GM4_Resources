@@ -687,10 +687,6 @@
     "advancement.gm4.zauber_cauldrons.wormhole.description": "Just like the rabbits!",
     "advancement.gm4.ziprails.title": "Wheeeeeeeee",
     "advancement.gm4.ziprails.description": "Fly through the sky on a ziprail",
-	
-#PS7
-
-#advancements
     "advancement.ps.postcards.post_office.description": "Visit the Post Office for your reward!",
     "advancement.ps.root.title": "Public Server",
     "advancement.ps.root.description": "Welcome to the official Gamemode 4 Public Server!",
@@ -726,9 +722,7 @@
     "advancement.mcpp.multiplayer_sleep.50.description": "Good morning. You have been in suspension for fifty days.",
     "advancement.mcpp.multiplayer_sleep.999.title": "The Courtesy Call",
     "advancement.mcpp.multiplayer_sleep.999.description": "Good morning. You have been in suspension for nine nine nine...",
-	
-#lingering potion of blindness fix (remove later)
+
     "item.gm4.lingering_potion.effect.levitation": "Lingering Potion of Blindness",
 	
 }
-
