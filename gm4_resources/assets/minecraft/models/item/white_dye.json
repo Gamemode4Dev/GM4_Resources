@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/white_dye"
+        "layer0": "minecraft:item/white_dye"
     },
     "overrides": [
         {
@@ -16,18 +16,41 @@
             },
             "model": "gm4:gui/advancements/icon/ambrosia_find_larvae"
         },
-        
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 3
             },
-            "model": "item/white_dye"
+            "model": "gm4:item/sky_dimension/phantom_bait"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 4
             },
-            "model": "item/white_dye"
+            "model": "minecraft:item/white_dye"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:item/larvae"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "gm4:gui/advancements/icon/ambrosia_find_larvae"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "gm4:item/sky_dimension/phantom_bait"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
+            },
+            "model": "minecraft:item/white_dye"
         }
     ]
 }

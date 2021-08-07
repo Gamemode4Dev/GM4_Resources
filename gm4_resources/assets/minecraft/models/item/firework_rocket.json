@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/firework_rocket"
+        "layer0": "minecraft:item/firework_rocket"
     },
     "overrides": [
         {
@@ -10,18 +10,23 @@
             },
             "model": "gm4:gui/advancements/icon/phantom_scarecrows"
         },
-        
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 2
             },
-            "model": "item/firework_rocket"
+            "model": "minecraft:item/firework_rocket"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 3420001
             },
-            "model": "item/firework_rocket"
+            "model": "gm4:gui/advancements/icon/phantom_scarecrows"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/firework_rocket"
         }
     ]
 }

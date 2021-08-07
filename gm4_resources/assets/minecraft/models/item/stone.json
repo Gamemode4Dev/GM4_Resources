@@ -1,5 +1,5 @@
 {
-    "parent": "block/stone",
+    "parent": "minecraft:block/stone",
     "overrides": [
         {
             "predicate": {
@@ -7,18 +7,47 @@
             },
             "model": "gm4:gui/advancements/icon/template_pack"
         },
-        
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 2
             },
-            "model": "item/stone"
+            "model": "minecraft:item/stone"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 43
             },
-            "model": "item/stone"
+            "model": "gm4:entity/tnt_landmines/tnt_landmine_stone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "minecraft:item/stone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/template_pack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/stone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420043
+            },
+            "model": "gm4:entity/tnt_landmines/tnt_landmine_stone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420044
+            },
+            "model": "minecraft:item/stone"
         }
     ]
 }

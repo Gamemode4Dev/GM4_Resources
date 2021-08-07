@@ -1,26 +1,68 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/chainmail_boots"
+        "layer0": "minecraft:item/chainmail_boots"
     },
     "overrides": [
         {
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "gm4:item/metallurgy/shamir/levity/chainmail_boots"
+            "model": "gm4:item/metallurgy/shamir/aluminium/chainmail_boots"
         },
         {
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "gm4:item/metallurgy/shamir/helios/chainmail_boots"
+            "model": "gm4:item/metallurgy/shamir/aluminium/chainmail_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "minecraft:item/chainmail_boots"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "gm4:item/metallurgy/shamir/defuse/chainmail_boots"
+            "model": "gm4:item/metallurgy/shamir/aluminium/chainmail_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "minecraft:item/chainmail_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420102
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/chainmail_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420103
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/chainmail_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420104
+            },
+            "model": "minecraft:item/chainmail_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420106
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/chainmail_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420107
+            },
+            "model": "minecraft:item/chainmail_boots"
         }
     ]
 }

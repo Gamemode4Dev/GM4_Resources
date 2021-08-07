@@ -1,5 +1,5 @@
 {
-    "parent": "block/barrel",
+    "parent": "minecraft:block/barrel",
     "overrides": [
         {
             "predicate": {
@@ -7,18 +7,23 @@
             },
             "model": "gm4:gui/advancements/icon/ambrosia_create_beehive"
         },
-
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 2
             },
-            "model": "item/barrel"
+            "model": "minecraft:item/barrel"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 3420001
             },
-            "model": "item/barrel"
+            "model": "gm4:gui/advancements/icon/ambrosia_create_beehive"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/barrel"
         }
     ]
 }

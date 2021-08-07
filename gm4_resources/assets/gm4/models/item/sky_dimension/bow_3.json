@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "gm4:item/sky_dimension/bow_3"
+    }
+}

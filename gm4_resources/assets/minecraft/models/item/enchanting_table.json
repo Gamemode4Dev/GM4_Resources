@@ -1,5 +1,5 @@
 {
-    "parent": "block/enchanting_table",
+    "parent": "minecraft:block/enchanting_table",
     "overrides": [
         {
             "predicate": {
@@ -11,20 +11,31 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:gui/advancements/icon/enchantment_extractors_mending"
-        },
-        
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/enchanting_table"
+            "model": "gm4:gui/advancements/icon/enchantment_extractors"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 3
             },
-            "model": "item/enchanting_table"
+            "model": "minecraft:item/enchanting_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:block/enchantment_extractor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "gm4:gui/advancements/icon/enchantment_extractors"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "minecraft:item/enchanting_table"
         }
     ]
 }

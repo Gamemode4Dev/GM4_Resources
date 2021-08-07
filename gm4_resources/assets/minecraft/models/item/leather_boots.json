@@ -19,21 +19,99 @@
         },
         {
             "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:gui/advancements/icon/boots_of_ostara"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "minecraft:item/leather_boots"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 102
             },
-            "model": "gm4:item/metallurgy/shamir/levity/leather_boots"
+            "model": "gm4:item/metallurgy/shamir/aluminium/leather_boots"
         },
         {
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "gm4:item/metallurgy/shamir/helios/leather_boots"
+            "model": "gm4:item/metallurgy/shamir/aluminium/leather_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "minecraft:item/leather_boots"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "gm4:item/metallurgy/shamir/defuse/leather_boots"
+            "model": "gm4:item/metallurgy/shamir/aluminium/leather_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "minecraft:item/leather_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:item/boots_of_ostara"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "gm4:item/flippers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "gm4:gui/advancements/icon/boots_of_ostara"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
+            },
+            "model": "minecraft:item/leather_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420102
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/leather_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420103
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/leather_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420104
+            },
+            "model": "minecraft:item/leather_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420106
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/leather_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420107
+            },
+            "model": "minecraft:item/leather_boots"
         }
     ]
 }

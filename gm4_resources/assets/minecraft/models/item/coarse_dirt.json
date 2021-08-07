@@ -1,5 +1,5 @@
 {
-    "parent": "block/coarse_dirt",
+    "parent": "minecraft:block/coarse_dirt",
     "overrides": [
         {
             "predicate": {
@@ -7,18 +7,23 @@
             },
             "model": "gm4:gui/advancements/icon/desire_lines_10000"
         },
-        
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 2
             },
-            "model": "item/coarse_dirt"
+            "model": "minecraft:item/coarse_dirt"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 3420001
             },
-            "model": "item/coarse_dirt"
+            "model": "gm4:gui/advancements/icon/desire_lines_10000"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/coarse_dirt"
         }
     ]
 }

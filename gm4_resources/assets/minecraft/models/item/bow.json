@@ -99,6 +99,116 @@
                 "custom_model_data": 1
             },
             "model": "gm4:gui/advancements/icon/better_fire"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 1
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65,
+                "custom_model_data": 1
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9,
+                "custom_model_data": 1
+            },
+            "model": "item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/sky_dimension/bow_2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_0_2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65,
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_1_2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9,
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_2_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/sky_dimension/bow_3"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_0_3"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65,
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_1_3"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9,
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_2_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "item/bow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 4
+            },
+            "model": "item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65,
+                "custom_model_data": 4
+            },
+            "model": "item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9,
+                "custom_model_data": 4
+            },
+            "model": "item/bow_pulling_2"
         }
     ]
 }

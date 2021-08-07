@@ -1,5 +1,5 @@
 {
-    "parent": "block/birch_stairs",
+    "parent": "minecraft:block/birch_stairs",
     "overrides": [
         {
             "predicate": {
@@ -7,18 +7,23 @@
             },
             "model": "gm4:gui/advancements/icon/chairs_creation"
         },
-
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 2
             },
-            "model": "item/birch_stairs"
+            "model": "minecraft:item/birch_stairs"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 3420001
             },
-            "model": "item/birch_stairs"
+            "model": "gm4:gui/advancements/icon/chairs_creation"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/birch_stairs"
         }
     ]
 }

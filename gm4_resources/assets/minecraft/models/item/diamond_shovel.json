@@ -1,20 +1,248 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/diamond_shovel"
+        "layer0": "minecraft:item/diamond_shovel"
     },
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_okay"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "minecraft:item/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "gm4:item/sky_dimension/diamond_shovel_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "minecraft:item/diamond_shovel"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/hypexperia/diamond_shovel"
+            "model": "gm4:item/metallurgy/shamir/copper/diamond_shovel"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/metallurgy/shamir/tinker/diamond_shovel"
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "minecraft:item/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 115
+            },
+            "model": "minecraft:item/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_okay"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420010
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420011
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420012
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420013
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420014
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420015
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420016
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420017
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420018
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420019
+            },
+            "model": "gm4:item/end_fishing/tools/diamond_shovel_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420020
+            },
+            "model": "gm4:item/sky_dimension/diamond_shovel_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420021
+            },
+            "model": "minecraft:item/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420110
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420111
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420112
+            },
+            "model": "minecraft:item/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420113
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420114
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420115
+            },
+            "model": "minecraft:item/diamond_shovel"
         }
     ]
 }

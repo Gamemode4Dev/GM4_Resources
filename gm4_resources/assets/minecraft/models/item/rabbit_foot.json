@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/rabbit_foot"
+        "layer0": "minecraft:item/rabbit_foot"
     },
     "overrides": [
         {
@@ -10,18 +10,23 @@
             },
             "model": "gm4:gui/advancements/icon/zauber_cauldrons_rabbit"
         },
-        
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 2
             },
-            "model": "item/rabbit_foot"
+            "model": "minecraft:item/rabbit_foot"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 3420001
             },
-            "model": "item/rabbit_foot"
+            "model": "gm4:gui/advancements/icon/zauber_cauldrons_rabbit"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/rabbit_foot"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "parent": "block/tnt",
+    "parent": "minecraft:block/tnt",
     "overrides": [
         {
             "predicate": {
@@ -17,20 +17,49 @@
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "gm4:gui/advancements/icon/tnt_landmines"
-        },
-        
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "item/tnt"
+            "model": "minecraft:item/tnt"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 40
             },
-            "model": "item/tnt"
+            "model": "gm4:entity/tnt_landmines/tnt_landmine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "minecraft:item/tnt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:block/disassembler"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "gm4:gui/advancements/icon/disassemblers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "minecraft:item/tnt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420040
+            },
+            "model": "gm4:entity/tnt_landmines/tnt_landmine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420041
+            },
+            "model": "minecraft:item/tnt"
         }
     ]
 }

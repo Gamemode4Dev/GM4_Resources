@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/phantom_membrane"
+        "layer0": "minecraft:item/phantom_membrane"
     },
     "overrides": [
         {
@@ -10,18 +10,35 @@
             },
             "model": "gm4:item/bat_droppings"
         },
-        
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 2
             },
-            "model": "item/phantom_membrane"
+            "model": "gm4:gui/advancements/icon/sky_dimension_summon_boss"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 3
             },
-            "model": "item/phantom_membrane"
+            "model": "minecraft:item/phantom_membrane"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:item/bat_droppings"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "gm4:gui/advancements/icon/sky_dimension_summon_boss"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "minecraft:item/phantom_membrane"
         }
     ]
 }

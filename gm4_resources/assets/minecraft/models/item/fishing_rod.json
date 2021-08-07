@@ -1,0 +1,53 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/fishing_rod"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "cast": 1
+            },
+            "model": "item/fishing_rod_cast"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/fishing_rod"
+        },
+        {
+            "predicate": {
+                "cast": 1,
+                "custom_model_data": 2				
+            },
+            "model": "item/fishing_rod_cast"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/fishing_rod"
+        },
+        {
+            "predicate": {
+                "cast": 1,
+                "custom_model_data": 110				
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/fishing_rod_cast"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "item/fishing_rod"
+        },
+        {
+            "predicate": {
+                "cast": 1,
+                "custom_model_data": 111				
+            },
+            "model": "item/fishing_rod_cast"
+        }
+    ]
+}

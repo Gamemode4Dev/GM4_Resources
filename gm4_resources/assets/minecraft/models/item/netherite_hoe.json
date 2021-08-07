@@ -1,0 +1,104 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_hoe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "gm4:item/sky_dimension/netherite_hoe_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "minecraft:item/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "gm4:item/metallurgy/shamir/barimium/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "minecraft:item/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "minecraft:item/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "minecraft:item/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420020
+            },
+            "model": "gm4:item/sky_dimension/netherite_hoe_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420021
+            },
+            "model": "minecraft:item/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420109
+            },
+            "model": "gm4:item/metallurgy/shamir/barimium/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420110
+            },
+            "model": "minecraft:item/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420111
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420112
+            },
+            "model": "minecraft:item/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420113
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/netherite_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420114
+            },
+            "model": "minecraft:item/netherite_hoe"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/blaze_rod"
+        "layer0": "minecraft:item/blaze_rod"
     },
     "overrides": [
         {
@@ -10,18 +10,23 @@
             },
             "model": "gm4:item/lightning_rod"
         },
-        
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 2
             },
-            "model": "item/blaze_rod"
+            "model": "minecraft:item/blaze_rod"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 3420001
             },
-            "model": "item/blaze_rod"
+            "model": "gm4:item/lightning_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/blaze_rod"
         }
     ]
 }

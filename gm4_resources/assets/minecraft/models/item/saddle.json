@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/saddle"
+        "layer0": "minecraft:item/saddle"
     },
     "overrides": [
         {
@@ -9,6 +9,24 @@
                 "custom_model_data": 1
             },
             "model": "gm4:gui/advancements/icon/pig_tractors"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "minecraft:item/saddle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/pig_tractors"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/saddle"
         }
     ]
 }

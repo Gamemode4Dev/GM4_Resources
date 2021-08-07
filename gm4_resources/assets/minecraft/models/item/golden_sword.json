@@ -1,26 +1,116 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/golden_sword"
+        "layer0": "minecraft:item/golden_sword"
     },
     "overrides": [
         {
             "predicate": {
                 "custom_model_data": 105
             },
-            "model": "gm4:item/metallurgy/shamir/ender_bolt/golden_sword"
+            "model": "gm4:item/metallurgy/shamir/thorium/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "minecraft:item/golden_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "gm4:item/metallurgy/shamir/musical/golden_sword"
+            "model": "gm4:item/metallurgy/shamir/barimium/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "minecraft:item/golden_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/hypexperia/golden_sword"
+            "model": "gm4:item/metallurgy/shamir/copper/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "minecraft:item/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 117
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "minecraft:item/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420105
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420106
+            },
+            "model": "minecraft:item/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420108
+            },
+            "model": "gm4:item/metallurgy/shamir/barimium/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420109
+            },
+            "model": "minecraft:item/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420110
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420111
+            },
+            "model": "minecraft:item/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420116
+            },
+            "model": "gm4:item/metallurgy/shamir/copper/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420117
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium_brass/golden_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420118
+            },
+            "model": "minecraft:item/golden_sword"
         }
     ]
 }

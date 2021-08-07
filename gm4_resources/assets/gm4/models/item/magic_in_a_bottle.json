@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/glass_bottle"
+        "layer0": "gm4:item/magic_in_a_bottle"
     }
 }

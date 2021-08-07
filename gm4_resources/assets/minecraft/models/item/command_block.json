@@ -1,5 +1,5 @@
 {
-    "parent": "block/command_block",
+    "parent": "minecraft:block/command_block",
     "overrides": [
         {
             "predicate": {
@@ -7,18 +7,23 @@
             },
             "model": "gm4:gui/advancements/icon/root"
         },
-        
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 2
             },
-            "model": "item/command_block"
+            "model": "minecraft:item/command_block"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 3420001
             },
-            "model": "item/command_block"
+            "model": "gm4:gui/advancements/icon/root"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/command_block"
         }
     ]
 }

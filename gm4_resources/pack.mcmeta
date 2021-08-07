@@ -1,11 +1,31 @@
 {
-  "pack": {
-    "pack_format": 4,
-    "description": "§bOptional Resources for GM4\n§81.14+"
-  },
-  "module_name": "Resources",
-  "module_id": "resources",
-  "credits": {
-    
-  }
+    "pack": {
+        "pack_format": 6,
+        "description": [
+            "Resources",
+            "\n",
+            {
+                "text": "Gamemode 4 for 1.16.5",
+                "color": "aqua"
+            }
+        ]
+    },
+    "module_name": "Resources",
+    "module_id": "resources",
+    "credits": {
+        "Management": [
+            [
+                "Hozz",
+                "https://twitter.com/Hozz8528"
+            ],
+            [
+                "Andante",
+                "https://twitter.com/Andantweets"
+            ],
+            [
+                "Misode",
+                "https://twitter.com/misode_"
+            ]
+        ]
+    }
 }

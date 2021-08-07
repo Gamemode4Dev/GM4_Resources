@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/gunpowder"
+        "layer0": "minecraft:item/gunpowder"
     },
     "overrides": [
         {
@@ -10,18 +10,35 @@
             },
             "model": "gm4:gui/advancements/icon/bat_grenades"
         },
-        
         {
             "predicate": {
-                "custom_model_data": 16
+                "custom_model_data": 2
             },
-            "model": "item/gunpowder"
+            "model": "gm4:item/soft_defuser"
         },
         {
             "predicate": {
-                "custom_model_data": 64
+                "custom_model_data": 3
             },
-            "model": "item/gunpowder"
+            "model": "minecraft:item/gunpowder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/bat_grenades"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "gm4:item/soft_defuser"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "minecraft:item/gunpowder"
         }
     ]
 }
