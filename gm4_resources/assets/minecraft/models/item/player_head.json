@@ -125,7 +125,7 @@
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "gm4:item/relocator"
+            "model": "gm4:item/relocator_empty"
         },
         {
             "predicate": {
@@ -143,7 +143,7 @@
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "gm4:item/relocator_compressor"
+            "model": "gm4:item/relocator_block_compressor"
         },
         {
             "predicate": {
@@ -197,7 +197,7 @@
             "predicate": {
                 "custom_model_data": 39
             },
-            "model": "gm4:gui/advancements/icon/relocator"
+            "model": "gm4:gui/advancements/icon/relocator_empty"
         },
         {
             "predicate": {
@@ -280,6 +280,42 @@
         {
             "predicate": {
                 "custom_model_data": 53
+            },
+            "model": "minecraft:item/player_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "gm4:item/crystal_of_harming"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "gm4:item/crystal_of_health"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "gm4:item/crystal_of_leaping"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "gm4:item/crystal_of_poison"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "gm4:item/crystal_of_strength"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 59
             },
             "model": "minecraft:item/player_head"
         },
@@ -521,7 +557,7 @@
             "predicate": {
                 "custom_model_data": 3420027
             },
-            "model": "gm4:item/relocator"
+            "model": "gm4:item/relocator_empty"
         },
         {
             "predicate": {
@@ -539,7 +575,7 @@
             "predicate": {
                 "custom_model_data": 3420030
             },
-            "model": "gm4:item/relocator_compressor"
+            "model": "gm4:item/relocator_block_compressor"
         },
         {
             "predicate": {
@@ -593,7 +629,7 @@
             "predicate": {
                 "custom_model_data": 3420039
             },
-            "model": "gm4:gui/advancements/icon/relocator"
+            "model": "gm4:gui/advancements/icon/relocator_empty"
         },
         {
             "predicate": {
@@ -676,6 +712,42 @@
         {
             "predicate": {
                 "custom_model_data": 3420053
+            },
+            "model": "minecraft:item/player_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420054
+            },
+            "model": "gm4:item/crystal_of_harming"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420055
+            },
+            "model": "gm4:item/crystal_of_health"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420056
+            },
+            "model": "gm4:item/crystal_of_leaping"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420057
+            },
+            "model": "gm4:item/crystal_of_poison"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420058
+            },
+            "model": "gm4:item/crystal_of_strength"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420059
             },
             "model": "minecraft:item/player_head"
         },
