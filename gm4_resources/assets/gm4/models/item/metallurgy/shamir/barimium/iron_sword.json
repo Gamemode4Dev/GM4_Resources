@@ -1,7 +1,6 @@
 {
-    "parent": "minecraft:item/handheld",
+    "parent": "minecraft:item/iron_sword",
     "textures": {
-        "layer0": "minecraft:item/iron_sword",
         "layer1": "gm4:item/metallurgy/shamir/barimium/sword"
     }
 }

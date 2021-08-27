@@ -78,12 +78,6 @@
         },
         {
             "predicate": {
-                "custom_model_data": 102
-            },
-            "model": "gm4:item/metallurgy/shamir/aluminium/netherite_boots"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 103
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/netherite_boots"
@@ -103,6 +97,48 @@
         {
             "predicate": {
                 "custom_model_data": 107
+            },
+            "model": "minecraft:item/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 119
+            },
+            "model": "minecraft:item/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 121
+            },
+            "model": "gm4:item/metallurgy/shamir/bismuth/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 122
+            },
+            "model": "minecraft:item/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 123
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
             },
             "model": "minecraft:item/netherite_boots"
         },
@@ -180,12 +216,6 @@
         },
         {
             "predicate": {
-                "custom_model_data": 3420102
-            },
-            "model": "gm4:item/metallurgy/shamir/aluminium/netherite_boots"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 3420103
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/netherite_boots"
@@ -205,6 +235,48 @@
         {
             "predicate": {
                 "custom_model_data": 3420107
+            },
+            "model": "minecraft:item/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420118
+            },
+            "model": "gm4:item/metallurgy/shamir/aluminium/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420119
+            },
+            "model": "minecraft:item/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420121
+            },
+            "model": "gm4:item/metallurgy/shamir/bismuth/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420122
+            },
+            "model": "minecraft:item/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420123
+            },
+            "model": "gm4:item/metallurgy/shamir/thorium/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_boots"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
             },
             "model": "minecraft:item/netherite_boots"
         }

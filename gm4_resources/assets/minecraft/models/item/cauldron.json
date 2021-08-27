@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/zauber_cauldrons_create"
+            "model": "gm4:gui/advancements/icon/zauber_cauldrons/zauber_cauldrons_create"
         },
         {
             "predicate": {
@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:gui/advancements/icon/zauber_cauldrons_create"
+            "model": "gm4:gui/advancements/icon/zauber_cauldrons/zauber_cauldrons_create"
         },
         {
             "predicate": {

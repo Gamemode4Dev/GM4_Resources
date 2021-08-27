@@ -6,15 +6,9 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "gm4:item/bat_droppings"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:gui/advancements/icon/sky_dimension_summon_boss"
+            "model": "gm4:gui/advancements/icon/sky_dimension/sky_dimension_summon_colossal_phantom"
         },
         {
             "predicate": {
@@ -24,15 +18,9 @@
         },
         {
             "predicate": {
-                "custom_model_data": 3420001
-            },
-            "model": "gm4:item/bat_droppings"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 3420002
             },
-            "model": "gm4:gui/advancements/icon/sky_dimension_summon_boss"
+            "model": "gm4:gui/advancements/icon/sky_dimension/sky_dimension_summon_colossal_phantom"
         },
         {
             "predicate": {

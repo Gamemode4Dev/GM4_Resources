@@ -1,7 +1,6 @@
 {
-    "parent": "minecraft:item/handheld",
+    "parent": "minecraft:item/netherite_axe",
     "textures": {
-        "layer0": "minecraft:item/netherite_axe",
         "layer1": "gm4:item/metallurgy/shamir/barium/axe"
     }
 }

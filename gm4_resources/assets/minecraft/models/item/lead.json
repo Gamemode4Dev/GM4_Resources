@@ -27,7 +27,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/sky_dimension_bees"
+            "model": "gm4:gui/advancements/icon/sky_dimension/sky_dimension_beeloons"
         },
         {
             "predicate": {
@@ -39,7 +39,7 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:gui/advancements/icon/sky_dimension_bees"
+            "model": "gm4:gui/advancements/icon/sky_dimension/sky_dimension_beeloons"
         },
         {
             "predicate": {

@@ -8,11 +8,23 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/end_fishing_swords"
+            "model": "gm4:gui/advancements/icon/end_fishing/end_fishing_swords"
         },
         {
             "predicate": {
                 "custom_model_data": 2
+            },
+            "model": "gm4:item/sky_dimension/diamond_sword_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/sky_dimension/diamond_sword_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
             },
             "model": "minecraft:item/diamond_sword"
         },
@@ -182,7 +194,7 @@
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/diamond_sword"
         },
         {
             "predicate": {
@@ -194,13 +206,13 @@
             "predicate": {
                 "custom_model_data": 116
             },
-            "model": "gm4:item/metallurgy/shamir/copper/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/diamond_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/diamond_sword"
         },
         {
             "predicate": {
@@ -210,13 +222,37 @@
         },
         {
             "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/diamond_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "minecraft:item/diamond_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:gui/advancements/icon/end_fishing_swords"
+            "model": "gm4:gui/advancements/icon/end_fishing/end_fishing_swords"
         },
         {
             "predicate": {
                 "custom_model_data": 3420002
+            },
+            "model": "gm4:item/sky_dimension/diamond_sword_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "gm4:item/sky_dimension/diamond_sword_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
             },
             "model": "minecraft:item/diamond_sword"
         },
@@ -386,7 +422,7 @@
             "predicate": {
                 "custom_model_data": 3420110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/diamond_sword"
         },
         {
             "predicate": {
@@ -398,17 +434,29 @@
             "predicate": {
                 "custom_model_data": 3420116
             },
-            "model": "gm4:item/metallurgy/shamir/copper/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/diamond_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 3420117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/diamond_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 3420118
+            },
+            "model": "minecraft:item/diamond_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/diamond_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
             },
             "model": "minecraft:item/diamond_sword"
         }

@@ -9,23 +9,17 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:item/wormhole_in_a_bottle"
+            "model": "gm4:item/zauber_cauldrons/wormhole_in_a_bottle"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:gui/advancements/icon/potion_liquids"
+            "model": "gm4:gui/advancements/icon/potion_liquids/potion_liquids"
         },
         {
             "predicate": {
                 "custom_model_data": 3
-            },
-            "model": "gm4:gui/advancements/icon/ambrosia_bottled_honey"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4
             },
             "model": "minecraft:item/potion"
         },
@@ -33,23 +27,17 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:item/wormhole_in_a_bottle"
+            "model": "gm4:item/zauber_cauldrons/wormhole_in_a_bottle"
         },
         {
             "predicate": {
                 "custom_model_data": 3420002
             },
-            "model": "gm4:gui/advancements/icon/potion_liquids"
+            "model": "gm4:gui/advancements/icon/potion_liquids/potion_liquids"
         },
         {
             "predicate": {
                 "custom_model_data": 3420003
-            },
-            "model": "gm4:gui/advancements/icon/ambrosia_bottled_honey"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420004
             },
             "model": "minecraft:item/potion"
         }

@@ -98,30 +98,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/better_fire"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "custom_model_data": 1
-            },
-            "model": "item/bow_pulling_0"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.65,
-                "custom_model_data": 1
-            },
-            "model": "item/bow_pulling_1"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.9,
-                "custom_model_data": 1
-            },
-            "model": "item/bow_pulling_2"
+            "model": "gm4:gui/advancements/icon/better_fire/better_fire"
         },
         {
             "predicate": {
@@ -131,24 +108,24 @@
         },
         {
             "predicate": {
-                "pulling": 1,
-                "custom_model_data": 2
+                "custom_model_data": 2,
+                "pulling": 1
             },
             "model": "gm4:item/sky_dimension/bow_pulling_0_2"
         },
         {
             "predicate": {
+                "custom_model_data": 2,
                 "pulling": 1,
-                "pull": 0.65,
-                "custom_model_data": 2
+                "pull": 0.65
             },
             "model": "gm4:item/sky_dimension/bow_pulling_1_2"
         },
         {
             "predicate": {
+                "custom_model_data": 2,
                 "pulling": 1,
-                "pull": 0.9,
-                "custom_model_data": 2
+                "pull": 0.9
             },
             "model": "gm4:item/sky_dimension/bow_pulling_2_2"
         },
@@ -160,24 +137,24 @@
         },
         {
             "predicate": {
-                "pulling": 1,
-                "custom_model_data": 3
+                "custom_model_data": 3,
+                "pulling": 1
             },
             "model": "gm4:item/sky_dimension/bow_pulling_0_3"
         },
         {
             "predicate": {
+                "custom_model_data": 3,
                 "pulling": 1,
-                "pull": 0.65,
-                "custom_model_data": 3
+                "pull": 0.65
             },
             "model": "gm4:item/sky_dimension/bow_pulling_1_3"
         },
         {
             "predicate": {
+                "custom_model_data": 3,
                 "pulling": 1,
-                "pull": 0.9,
-                "custom_model_data": 3
+                "pull": 0.9
             },
             "model": "gm4:item/sky_dimension/bow_pulling_2_3"
         },
@@ -185,30 +162,239 @@
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "item/bow"
+            "model": "minecraft:item/bow"
         },
         {
             "predicate": {
-                "pulling": 1,
-                "custom_model_data": 4
+                "custom_model_data": 4,
+                "pulling": 1
             },
-            "model": "item/bow_pulling_0"
+            "model": "minecraft:item/bow_pulling_0"
         },
         {
             "predicate": {
+                "custom_model_data": 4,
                 "pulling": 1,
-                "pull": 0.65,
-                "custom_model_data": 4
+                "pull": 0.65
             },
-            "model": "item/bow_pulling_1"
+            "model": "minecraft:item/bow_pulling_1"
         },
         {
             "predicate": {
+                "custom_model_data": 4,
                 "pulling": 1,
-                "pull": 0.9,
-                "custom_model_data": 4
+                "pull": 0.9
             },
-            "model": "item/bow_pulling_2"
+            "model": "minecraft:item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124,
+                "pulling": 1
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "minecraft:item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125,
+                "pulling": 1
+            },
+            "model": "minecraft:item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "minecraft:item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "minecraft:item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/better_fire/better_fire"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "gm4:item/sky_dimension/bow_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002,
+                "pulling": 1
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_0_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_1_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_2_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "gm4:item/sky_dimension/bow_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003,
+                "pulling": 1
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_0_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_1_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "gm4:item/sky_dimension/bow_pulling_2_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
+            },
+            "model": "minecraft:item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004,
+                "pulling": 1
+            },
+            "model": "minecraft:item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "minecraft:item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "minecraft:item/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124,
+                "pulling": 1
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
+            },
+            "model": "minecraft:item/bow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125,
+                "pulling": 1
+            },
+            "model": "minecraft:item/bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "minecraft:item/bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "minecraft:item/bow_pulling_2"
         }
     ]
 }

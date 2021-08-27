@@ -5,13 +5,13 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:block/enchantment_extractor"
+            "model": "gm4:block/enchantment_extractors/enchantment_extractor"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:gui/advancements/icon/enchantment_extractors"
+            "model": "gm4:gui/advancements/icon/enchantment_extractors/enchantment_extractors"
         },
         {
             "predicate": {
@@ -23,13 +23,13 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:block/enchantment_extractor"
+            "model": "gm4:block/enchantment_extractors/enchantment_extractor"
         },
         {
             "predicate": {
                 "custom_model_data": 3420002
             },
-            "model": "gm4:gui/advancements/icon/enchantment_extractors"
+            "model": "gm4:gui/advancements/icon/enchantment_extractors/enchantment_extractors"
         },
         {
             "predicate": {

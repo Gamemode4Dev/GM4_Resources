@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/enchantment_extractors_mending"
+            "model": "gm4:gui/advancements/icon/enchantment_extractors/enchantment_extractors_mending"
         },
         {
             "predicate": {
@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:gui/advancements/icon/enchantment_extractors_mending"
+            "model": "gm4:gui/advancements/icon/enchantment_extractors/enchantment_extractors_mending"
         },
         {
             "predicate": {

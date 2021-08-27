@@ -1,8 +1,6 @@
 {
-    "parent": "minecraft:item/generated",
+    "parent": "minecraft:item/leather_leggings",
     "textures": {
-        "layer0": "minecraft:item/leather_leggings",
-        "layer1": "minecraft:item/leather_leggings_overlay",
-        "layer2": "gm4:item/metallurgy/shamir/aluminium/leather_leggings"
+        "layer2": "gm4:item/metallurgy/shamir/aluminium/leggings_leather"
     }
 }

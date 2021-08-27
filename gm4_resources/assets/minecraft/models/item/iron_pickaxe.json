@@ -74,7 +74,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "gm4:item/metallurgy/shamir/copper/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/bismuth/iron_pickaxe"
         },
         {
             "predicate": {
@@ -86,13 +86,13 @@
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/bismuth/iron_pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/iron_pickaxe"
         },
         {
             "predicate": {
@@ -110,11 +110,35 @@
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/iron_pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 115
+            },
+            "model": "minecraft:item/iron_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 120
+            },
+            "model": "gm4:item/metallurgy/shamir/barium/iron_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 121
+            },
+            "model": "minecraft:item/iron_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/iron_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
             },
             "model": "minecraft:item/iron_pickaxe"
         },
@@ -188,7 +212,7 @@
             "predicate": {
                 "custom_model_data": 3420107
             },
-            "model": "gm4:item/metallurgy/shamir/copper/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/bismuth/iron_pickaxe"
         },
         {
             "predicate": {
@@ -200,13 +224,13 @@
             "predicate": {
                 "custom_model_data": 3420110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/bismuth/iron_pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 3420111
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/iron_pickaxe"
         },
         {
             "predicate": {
@@ -224,11 +248,35 @@
             "predicate": {
                 "custom_model_data": 3420114
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/iron_pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 3420115
+            },
+            "model": "minecraft:item/iron_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420120
+            },
+            "model": "gm4:item/metallurgy/shamir/barium/iron_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420121
+            },
+            "model": "minecraft:item/iron_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/iron_pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
             },
             "model": "minecraft:item/iron_pickaxe"
         }

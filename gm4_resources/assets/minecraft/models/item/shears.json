@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/tnt_landmines"
+            "model": "gm4:gui/advancements/icon/tnt_landmines/tnt_landmines"
         },
         {
             "predicate": {
@@ -19,6 +19,12 @@
         {
             "predicate": {
                 "custom_model_data": 3
+            },
+            "model": "gm4:item/sky_dimension/shears_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
             },
             "model": "minecraft:item/shears"
         },
@@ -36,9 +42,21 @@
         },
         {
             "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/shears"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "minecraft:item/shears"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:gui/advancements/icon/tnt_landmines"
+            "model": "gm4:gui/advancements/icon/tnt_landmines/tnt_landmines"
         },
         {
             "predicate": {
@@ -49,6 +67,12 @@
         {
             "predicate": {
                 "custom_model_data": 3420003
+            },
+            "model": "gm4:item/sky_dimension/shears_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
             },
             "model": "minecraft:item/shears"
         },
@@ -61,6 +85,18 @@
         {
             "predicate": {
                 "custom_model_data": 3420114
+            },
+            "model": "minecraft:item/shears"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/shears"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
             },
             "model": "minecraft:item/shears"
         }

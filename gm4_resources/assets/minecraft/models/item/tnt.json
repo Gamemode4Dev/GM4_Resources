@@ -5,13 +5,13 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:block/disassembler"
+            "model": "gm4:block/disassemblers/disassembler"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:gui/advancements/icon/disassemblers"
+            "model": "gm4:gui/advancements/icon/disassemblers/disassemblers"
         },
         {
             "predicate": {
@@ -35,13 +35,13 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:block/disassembler"
+            "model": "gm4:block/disassemblers/disassembler"
         },
         {
             "predicate": {
                 "custom_model_data": 3420002
             },
-            "model": "gm4:gui/advancements/icon/disassemblers"
+            "model": "gm4:gui/advancements/icon/disassemblers/disassemblers"
         },
         {
             "predicate": {

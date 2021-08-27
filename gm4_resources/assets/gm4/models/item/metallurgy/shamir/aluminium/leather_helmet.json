@@ -1,8 +1,6 @@
 {
-    "parent": "minecraft:item/generated",
+    "parent": "minecraft:item/leather_helmet",
     "textures": {
-        "layer0": "minecraft:item/leather_helmet",
-        "layer1": "minecraft:item/leather_helmet_overlay",
         "layer2": "gm4:item/metallurgy/shamir/aluminium/helmet"
     }
 }

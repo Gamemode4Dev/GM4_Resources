@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:item/enchanted_page"
+            "model": "gm4:item/book_binders/enchanted_page"
         },
         {
             "predicate": {
@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:item/enchanted_page"
+            "model": "gm4:item/book_binders/enchanted_page"
         },
         {
             "predicate": {

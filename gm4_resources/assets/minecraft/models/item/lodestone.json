@@ -5,7 +5,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/teleportation_anchor"
+            "model": "gm4:gui/advancements/icon/teleportation_anchors/teleportation_anchor"
         },
         {
             "predicate": {
@@ -17,7 +17,7 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:gui/advancements/icon/teleportation_anchor"
+            "model": "gm4:gui/advancements/icon/teleportation_anchors/teleportation_anchor"
         },
         {
             "predicate": {

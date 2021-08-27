@@ -1,7 +1,6 @@
 {
-    "parent": "minecraft:item/handheld",
+    "parent": "minecraft:item/stone_axe",
     "textures": {
-        "layer0": "minecraft:item/stone_axe",
         "layer1": "gm4:item/metallurgy/shamir/aluminium/axe"
     }
 }

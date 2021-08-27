@@ -1,7 +1,6 @@
 {
-    "parent": "minecraft:item/generated",
+    "parent": "minecraft:item/iron_leggings",
     "textures": {
-        "layer0": "minecraft:item/iron_leggings",
         "layer1": "gm4:item/metallurgy/shamir/aluminium/leggings"
     }
 }

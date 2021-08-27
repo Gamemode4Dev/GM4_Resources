@@ -8,13 +8,13 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/bat_grenades"
+            "model": "gm4:gui/advancements/icon/bat_grenades/bat_grenades"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:item/soft_defuser"
+            "model": "gm4:item/tnt_landmines/soft_defuser"
         },
         {
             "predicate": {
@@ -26,13 +26,13 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:gui/advancements/icon/bat_grenades"
+            "model": "gm4:gui/advancements/icon/bat_grenades/bat_grenades"
         },
         {
             "predicate": {
                 "custom_model_data": 3420002
             },
-            "model": "gm4:item/soft_defuser"
+            "model": "gm4:item/tnt_landmines/soft_defuser"
         },
         {
             "predicate": {

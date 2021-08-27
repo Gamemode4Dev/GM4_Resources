@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/vertical_rails"
+            "model": "gm4:gui/advancements/icon/vertical_rails/vertical_rails"
         },
         {
             "predicate": {
@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:gui/advancements/icon/vertical_rails"
+            "model": "gm4:gui/advancements/icon/vertical_rails/vertical_rails"
         },
         {
             "predicate": {

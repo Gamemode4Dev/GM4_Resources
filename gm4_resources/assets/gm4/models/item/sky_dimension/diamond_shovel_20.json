@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/generated",
+    "parent": "minecraft:item/handheld",
     "textures": {
         "layer0": "gm4:item/sky_dimension/diamond_shovel_20"
     }

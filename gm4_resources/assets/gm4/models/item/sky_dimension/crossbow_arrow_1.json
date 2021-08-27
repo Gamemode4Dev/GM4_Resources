@@ -1,5 +1,5 @@
 {
-    "parent": "item/crossbow",
+    "parent": "minecraft:item/crossbow_arrow",
     "textures": {
         "layer0": "gm4:item/sky_dimension/crossbow_arrow_1"
     }

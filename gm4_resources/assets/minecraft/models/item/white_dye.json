@@ -6,18 +6,6 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "gm4:item/larvae"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "gm4:gui/advancements/icon/ambrosia_find_larvae"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 3
             },
             "model": "gm4:item/sky_dimension/phantom_bait"
@@ -27,18 +15,6 @@
                 "custom_model_data": 4
             },
             "model": "minecraft:item/white_dye"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420001
-            },
-            "model": "gm4:item/larvae"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420002
-            },
-            "model": "gm4:gui/advancements/icon/ambrosia_find_larvae"
         },
         {
             "predicate": {

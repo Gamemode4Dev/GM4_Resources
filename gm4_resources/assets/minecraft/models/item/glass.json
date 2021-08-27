@@ -5,7 +5,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:block/liquid_tank"
+            "model": "gm4:block/liquid_tanks/liquid_tank"
         },
         {
             "predicate": {
@@ -17,7 +17,7 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:block/liquid_tank"
+            "model": "gm4:block/liquid_tanks/liquid_tank"
         },
         {
             "predicate": {

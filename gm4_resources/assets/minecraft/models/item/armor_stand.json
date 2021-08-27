@@ -8,13 +8,13 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/better_armour_stands"
+            "model": "gm4:gui/advancements/icon/better_armour_stands/better_armour_stands"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:gui/advancements/icon/poses_pack"
+            "model": "gm4:gui/advancements/icon/poses_pack/poses_pack"
         },
         {
             "predicate": {
@@ -26,13 +26,13 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:gui/advancements/icon/better_armour_stands"
+            "model": "gm4:gui/advancements/icon/better_armour_stands/better_armour_stands"
         },
         {
             "predicate": {
                 "custom_model_data": 3420002
             },
-            "model": "gm4:gui/advancements/icon/poses_pack"
+            "model": "gm4:gui/advancements/icon/poses_pack/poses_pack"
         },
         {
             "predicate": {

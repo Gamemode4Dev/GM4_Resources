@@ -6,25 +6,25 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 10
+                "custom_model_data": 100
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/bucket"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bucket"
         },
         {
             "predicate": {
-                "custom_model_data": 11
+                "custom_model_data": 101
             },
             "model": "minecraft:item/bucket"
         },
         {
             "predicate": {
-                "custom_model_data": 3420010
+                "custom_model_data": 3420100
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/bucket"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bucket"
         },
         {
             "predicate": {
-                "custom_model_data": 3420011
+                "custom_model_data": 3420101
             },
             "model": "minecraft:item/bucket"
         }

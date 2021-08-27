@@ -1,0 +1,23 @@
+{
+    "parent": "gm4:block/cube_w_input",
+	"textures": {
+		"particle": "gm4:block/block_compressor_side",
+		"side": "gm4:block/block_compressor_side",
+		"bottom": "gm4:block/master_crafter_bottom",
+		"top": "gm4:block/compressor_top",		
+		"small_side": "gm4:block/input_side",
+		"small_top": "gm4:block/input_top"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -2, 0.775],
+			"scale": [2.002, 2.003, 2.003]
+		},
+		"gui": {
+            "rotation": [ 30, 225, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.625, 0.625, 0.625 ]
+        }		
+	}
+}

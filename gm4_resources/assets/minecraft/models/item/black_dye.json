@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/orb_of_ankou_soul_essence"
+            "model": "gm4:gui/advancements/icon/orb_of_ankou/orb_of_ankou_soul_essence"
         },
         {
             "predicate": {
@@ -230,7 +230,7 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:gui/advancements/icon/orb_of_ankou_soul_essence"
+            "model": "gm4:gui/advancements/icon/orb_of_ankou/orb_of_ankou_soul_essence"
         },
         {
             "predicate": {

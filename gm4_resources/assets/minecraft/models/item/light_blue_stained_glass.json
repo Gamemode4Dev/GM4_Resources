@@ -5,7 +5,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:gui/advancements/icon/sky_dimension_sky_lens"
+            "model": "gm4:gui/advancements/icon/sky_dimension/sky_dimension_use_sky_lens"
         },
         {
             "predicate": {
@@ -17,7 +17,7 @@
             "predicate": {
                 "custom_model_data": 3420002
             },
-            "model": "gm4:gui/advancements/icon/sky_dimension_sky_lens"
+            "model": "gm4:gui/advancements/icon/sky_dimension/sky_dimension_use_sky_lens"
         },
         {
             "predicate": {

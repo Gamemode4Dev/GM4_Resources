@@ -5,7 +5,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:block/smeltery_glass"
+            "model": "gm4:block/smelteries/smeltery_glass"
         },
         {
             "predicate": {
@@ -17,7 +17,7 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:block/smeltery_glass"
+            "model": "gm4:block/smelteries/smeltery_glass"
         },
         {
             "predicate": {

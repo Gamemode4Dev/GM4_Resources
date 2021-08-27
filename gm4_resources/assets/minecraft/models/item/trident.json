@@ -32,11 +32,23 @@
             "predicate": {
                 "custom_model_data": 117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/trident"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/trident"
         },
         {
             "predicate": {
                 "custom_model_data": 118
+            },
+            "model": "minecraft:item/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
             },
             "model": "minecraft:item/trident"
         },
@@ -68,11 +80,23 @@
             "predicate": {
                 "custom_model_data": 3420117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/trident"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/trident"
         },
         {
             "predicate": {
                 "custom_model_data": 3420118
+            },
+            "model": "minecraft:item/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/trident"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
             },
             "model": "minecraft:item/trident"
         }

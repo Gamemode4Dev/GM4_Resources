@@ -1,7 +1,6 @@
 {
-    "parent": "minecraft:item/handheld",
+    "parent": "minecraft:item/netherite_hoe",
     "textures": {
-        "layer0": "minecraft:item/netherite_hoe",
         "layer1": "gm4:item/metallurgy/shamir/barimium/hoe"
     }
 }

@@ -1,7 +1,6 @@
 {
-    "parent": "minecraft:item/generated",
+    "parent": "minecraft:item/golden_helmet",
     "textures": {
-        "layer0": "minecraft:item/golden_helmet",
         "layer1": "gm4:item/metallurgy/shamir/aluminium/helmet"
     }
 }

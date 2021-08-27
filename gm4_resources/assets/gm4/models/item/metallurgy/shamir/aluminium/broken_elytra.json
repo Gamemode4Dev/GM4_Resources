@@ -1,7 +1,6 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/broken_elytra",
     "textures": {
-        "layer0": "item/broken_elytra",
-		"layer1": "gm4:item/metallurgy/shamir/aluminium/broken_elytra"
-	}
+        "layer1": "gm4:item/metallurgy/shamir/aluminium/broken_elytra"
+    }
 }

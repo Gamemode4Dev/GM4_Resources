@@ -6,6 +6,24 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/sky_dimension/netherite_sword_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:item/sky_dimension/netherite_sword_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "minecraft:item/netherite_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 10
             },
             "model": "gm4:item/end_fishing/swords/netherite_sword_10"
@@ -170,7 +188,7 @@
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/netherite_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/netherite_sword"
         },
         {
             "predicate": {
@@ -182,17 +200,47 @@
             "predicate": {
                 "custom_model_data": 116
             },
-            "model": "gm4:item/metallurgy/shamir/copper/netherite_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/netherite_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_sword"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 118
+            },
+            "model": "minecraft:item/netherite_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "minecraft:item/netherite_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "gm4:item/sky_dimension/netherite_sword_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "gm4:item/sky_dimension/netherite_sword_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
             },
             "model": "minecraft:item/netherite_sword"
         },
@@ -362,7 +410,7 @@
             "predicate": {
                 "custom_model_data": 3420110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/netherite_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/netherite_sword"
         },
         {
             "predicate": {
@@ -374,17 +422,29 @@
             "predicate": {
                 "custom_model_data": 3420116
             },
-            "model": "gm4:item/metallurgy/shamir/copper/netherite_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/netherite_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 3420117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_sword"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 3420118
+            },
+            "model": "minecraft:item/netherite_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
             },
             "model": "minecraft:item/netherite_sword"
         }

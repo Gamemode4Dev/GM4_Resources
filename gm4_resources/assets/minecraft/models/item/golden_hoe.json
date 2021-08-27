@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/sky_dimension/golden_hoe_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "minecraft:item/golden_hoe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 109
             },
             "model": "gm4:item/metallurgy/shamir/barimium/golden_hoe"
@@ -20,7 +32,7 @@
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/golden_hoe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/golden_hoe"
         },
         {
             "predicate": {
@@ -42,6 +54,42 @@
         },
         {
             "predicate": {
+                "custom_model_data": 120
+            },
+            "model": "gm4:item/metallurgy/shamir/barium/golden_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 121
+            },
+            "model": "minecraft:item/golden_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/golden_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "minecraft:item/golden_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:item/sky_dimension/golden_hoe_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/golden_hoe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3420109
             },
             "model": "gm4:item/metallurgy/shamir/barimium/golden_hoe"
@@ -56,7 +104,7 @@
             "predicate": {
                 "custom_model_data": 3420111
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/golden_hoe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/golden_hoe"
         },
         {
             "predicate": {
@@ -73,6 +121,30 @@
         {
             "predicate": {
                 "custom_model_data": 3420114
+            },
+            "model": "minecraft:item/golden_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420120
+            },
+            "model": "gm4:item/metallurgy/shamir/barium/golden_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420121
+            },
+            "model": "minecraft:item/golden_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/golden_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
             },
             "model": "minecraft:item/golden_hoe"
         }

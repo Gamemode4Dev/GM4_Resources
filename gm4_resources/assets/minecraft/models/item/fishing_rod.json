@@ -10,44 +10,109 @@
             },
             "model": "item/fishing_rod_cast"
         },
-		{
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "item/fishing_rod"
-        },
         {
-            "predicate": {
-                "cast": 1,
-                "custom_model_data": 2				
-            },
-            "model": "item/fishing_rod_cast"
-        },
-		{
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/fishing_rod"
+            "model": "gm4:item/metallurgy/shamir/bismuth/fishing_rod"
         },
         {
             "predicate": {
-                "cast": 1,
-                "custom_model_data": 110				
+                "custom_model_data": 110,
+                "cast": 1
             },
-            "model": "gm4:item/metallurgy/shamir/copper/fishing_rod_cast"
+            "model": "gm4:item/metallurgy/shamir/bismuth/fishing_rod_cast"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "item/fishing_rod"
+            "model": "minecraft:item/fishing_rod"
         },
         {
             "predicate": {
-                "cast": 1,
-                "custom_model_data": 111				
+                "custom_model_data": 111,
+                "cast": 1
             },
-            "model": "item/fishing_rod_cast"
+            "model": "minecraft:item/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124,
+                "cast": 1
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "minecraft:item/fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125,
+                "cast": 1
+            },
+            "model": "minecraft:item/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420110
+            },
+            "model": "gm4:item/metallurgy/shamir/bismuth/fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420110,
+                "cast": 1
+            },
+            "model": "gm4:item/metallurgy/shamir/bismuth/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420111
+            },
+            "model": "minecraft:item/fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420111,
+                "cast": 1
+            },
+            "model": "minecraft:item/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124,
+                "cast": 1
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
+            },
+            "model": "minecraft:item/fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125,
+                "cast": 1
+            },
+            "model": "minecraft:item/fishing_rod_cast"
         }
     ]
 }

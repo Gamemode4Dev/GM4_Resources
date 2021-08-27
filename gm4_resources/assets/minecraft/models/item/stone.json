@@ -5,7 +5,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:gui/advancements/icon/template_pack"
+            "model": "gm4:gui/advancements/icon/template_pack/template_pack"
         },
         {
             "predicate": {
@@ -29,7 +29,7 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:gui/advancements/icon/template_pack"
+            "model": "gm4:gui/advancements/icon/template_pack/template_pack"
         },
         {
             "predicate": {

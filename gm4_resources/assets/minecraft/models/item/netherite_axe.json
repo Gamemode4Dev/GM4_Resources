@@ -32,13 +32,13 @@
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/netherite_axe"
+            "model": "gm4:item/metallurgy/shamir/bismuth/netherite_axe"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_axe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_axe"
         },
         {
             "predicate": {
@@ -60,13 +60,43 @@
         },
         {
             "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "gm4:item/metallurgy/shamir/bismuth/netherite_axe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_axe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_axe"
         },
         {
             "predicate": {
                 "custom_model_data": 118
+            },
+            "model": "minecraft:item/netherite_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 120
+            },
+            "model": "gm4:item/metallurgy/shamir/barium/netherite_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 121
+            },
+            "model": "minecraft:item/netherite_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
             },
             "model": "minecraft:item/netherite_axe"
         },
@@ -98,13 +128,13 @@
             "predicate": {
                 "custom_model_data": 3420110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/netherite_axe"
+            "model": "gm4:item/metallurgy/shamir/bismuth/netherite_axe"
         },
         {
             "predicate": {
                 "custom_model_data": 3420111
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_axe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_axe"
         },
         {
             "predicate": {
@@ -126,13 +156,43 @@
         },
         {
             "predicate": {
+                "custom_model_data": 3420116
+            },
+            "model": "gm4:item/metallurgy/shamir/bismuth/netherite_axe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3420117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/netherite_axe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_axe"
         },
         {
             "predicate": {
                 "custom_model_data": 3420118
+            },
+            "model": "minecraft:item/netherite_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420120
+            },
+            "model": "gm4:item/metallurgy/shamir/barium/netherite_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420121
+            },
+            "model": "minecraft:item/netherite_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/netherite_axe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
             },
             "model": "minecraft:item/netherite_axe"
         }

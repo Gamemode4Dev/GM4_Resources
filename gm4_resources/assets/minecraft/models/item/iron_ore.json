@@ -3,15 +3,9 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "gm4:gui/advancements/icon/metallurgy_blast_ore"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:block/iron_ore_display"
+            "model": "gm4:block/smelteries/iron_ore_display"
         },
         {
             "predicate": {
@@ -21,15 +15,9 @@
         },
         {
             "predicate": {
-                "custom_model_data": 3420001
-            },
-            "model": "gm4:gui/advancements/icon/metallurgy_blast_ore"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 3420002
             },
-            "model": "gm4:block/iron_ore_display"
+            "model": "gm4:block/smelteries/iron_ore_display"
         },
         {
             "predicate": {

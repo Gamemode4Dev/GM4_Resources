@@ -1,0 +1,56 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/flint_and_steel"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/orb_of_ankou/orb_of_ankou_soul_forge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "minecraft:item/flint_and_steel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/flint_and_steel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "minecraft:item/flint_and_steel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/orb_of_ankou/orb_of_ankou_soul_forge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/flint_and_steel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/flint_and_steel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
+            },
+            "model": "minecraft:item/flint_and_steel"
+        }
+    ]
+}

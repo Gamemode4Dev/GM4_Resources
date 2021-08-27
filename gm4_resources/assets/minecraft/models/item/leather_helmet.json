@@ -43,6 +43,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/leather_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "minecraft:item/leather_helmet"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 3420001
             },
             "model": "gm4:item/sky_dimension/leather_helmet_1"
@@ -74,6 +86,18 @@
         {
             "predicate": {
                 "custom_model_data": 3420107
+            },
+            "model": "minecraft:item/leather_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420124
+            },
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/leather_helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420125
             },
             "model": "minecraft:item/leather_helmet"
         }

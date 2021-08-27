@@ -5,19 +5,19 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:block/custom_crafter"
+            "model": "gm4:block/custom_crafters/custom_crafter"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gm4:item/slightly_damaged_workbench"
+            "model": "gm4:item/custom_crafters/slightly_damaged_workbench"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "gm4:gui/advancements/icon/custom_crafters"
+            "model": "gm4:gui/advancements/icon/custom_crafters/custom_crafters"
         },
         {
             "predicate": {
@@ -41,19 +41,19 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:block/custom_crafter"
+            "model": "gm4:block/custom_crafters/custom_crafter"
         },
         {
             "predicate": {
                 "custom_model_data": 3420002
             },
-            "model": "gm4:item/slightly_damaged_workbench"
+            "model": "gm4:item/custom_crafters/slightly_damaged_workbench"
         },
         {
             "predicate": {
                 "custom_model_data": 3420003
             },
-            "model": "gm4:gui/advancements/icon/custom_crafters"
+            "model": "gm4:gui/advancements/icon/custom_crafters/custom_crafters"
         },
         {
             "predicate": {
