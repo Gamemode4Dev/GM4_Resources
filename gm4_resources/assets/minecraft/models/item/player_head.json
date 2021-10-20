@@ -47,13 +47,7 @@
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "gm4:item/zauber_cauldrons/crystal_of_resistance"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 11
-            },
-            "model": "gm4:item/zauber_cauldrons/crystal_of_fire_resistance"
+            "model": "minecraft:item/player_head"
         },
         {
             "predicate": {
@@ -527,13 +521,7 @@
             "predicate": {
                 "custom_model_data": 3420010
             },
-            "model": "gm4:item/zauber_cauldrons/crystal_of_resistance"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420011
-            },
-            "model": "gm4:item/zauber_cauldrons/crystal_of_fire_resistance"
+            "model": "minecraft:item/player_head"
         },
         {
             "predicate": {
