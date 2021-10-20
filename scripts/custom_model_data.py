@@ -14,6 +14,8 @@ VANILLA_MODEL_PATH = "gm4_resources/assets/minecraft/models/item"
 DOC_ID = "1myt9FkMYkvyzpr9Uu7wXyzXNNreLQreWfWfP4CAGMQM"
 DOC_SHEET = "Data"
 DOC_URL = f"https://docs.google.com/spreadsheets/d/{DOC_ID}/gviz/tq?tqx=out:csv&sheet={DOC_SHEET}"
+PR_SHEET = "PRs"
+PR_URL = f"https://docs.google.com/spreadsheets/d/{DOC_ID}/gviz/tq?tqx=out:csv&sheet={PR_SHEET}"
 
 MODELS_URL = "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.17.1/assets/minecraft/models/item/_all.json"
 
@@ -42,6 +44,7 @@ def write_json(path, content):
     file.write("\n")
 
 data = pandas.read_csv(DOC_URL)
+# data = pandas.concat([data,pandas.read_csv(PR_URL)])
 models = json.load(urllib.request.urlopen(MODELS_URL))
 generated_models = set()
 
