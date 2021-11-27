@@ -1,7 +1,3 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "gm4:item/boots_of_ostara/boots_of_ostara",
-        "layer1": "gm4:item/boots_of_ostara/boots_of_ostara_overlay"
-    }
+    "parent": "gm4:item/boots_of_ostara/boots_of_ostara"
 }

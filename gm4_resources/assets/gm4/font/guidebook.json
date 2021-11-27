@@ -291,33 +291,6 @@
       },
       {
          "type": "bitmap",
-         "file": "gm4:shulker_tooltip.png",
-         "ascent": 23,
-         "height": 78,
-         "chars": [
-            "\u0900"
-         ]
-      },
-      {
-         "type": "bitmap",
-         "file": "gm4:shulker_tooltip_header.png",
-         "ascent": 23,
-         "height": 78,
-         "chars": [
-            "\u0901"
-         ]
-      },
-      {
-         "type": "bitmap",
-         "file": "gm4:ender_tooltip.png",
-         "ascent": 23,
-         "height": 78,
-         "chars": [
-            "\u0902"
-         ]
-      },
-      {
-         "type": "bitmap",
          "file": "minecraft:item/acacia_boat.png",
          "ascent": -32768,
          "height": -9,
