@@ -1,4 +1,6 @@
 import pandas
+from itertools import chain
+
 
 TOOL_MATERIALS=("wooden","stone","iron","golden","diamond","netherite")
 ARMOR_MATERIALS=("leather","chainmail","iron","golden","diamond","netherite")
@@ -6,45 +8,38 @@ ARMOR_MATERIALS=("leather","chainmail","iron","golden","diamond","netherite")
 def preprocess_data(data):
   newData = pandas.DataFrame(columns=["Item","Index","Category","Module","Name","Model","Texture","Parent"])
   for i, row in data.iterrows():
-    if any(isinstance(string, str) and '{' in string for string in row):
-      newData = newData.append(specialHandler(row))
-    else:
-      newData = newData.append([row])
+    newData = newData.append(specialHandler(row))
+  newData["Index"] = pandas.to_numeric(newData["Index"])
   return newData
 
+def strReplacer(row, string, replacement):
+  newRow = row.apply(lambda s: s.replace(string, replacement) if isinstance(s, str) else s)
+  if newRow["Item"] == "leather_leggings":
+    newRow["Texture"] += "_leather"
+  if newRow["Item"] == "netherite_helmet":
+    newRow["Texture"] += "_netherite"
+  return newRow
 
-def specialHandler(ogrow):
-  extra_rows = [ogrow]
-  for row in extra_rows:
-    [item, index, category, module, name, model_type, texture, parent] = row
-    if ('{tooltype}' in item):
-      for tool_type in TOOL_MATERIALS:
-        extra_rows.append({
-          "Item": item.format(tooltype=tool_type),
-          "Index": index, 
-          "Category": category,
-          "Module": module,
-          "Name": name.format(tooltype=tool_type),
-          "Model": model_type,
-          "Texture": texture.format(tooltype=tool_type),
-          "Parent": parent
-        })
-    if ('{armortype}' in item):
-      for armor_type in ARMOR_MATERIALS:
-        temptexture = texture
-        if (armor_type == 'netherite') and ('helmet' in item):
-          temptexture += '_netherite'
-        if (armor_type == 'leather') and ('leggings' in item):
-          temptexture += '_leather'
-        extra_rows.append({
-          "Item": item.format(armortype=armor_type),
-          "Index": index, 
-          "Category": category,
-          "Module": module,
-          "Name": name.format(armortype=armor_type),
-          "Model": model_type,
-          "Texture": temptexture.format(armortype=armor_type),
-          "Parent": parent
-        })
-    return extra_rows
+def multiStrReplacer(row, string, replacementList):
+  return [strReplacer(row, string, replacement) for replacement in replacementList]
+       
+def numberReplacer(row):
+  returnrows = []
+  for i in range(int(row["Index"].split("..")[0]),int(row["Index"].split("..")[1]) + 1):
+    newRow = row.apply(lambda s: s.replace('{#}', str(i)) if isinstance(s, str) else s)
+    newRow["Index"] = i
+    returnrows.append(newRow)
+  return returnrows
+
+def specialHandler(row):
+  returnrows = []
+  if any('{tooltype}' in s for s in row if isinstance(s, str)):
+    returnrows += chain(*[specialHandler(x) for x in multiStrReplacer(row, '{tooltype}', TOOL_MATERIALS)])
+  elif any('{armortype}' in s for s in row if isinstance(s, str)):
+    returnrows += chain(*[specialHandler(x) for x in multiStrReplacer(row, '{armortype}', ARMOR_MATERIALS)])
+  elif isinstance(row["Index"], str) and '..' in row["Index"]:
+      returnrows += chain(*[specialHandler(x) for x in numberReplacer(row)])
+  else:
+    returnrows.append(row)
+  return returnrows
   
