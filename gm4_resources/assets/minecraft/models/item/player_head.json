@@ -317,6 +317,18 @@
             "predicate": {
                 "custom_model_data": 59
             },
+            "model": "gm4:gui/advancements/icon/guidebook/enderman_support_class"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/heart_canisters"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 61
+            },
             "model": "minecraft:item/player_head"
         },
         {
@@ -790,6 +802,18 @@
         {
             "predicate": {
                 "custom_model_data": 3420059
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/enderman_support_class"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420060
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/heart_canisters"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420061
             },
             "model": "minecraft:item/player_head"
         },

@@ -17,6 +17,18 @@
             "predicate": {
                 "custom_model_data": 3
             },
+            "model": "gm4:gui/advancements/icon/guidebook/disassemblers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/tnt_landmines"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
             "model": "minecraft:item/tnt"
         },
         {
@@ -46,6 +58,18 @@
         {
             "predicate": {
                 "custom_model_data": 3420003
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/disassemblers"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/tnt_landmines"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420005
             },
             "model": "minecraft:item/tnt"
         },

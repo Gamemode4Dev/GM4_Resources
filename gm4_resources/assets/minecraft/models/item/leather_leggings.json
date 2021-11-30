@@ -7,6 +7,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/washing_tanks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "minecraft:item/leather_leggings"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 103
             },
             "model": "gm4:item/metallurgy/shamir/aluminium/leather_leggings"
@@ -38,6 +50,18 @@
         {
             "predicate": {
                 "custom_model_data": 125
+            },
+            "model": "minecraft:item/leather_leggings"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/washing_tanks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
             },
             "model": "minecraft:item/leather_leggings"
         },

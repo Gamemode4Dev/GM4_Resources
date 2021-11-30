@@ -33,6 +33,12 @@
             "predicate": {
                 "custom_model_data": 5
             },
+            "model": "gm4:gui/advancements/icon/guidebook/boots_of_ostara"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
             "model": "minecraft:item/leather_boots"
         },
         {
@@ -128,6 +134,12 @@
         {
             "predicate": {
                 "custom_model_data": 3420005
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/boots_of_ostara"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420006
             },
             "model": "minecraft:item/leather_boots"
         },

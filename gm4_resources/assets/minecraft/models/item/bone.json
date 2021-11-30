@@ -27,7 +27,7 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "gm4:item/sky_dimension/bone_1"
+            "model": "gm4:gui/advancements/icon/guidebook/resurrecting_skeletons"
         },
         {
             "predicate": {
@@ -39,7 +39,7 @@
             "predicate": {
                 "custom_model_data": 3420001
             },
-            "model": "gm4:item/sky_dimension/bone_1"
+            "model": "gm4:gui/advancements/icon/guidebook/resurrecting_skeletons"
         },
         {
             "predicate": {

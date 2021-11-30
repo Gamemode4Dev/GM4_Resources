@@ -7,6 +7,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/illusioner_nights"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "minecraft:item/lingering_potion"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 4
             },
             "model": "gm4:item/lightning_in_a_bottle/lingering_lightning_in_a_bottle"
@@ -14,6 +26,18 @@
         {
             "predicate": {
                 "custom_model_data": 5
+            },
+            "model": "minecraft:item/lingering_potion"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/illusioner_nights"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
             },
             "model": "minecraft:item/lingering_potion"
         },

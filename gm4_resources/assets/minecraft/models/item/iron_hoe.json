@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/pig_tractors"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "minecraft:item/iron_hoe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 109
             },
             "model": "gm4:item/metallurgy/shamir/barimium/iron_hoe"
@@ -61,6 +73,18 @@
         {
             "predicate": {
                 "custom_model_data": 125
+            },
+            "model": "minecraft:item/iron_hoe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/pig_tractors"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
             },
             "model": "minecraft:item/iron_hoe"
         },

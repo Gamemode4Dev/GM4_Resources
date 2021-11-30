@@ -27,6 +27,12 @@
             "predicate": {
                 "custom_model_data": 4
             },
+            "model": "gm4:gui/advancements/icon/guidebook/everstone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
             "model": "minecraft:item/firework_star"
         },
         {
@@ -50,6 +56,12 @@
         {
             "predicate": {
                 "custom_model_data": 3420004
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/everstone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420005
             },
             "model": "minecraft:item/firework_star"
         }

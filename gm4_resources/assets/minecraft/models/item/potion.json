@@ -33,6 +33,18 @@
             "predicate": {
                 "custom_model_data": 5
             },
+            "model": "gm4:gui/advancements/icon/guidebook/potion_liquids"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/zauber_liquids"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
             "model": "minecraft:item/potion"
         },
         {
@@ -62,6 +74,18 @@
         {
             "predicate": {
                 "custom_model_data": 3420005
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/potion_liquids"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420006
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/zauber_liquids"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420007
             },
             "model": "minecraft:item/potion"
         }
