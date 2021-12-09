@@ -18,7 +18,7 @@ DOC_URL = f"https://docs.google.com/spreadsheets/d/{DOC_ID}/gviz/tq?tqx=out:csv&
 PR_SHEET = "PRs"
 PR_URL = f"https://docs.google.com/spreadsheets/d/{DOC_ID}/gviz/tq?tqx=out:csv&sheet={PR_SHEET}"
 
-MODELS_URL = "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.18-pre8/assets/minecraft/models/item/_all.json"
+MODELS_URL = "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.18/assets/minecraft/models/item/_all.json"
 
 CATEGORIES = {
   "block": "block/",

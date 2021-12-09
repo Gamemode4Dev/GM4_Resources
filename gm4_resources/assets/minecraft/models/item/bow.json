@@ -102,35 +102,6 @@
         },
         {
             "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "gm4:item/sky_dimension/bow_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1,
-                "pulling": 1
-            },
-            "model": "gm4:item/sky_dimension/bow_pulling_0_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1,
-                "pulling": 1,
-                "pull": 0.65
-            },
-            "model": "gm4:item/sky_dimension/bow_pulling_1_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1,
-                "pulling": 1,
-                "pull": 0.9
-            },
-            "model": "gm4:item/sky_dimension/bow_pulling_2_1"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 2
             },
             "model": "gm4:item/sky_dimension/bow_2"
@@ -279,35 +250,6 @@
                 "custom_model_data": 3420001
             },
             "model": "gm4:gui/advancements/icon/better_fire/better_fire"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420001
-            },
-            "model": "gm4:item/sky_dimension/bow_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420001,
-                "pulling": 1
-            },
-            "model": "gm4:item/sky_dimension/bow_pulling_0_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420001,
-                "pulling": 1,
-                "pull": 0.65
-            },
-            "model": "gm4:item/sky_dimension/bow_pulling_1_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420001,
-                "pulling": 1,
-                "pull": 0.9
-            },
-            "model": "gm4:item/sky_dimension/bow_pulling_2_1"
         },
         {
             "predicate": {
