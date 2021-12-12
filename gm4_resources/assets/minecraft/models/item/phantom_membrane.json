@@ -6,6 +6,12 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/enlarging_phantoms"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 2
             },
             "model": "gm4:gui/advancements/icon/sky_dimension/sky_dimension_summon_colossal_phantom"
@@ -15,6 +21,12 @@
                 "custom_model_data": 3
             },
             "model": "minecraft:item/phantom_membrane"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/enlarging_phantoms"
         },
         {
             "predicate": {

@@ -14,6 +14,12 @@
             "predicate": {
                 "custom_model_data": 2
             },
+            "model": "gm4:gui/advancements/icon/guidebook/mending_tanks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
             "model": "minecraft:item/diamond_axe"
         },
         {
@@ -109,6 +115,12 @@
         {
             "predicate": {
                 "custom_model_data": 3420002
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/mending_tanks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
             },
             "model": "minecraft:item/diamond_axe"
         },

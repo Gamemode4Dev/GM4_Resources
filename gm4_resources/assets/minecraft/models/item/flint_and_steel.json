@@ -18,6 +18,24 @@
         },
         {
             "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/better_fire"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/orb_of_ankou"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "minecraft:item/flint_and_steel"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 124
             },
             "model": "gm4:item/metallurgy/shamir/curies_bismium/flint_and_steel"
@@ -37,6 +55,24 @@
         {
             "predicate": {
                 "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/flint_and_steel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420003
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/better_fire"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/orb_of_ankou"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420005
             },
             "model": "minecraft:item/flint_and_steel"
         },

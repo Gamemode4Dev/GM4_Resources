@@ -12,6 +12,25 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/end_fishing"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "minecraft:item/fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2,
+                "cast": 1
+            },
+            "model": "minecraft:item/fishing_rod_cast"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 110
             },
             "model": "gm4:item/metallurgy/shamir/bismuth/fishing_rod"
@@ -58,6 +77,25 @@
         {
             "predicate": {
                 "custom_model_data": 125,
+                "cast": 1
+            },
+            "model": "minecraft:item/fishing_rod_cast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/end_fishing"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
+            },
+            "model": "minecraft:item/fishing_rod"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002,
                 "cast": 1
             },
             "model": "minecraft:item/fishing_rod_cast"

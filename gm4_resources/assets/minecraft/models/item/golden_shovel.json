@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/sunken_treasure"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "minecraft:item/golden_shovel"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 110
             },
             "model": "gm4:item/metallurgy/shamir/bismuth/golden_shovel"
@@ -61,6 +73,18 @@
         {
             "predicate": {
                 "custom_model_data": 125
+            },
+            "model": "minecraft:item/golden_shovel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420001
+            },
+            "model": "gm4:gui/advancements/icon/guidebook/sunken_treasure"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420002
             },
             "model": "minecraft:item/golden_shovel"
         },

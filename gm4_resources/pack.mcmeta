@@ -1,11 +1,11 @@
 {
     "pack": {
-        "pack_format": 7,
+        "pack_format": 8,
         "description": [
             "Resources",
             "\n",
             {
-                "text": "Gamemode 4 for 1.17.1",
+                "text": "Gamemode 4 for 1.18",
                 "color": "aqua"
             }
         ]
@@ -25,6 +25,10 @@
             [
                 "Misode",
                 "https://twitter.com/misode_"
+            ],
+            [
+                "JP12",
+                ""
             ]
         ]
     }

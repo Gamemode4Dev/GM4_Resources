@@ -287,18 +287,24 @@
             "predicate": {
                 "custom_model_data": 5
             },
+            "model": "gm4:gui/advancements/icon/guidebook/crossbow_cartridges"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
             "model": "minecraft:item/crossbow"
         },
         {
             "predicate": {
-                "custom_model_data": 5,
+                "custom_model_data": 6,
                 "pulling": 1
             },
             "model": "minecraft:item/crossbow_pulling_0"
         },
         {
             "predicate": {
-                "custom_model_data": 5,
+                "custom_model_data": 6,
                 "pulling": 1,
                 "pull": 0.58
             },
@@ -306,7 +312,7 @@
         },
         {
             "predicate": {
-                "custom_model_data": 5,
+                "custom_model_data": 6,
                 "pulling": 1,
                 "pull": 1.0
             },
@@ -314,14 +320,14 @@
         },
         {
             "predicate": {
-                "custom_model_data": 5,
+                "custom_model_data": 6,
                 "charged": 1
             },
             "model": "minecraft:item/crossbow_arrow"
         },
         {
             "predicate": {
-                "custom_model_data": 5,
+                "custom_model_data": 6,
                 "charged": 1,
                 "firework": 1
             },
@@ -595,18 +601,24 @@
             "predicate": {
                 "custom_model_data": 3420005
             },
+            "model": "gm4:gui/advancements/icon/guidebook/crossbow_cartridges"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420006
+            },
             "model": "minecraft:item/crossbow"
         },
         {
             "predicate": {
-                "custom_model_data": 3420005,
+                "custom_model_data": 3420006,
                 "pulling": 1
             },
             "model": "minecraft:item/crossbow_pulling_0"
         },
         {
             "predicate": {
-                "custom_model_data": 3420005,
+                "custom_model_data": 3420006,
                 "pulling": 1,
                 "pull": 0.58
             },
@@ -614,7 +626,7 @@
         },
         {
             "predicate": {
-                "custom_model_data": 3420005,
+                "custom_model_data": 3420006,
                 "pulling": 1,
                 "pull": 1.0
             },
@@ -622,14 +634,14 @@
         },
         {
             "predicate": {
-                "custom_model_data": 3420005,
+                "custom_model_data": 3420006,
                 "charged": 1
             },
             "model": "minecraft:item/crossbow_arrow"
         },
         {
             "predicate": {
-                "custom_model_data": 3420005,
+                "custom_model_data": 3420006,
                 "charged": 1,
                 "firework": 1
             },

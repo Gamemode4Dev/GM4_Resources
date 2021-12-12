@@ -5,6 +5,7 @@ import errno
 import os
 import special_cases
 import generate_gm4
+import preprocess
 
 NAMESPACE = "gm4"
 CMD_PREFIXES = (0, 3420000) # legacy and registered prefixes
@@ -17,7 +18,7 @@ DOC_URL = f"https://docs.google.com/spreadsheets/d/{DOC_ID}/gviz/tq?tqx=out:csv&
 PR_SHEET = "PRs"
 PR_URL = f"https://docs.google.com/spreadsheets/d/{DOC_ID}/gviz/tq?tqx=out:csv&sheet={PR_SHEET}"
 
-MODELS_URL = "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.17.1/assets/minecraft/models/item/_all.json"
+MODELS_URL = "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.18/assets/minecraft/models/item/_all.json"
 
 CATEGORIES = {
   "block": "block/",
@@ -25,10 +26,6 @@ CATEGORIES = {
   "entity": "entity/",
   "icon": "gui/advancements/icon/",
 }
-
-TOOL_MATERIALS=("wooden","stone","iron","golden","diamond","netherite")
-ARMOR_MATERIALS=("leather","chainmail","iron","golden","diamond","netherite")
-
 
 IGNORES = ("spyglass", "shield") # items with strange model files 
 
@@ -48,46 +45,7 @@ data = pandas.read_csv(DOC_URL)
 models = json.load(urllib.request.urlopen(MODELS_URL))
 generated_models = set()
 
-to_append = []
-to_drop = []
-for item, overrides in data.groupby("Item"):
-  if ('{tooltype}' in item):
-    for i, row in overrides.iterrows():
-      to_drop.append(i)
-      [item, index, category, module, name, model_type, texture, parent] = row
-      for tool_type in TOOL_MATERIALS:
-        to_append.append({
-          "Item": item.format(tooltype=tool_type),
-          "Index": index, 
-          "Category": category,
-          "Module": module,
-          "Name": name.format(tooltype=tool_type),
-          "Model": model_type,
-          "Texture": texture.format(tooltype=tool_type),
-          "Parent": parent
-        })
-  if ('{armortype}' in item):
-    for i, row in overrides.iterrows():
-      to_drop.append(i)
-      [item, index, category, module, name, model_type, texture, parent] = row
-      for armor_type in ARMOR_MATERIALS:
-        temptexture = texture
-        if (armor_type == 'netherite') and ('helmet' in item):
-          temptexture += '_netherite'
-        if (armor_type == 'leather') and ('leggings' in item):
-          temptexture += '_leather'
-        to_append.append({
-          "Item": item.format(armortype=armor_type),
-          "Index": index, 
-          "Category": category,
-          "Module": module,
-          "Name": name.format(armortype=armor_type),
-          "Model": model_type,
-          "Texture": temptexture.format(armortype=armor_type),
-          "Parent": parent
-        })
-data = data.drop(to_drop)
-data = data.append(to_append)
+data = preprocess.preprocess_data(data)
 
 for item, overrides in data.groupby("Item"):
   if item in IGNORES:
