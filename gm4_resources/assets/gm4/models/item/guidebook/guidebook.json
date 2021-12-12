@@ -1,6 +1,3 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "gm4:item/guidebook/guidebook"
-    }
+    "parent": "minecraft:item/written_book"
 }
