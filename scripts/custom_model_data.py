@@ -18,7 +18,7 @@ DOC_URL = f"https://docs.google.com/spreadsheets/d/{DOC_ID}/gviz/tq?tqx=out:csv&
 PR_SHEET = "PRs"
 PR_URL = f"https://docs.google.com/spreadsheets/d/{DOC_ID}/gviz/tq?tqx=out:csv&sheet={PR_SHEET}"
 
-MODELS_URL = "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.18/assets/minecraft/models/item/_all.json"
+MODELS_URL = "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.18.1/assets/minecraft/models/item/_all.json"
 
 CATEGORIES = {
   "block": "block/",
@@ -46,6 +46,7 @@ models = json.load(urllib.request.urlopen(MODELS_URL))
 generated_models = set()
 
 data = preprocess.preprocess_data(data)
+data.dropna(subset = ["Item"], inplace=True)
 
 for item, overrides in data.groupby("Item"):
   if item in IGNORES:

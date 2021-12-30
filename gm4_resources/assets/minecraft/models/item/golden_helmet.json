@@ -32,7 +32,7 @@
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "minecraft:item/golden_helmet"
+            "model": "gm4:entity/orb_of_ankou/golden_helmet_6"
         },
         {
             "predicate": {
@@ -116,7 +116,7 @@
             "predicate": {
                 "custom_model_data": 3420006
             },
-            "model": "minecraft:item/golden_helmet"
+            "model": "gm4:entity/orb_of_ankou/golden_helmet_6"
         },
         {
             "predicate": {
