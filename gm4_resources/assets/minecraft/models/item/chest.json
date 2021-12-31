@@ -124,6 +124,18 @@
             "predicate": {
                 "custom_model_data": 3
             },
+            "model": "gm4:item/sunken_treasure/shipwreck_treasure"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "gm4:item/sunken_treasure/shipwreck_supply"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
             "model": "minecraft:item/chest"
         },
         {
@@ -141,6 +153,18 @@
         {
             "predicate": {
                 "custom_model_data": 3420003
+            },
+            "model": "gm4:item/sunken_treasure/shipwreck_treasure"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420004
+            },
+            "model": "gm4:item/sunken_treasure/shipwreck_supply"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420005
             },
             "model": "minecraft:item/chest"
         }
