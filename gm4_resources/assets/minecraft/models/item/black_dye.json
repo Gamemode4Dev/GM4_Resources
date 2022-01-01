@@ -224,6 +224,12 @@
             "predicate": {
                 "custom_model_data": 234
             },
+            "model": "gm4:item/orb_of_ankou/essences/feigning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235
+            },
             "model": "minecraft:item/black_dye"
         },
         {
@@ -445,6 +451,12 @@
         {
             "predicate": {
                 "custom_model_data": 3420234
+            },
+            "model": "gm4:item/orb_of_ankou/essences/feigning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3420235
             },
             "model": "minecraft:item/black_dye"
         }

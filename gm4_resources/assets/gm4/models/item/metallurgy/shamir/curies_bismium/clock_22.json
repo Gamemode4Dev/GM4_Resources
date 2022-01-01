@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/clock_22",
     "textures": {
-        "layer1": "gm4:item/metallurgy/shamir/curies_bismium/compass"
+        "layer1": "gm4:item/metallurgy/shamir/curies_bismium/clock"
     }
 }
