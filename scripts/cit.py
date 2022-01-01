@@ -53,16 +53,19 @@ OTHER_URL = f"https://docs.google.com/spreadsheets/d/{DOC_ID}/gviz/tq?tqx=out:cs
 data2 = pandas.read_csv(OTHER_URL)
 data2.dropna(subset = ["Item"], inplace=True)
 
-for i, rows in data2.groupby(["Type"]):
-  if i == "elytra":
+for i, rows in data2.groupby(["Type","Item","Name"]):
+  if i[0] == "elytra":
     for row in rows.iterrows():
       row = row[1]
       res = f"type=elytra\nmatchItems=elytra\ntexture.elytra={row['Name']}\nnbt.CustomModelData={row['Index'] + CMD_PREFIXES[1]}\n"
       res += f"nbt.CustomModelData=regex:({row['Index']}|{row['Index'] + 3420000})\n"
       write_cit(f"{VANILLA_MODEL_PATH}/{row['Module']}/{row['Name']}", res)
-  elif i == "item":
+  elif i[0] == "item":
+    CMDList = rows["Index"].tolist()
+    CMDList = CMDList + [x + 3420000 for x in CMDList]
     for row in rows.iterrows():
       row = row[1]
       res = f"type=item\nmatchItems={row['Item']}\ntexture={row['Name']}\nnbt.CustomModelData={row['Index'] + CMD_PREFIXES[1]}\n"
-      res += f"nbt.CustomModelData=regex:({row['Index']}|{row['Index'] + 3420000})\n"
+      if len(CMDList) == 1: res += f"nbt.CustomModelData={CMDList[0]}\n"
+      else: res += f'nbt.CustomModelData=regex:({"|".join(str(x) for x in CMDList)})\n'
       write_cit(f"{VANILLA_MODEL_PATH}/{row['Module']}/{row['Name']}", res)
