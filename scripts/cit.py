@@ -34,7 +34,7 @@ for i, rows in data.groupby(["Item","Module","Name"]):
   for row in rows.iterrows():
     row = row[1]
     texturebase = row['Item'].replace("_helmet","").replace("_chestplate","").replace("_leggings","").replace("_boots","").replace("golden","gold")
-    namebase = row['Name'].replace("_helmet","").replace("_chestplate","").replace("_leggings","").replace("_boots","").replace("golden","gold")
+    namebase = row['Name'].split('/')[-1].replace("_helmet","").replace("_chestplate","").replace("_leggings","").replace("_boots","").replace("golden","gold")
     res = "type=armor\n"
     res += f"matchItems={row['Item']}\n"
     if (row["Layer 1"]): res += f"texture.{texturebase}_layer_1={namebase}_layer_1\n"
@@ -57,7 +57,7 @@ for i, rows in data2.groupby(["Type","Item","Name"]):
   if i[0] == "elytra":
     for row in rows.iterrows():
       row = row[1]
-      res = f"type=elytra\nmatchItems=elytra\ntexture.elytra={row['Name']}\nnbt.CustomModelData={row['Index'] + CMD_PREFIXES[1]}\n"
+      res = f"type=elytra\nmatchItems=elytra\ntexture.elytra={row['Name'].split('/')[-1]}\nnbt.CustomModelData={row['Index'] + CMD_PREFIXES[1]}\n"
       res += f"nbt.CustomModelData=regex:({row['Index']}|{row['Index'] + 3420000})\n"
       write_cit(f"{VANILLA_MODEL_PATH}/{row['Module']}/{row['Name']}", res)
   elif i[0] == "item":
@@ -65,7 +65,7 @@ for i, rows in data2.groupby(["Type","Item","Name"]):
     CMDList = CMDList + [x + 3420000 for x in CMDList]
     for row in rows.iterrows():
       row = row[1]
-      res = f"type=item\nmatchItems={row['Item']}\ntexture={row['Name']}\nnbt.CustomModelData={row['Index'] + CMD_PREFIXES[1]}\n"
+      res = f"type=item\nmatchItems={row['Item']}\ntexture={row['Name'].split('/')[-1]}\nnbt.CustomModelData={row['Index'] + CMD_PREFIXES[1]}\n"
       if len(CMDList) == 1: res += f"nbt.CustomModelData={CMDList[0]}\n"
       else: res += f'nbt.CustomModelData=regex:({"|".join(str(x) for x in CMDList)})\n'
       write_cit(f"{VANILLA_MODEL_PATH}/{row['Module']}/{row['Name']}", res)

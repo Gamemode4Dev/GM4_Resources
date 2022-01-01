@@ -27,7 +27,7 @@ CATEGORIES = {
   "icon": "gui/advancements/icon/",
 }
 
-IGNORES = ("spyglass", "") # items with strange model files 
+IGNORES = () # items with strange model files 
 
 def write_json(path, content):
   if not os.path.exists(os.path.dirname(f"{path}.json")):
