@@ -99,6 +99,17 @@ def clock_model_generator(full_name, generated_models, model_type, item, texture
     if override[1] == "": generate_gm4.generate(full_name, generated_models, model_type, f"{item}_00", texture, name, module, "minecraft:item/clock", write_json)
     generate_gm4.generate(full_name.replace("*",f"{override[1]}"), generated_models, model_type, f"{item}{override[1]}", texture, name.replace("*",f"{override[1]}"), module, parent_overwrite, write_json)
 
+def shield_overrides(i,m,model,category):
+  if m[0] == "m": m = m.replace("shield", "shield*")
+  model["overrides"].append({"predicate": {"custom_model_data": i}, "model": m.replace("*","")})
+  if category == "icon": return
+  model["overrides"].append({"predicate": {"custom_model_data": i, "blocking": 1}, "model": m.replace("*","_blocking")})
+
+def shield_generator(full_name, generated_models, model_type, item, texture, name, module, parent_overwrite, write_json, category):
+  generate_gm4.generate(full_name, generated_models, model_type, item, texture, name, module, parent_overwrite, write_json)
+  if category == "icon": return
+  generate_gm4.generate(full_name.replace("*","_blocking"), generated_models, model_type, "shield_blocking", texture, name.replace("*","_blocking"), module, parent_overwrite, write_json)
+
 
 
 cases = {
@@ -108,4 +119,5 @@ cases = {
   "elytra": {"add_override": elytra_overrides, "model_generator": elytra_model_generator},
   "compass": {"add_override": compass_overrides, "model_generator": compass_model_generator},
   "clock": {"add_override": clock_overrides, "model_generator": clock_model_generator},
+  "shield": {"add_override": shield_overrides, "model_generator": shield_generator}
 }
