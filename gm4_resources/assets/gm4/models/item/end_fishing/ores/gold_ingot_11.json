@@ -1,3 +1,6 @@
 {
-    "parent": "minecraft:item/gold_ingot"
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "gm4:item/end_fishing/ores/end_gold_ingot"
+    }
 }
