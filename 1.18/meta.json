@@ -1,5 +1,5 @@
 {
-  "last_commit": "641156f25592cefbeb7bc5c3a518c3d200d3a143",
+  "last_commit": "de73bced54344723372ace87838fb135d02cc960",
   "modules": [
     {
       "id": "gm4_resources",
@@ -59,6 +59,12 @@
       "name": "Memo",
       "links": [
         "https://linktr.ee/miraku_memo"
+      ]
+    },
+    "Misode": {
+      "name": "Misode",
+      "links": [
+        "https://twitter.com/misode_"
       ]
     },
     "SarguCopperpot": {
