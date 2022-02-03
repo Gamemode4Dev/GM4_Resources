@@ -1,0 +1,80 @@
+{
+  "last_commit": "ee53490a545b7b74f595d81674b830a21c34d0d6",
+  "modules": [
+    {
+      "id": "gm4_resources",
+      "name": "Resources",
+      "description": "",
+      "categories": [],
+      "libraries": [
+        "gm4_translations"
+      ],
+      "requires": [],
+      "recommends": [],
+      "wiki_link": "",
+      "video_link": "",
+      "credits": {
+        "Textures": [
+          "Memo",
+          "Hozz"
+        ],
+        "Translations": [
+          "ToffeeMax",
+          "SarguCopperpot",
+          "TheRedCommander",
+          "KompetenterKeks"
+        ],
+        "Management": [
+          "Andante",
+          "JP12",
+          "Misode"
+        ],
+        "Font Magic": [
+          "BluePsychoRanger"
+        ]
+      },
+      "hidden": false
+    }
+  ],
+  "contributors": {
+    "Andante": {
+      "name": "Andante",
+      "links": [
+        "https://twitter.com/Andantweets"
+      ]
+    },
+    "BluePsychoRanger": {
+      "name": "BluePsychoRanger",
+      "links": [
+        "https://twitter.com/BluPsychoRanger"
+      ]
+    },
+    "JP12": {
+      "name": "JP12",
+      "links": [
+        "https://github.com/jpeterik12"
+      ]
+    },
+    "Memo": {
+      "name": "Memo",
+      "links": [
+        "https://linktr.ee/miraku_memo"
+      ]
+    },
+    "SarguCopperpot": {
+      "name": "SarguCopperpot",
+      "links": [
+        "https://twitter.com/SarguCopperpot"
+      ]
+    },
+    "ToffeeMax": {
+      "name": "ToffeeMax",
+      "links": [
+        "https://twitter.com/ToffeeMax"
+      ]
+    },
+    "Hozz": {
+      "name": "Hozz"
+    }
+  }
+}
