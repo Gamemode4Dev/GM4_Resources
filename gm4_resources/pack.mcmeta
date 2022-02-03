@@ -12,24 +12,27 @@
     },
     "module_name": "Resources",
     "module_id": "resources",
+    "libraries": [
+        "gm4_translations"
+    ],
     "credits": {
+        "Textures": [
+            "Memo",
+            "Hozz"
+        ],
+        "Translations": [
+            "ToffeeMax",
+            "SarguCopperpot",
+            "TheRedCommander",
+            "KompetenterKeks"
+        ],
         "Management": [
-            [
-                "Hozz",
-                "https://twitter.com/Hozz8528"
-            ],
-            [
-                "Andante",
-                "https://twitter.com/Andantweets"
-            ],
-            [
-                "Misode",
-                "https://twitter.com/misode_"
-            ],
-            [
-                "JP12",
-                ""
-            ]
+            "Andante",
+            "JP12",
+            "Misode"
+        ],
+        "Font Magic": [
+            "BluePsychoRanger"
         ]
     }
 }
