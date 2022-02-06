@@ -2,7 +2,7 @@
     "pack": {
         "pack_format": 8,
         "description": [
-            "Resources Pack",
+            "Resource Pack",
             "\n",
             {
                 "text": "Gamemode 4 for 1.18",
@@ -10,7 +10,7 @@
             }
         ]
     },
-    "module_name": "Resources Pack",
+    "module_name": "Resource Pack",
     "module_id": "resources",
     "site_description": "Use our resource pack for the definite Gamemode 4 experience! This resource pack does not touch vanilla textures, but adds items textures and models to most Gamemode 4 blocks, items and mobs.",
     "libraries": [
