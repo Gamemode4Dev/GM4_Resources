@@ -1,8 +1,8 @@
 {
-  "last_commit": "133faaed465e0af05581be2cc1ebcaf12e04481a",
+  "last_commit": "d33b91d1d7ee82f184ac086faaa501157e7d01cc",
   "modules": [
     {
-      "id": "gm4_resources",
+      "id": "gm4_resource_pack",
       "name": "Resource Pack",
       "description": "Use our resource pack for the definite Gamemode 4 experience! This resource pack does not touch vanilla textures, but adds textures and models to most Gamemode 4 blocks, items and mobs.",
       "categories": [],
