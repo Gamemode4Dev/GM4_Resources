@@ -44,8 +44,6 @@ def build_modules(ctx: Context):
 				module["credits"] = meta.get("credits", {})
 				module["hidden"] = meta.get("hidden", False)
 
-				print(module)
-
 		except:
 			module["id"] = None
 
@@ -59,15 +57,14 @@ def build_modules(ctx: Context):
 		json.dump(out, f, indent=2)
 		f.write('\n')
 
-	print(modules)
-
 	for module in modules:
 		id = module["id"]
 		if not id:
 			continue
+
 		ctx.require(subproject({
 			"id": id,
-			"data_pack": {
+			"resource_pack": {
 				"name": f"{id}_{version.replace('.', '_')}",
 				"load": [*module["libraries"], id],
 				"zipped": True,
@@ -84,8 +81,8 @@ def build_modules(ctx: Context):
 
 
 def populate_credits(ctx: Context):
-	credits = ctx.data.mcmeta.data["credits"]
-	ctx.data.mcmeta.data["credits"] = {
+	credits = ctx.assets.mcmeta.data.get("credits", {})
+	ctx.assets.mcmeta.data["credits"] = {
 		title: [
 			dict(**ctx.meta["contributors"].get(p, {'name': p}))
 			for p in credits[title]
