@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "gm4:font_magic/spacing_square.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\u00a0"
+            ]
+        }
+    ]
+}
