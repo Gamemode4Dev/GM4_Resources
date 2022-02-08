@@ -10,7 +10,7 @@ import preprocess
 NAMESPACE = "gm4"
 CMD_PREFIXES = (0, 3420000) # legacy and registered prefixes
 
-VANILLA_MODEL_PATH = "gm4_resources/assets/minecraft/models/item"
+VANILLA_MODEL_PATH = "gm4_resource_pack/assets/minecraft/models/item"
 
 DOC_ID = "1myt9FkMYkvyzpr9Uu7wXyzXNNreLQreWfWfP4CAGMQM"
 DOC_SHEET = "Data"
@@ -114,7 +114,7 @@ for item, overrides in data.groupby("Item"):
 #     return allFiles
 
 
-# modelsInFolder = getListOfFiles('./gm4_resources/assets/gm4/models/')
+# modelsInFolder = getListOfFiles('./gm4_resource_pack/assets/gm4/models/')
 # usedtextures = set()
 # unusedmodels = set()
 # parents = set()
@@ -133,18 +133,18 @@ for item, overrides in data.groupby("Item"):
 #       if 'minecraft' in texturepath: continue
 #       if texturepath not in usedtextures:
 #         usedtextures.add(texturepath)
-#   newmodel = model.replace('./gm4_resources/assets/gm4/models/','').replace('\\','/').replace('.json','')
+#   newmodel = model.replace('./gm4_resource_pack/assets/gm4/models/','').replace('\\','/').replace('.json','')
 #   if newmodel not in generate_gm4.usedmodels:
 #     unusedmodels.add(newmodel)
 # unusedmodels -= parents
 
 
 # unusedtextures = set()
-# texturesInFolder = getListOfFiles('./gm4_resources/assets/gm4/textures/')
+# texturesInFolder = getListOfFiles('./gm4_resource_pack/assets/gm4/textures/')
 # for texture in texturesInFolder:
 #   if ('.mcmeta' in texture) or ('_e.' in texture): 
 #     continue
-#   usedtexture = texture.replace('./gm4_resources/assets/gm4/textures/','').replace('\\','/').replace('.png','')
+#   usedtexture = texture.replace('./gm4_resource_pack/assets/gm4/textures/','').replace('\\','/').replace('.png','')
 #   if usedtexture not in usedtextures:
 #     unusedtextures.add(usedtexture)
 
