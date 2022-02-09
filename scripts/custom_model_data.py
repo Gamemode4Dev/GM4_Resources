@@ -41,7 +41,7 @@ def write_json(path, content):
     file.write("\n")
 
 data = pandas.read_csv(DOC_URL)
-# data = pandas.concat([data,pandas.read_csv(PR_URL)])
+data = pandas.concat([data,pandas.read_csv(PR_URL)])
 models = json.load(urllib.request.urlopen(MODELS_URL))
 generated_models = set()
 

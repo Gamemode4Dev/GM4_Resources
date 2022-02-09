@@ -6,7 +6,7 @@ import cit_preprocess
 NAMESPACE = "gm4"
 CMD_PREFIXES = (0, 3420000) # legacy and registered prefixes
 
-VANILLA_MODEL_PATH = "gm4_resources/assets/minecraft/optifine/cit"
+VANILLA_MODEL_PATH = "gm4_resource_pack/assets/minecraft/optifine/cit"
 
 DOC_ID = "1myt9FkMYkvyzpr9Uu7wXyzXNNreLQreWfWfP4CAGMQM"
 DOC_SHEET = "ArmorCIT"

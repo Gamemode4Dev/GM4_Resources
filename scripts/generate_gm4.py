@@ -1,4 +1,4 @@
-GM4_MODEL_PATH = "gm4_resources/assets/gm4/models"
+GM4_MODEL_PATH = "gm4_resource_pack/assets/gm4/models"
 usedmodels = set()
 usedtextures = set()
 
