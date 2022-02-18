@@ -479,7 +479,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/block_compressor.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9000"
@@ -497,7 +497,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/custom_crafter.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9002"
@@ -515,7 +515,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/disassembler.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9004"
@@ -533,7 +533,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/enchantment_extractor.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9006"
@@ -569,7 +569,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/forming_press.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9010"
@@ -605,7 +605,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/smeltery.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9014"
@@ -623,7 +623,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/teleportation_jammer_connected_off.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9016"
@@ -641,7 +641,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/teleportation_jammer_connected_on.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9018"
@@ -659,7 +659,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/teleportation_jammer_disconnected_off.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9020"
@@ -677,7 +677,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/teleportation_jammer_disconnected_on.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9022"
@@ -695,7 +695,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/tinkering_compressor.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9024"
@@ -731,7 +731,7 @@
         {
             "type": "bitmap",
             "file": "gm4:gui/container/empty_dropper.png",
-            "ascent": 14,
+            "ascent": 13,
             "height": 166,
             "chars": [
                 "\u9102"
