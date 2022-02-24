@@ -622,7 +622,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gm4:gui/container/teleportation_jammer_connected_off.png",
+            "file": "gm4:gui/container/teleportation_jammer.png",
             "ascent": 13,
             "height": 166,
             "chars": [
@@ -631,7 +631,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gm4:gui/container/teleportation_jammer_connected_off.png",
+            "file": "gm4:gui/container/teleportation_jammer.png",
             "ascent": -32768,
             "height": -83,
             "chars": [
@@ -640,7 +640,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gm4:gui/container/teleportation_jammer_connected_on.png",
+            "file": "gm4:gui/container/tinkering_compressor.png",
             "ascent": 13,
             "height": 166,
             "chars": [
@@ -649,65 +649,11 @@
         },
         {
             "type": "bitmap",
-            "file": "gm4:gui/container/teleportation_jammer_connected_on.png",
+            "file": "gm4:gui/container/tinkering_compressor.png",
             "ascent": -32768,
             "height": -83,
             "chars": [
                 "\u9019"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "gm4:gui/container/teleportation_jammer_disconnected_off.png",
-            "ascent": 13,
-            "height": 166,
-            "chars": [
-                "\u9020"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "gm4:gui/container/teleportation_jammer_disconnected_off.png",
-            "ascent": -32768,
-            "height": -83,
-            "chars": [
-                "\u9021"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "gm4:gui/container/teleportation_jammer_disconnected_on.png",
-            "ascent": 13,
-            "height": 166,
-            "chars": [
-                "\u9022"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "gm4:gui/container/teleportation_jammer_disconnected_on.png",
-            "ascent": -32768,
-            "height": -83,
-            "chars": [
-                "\u9023"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "gm4:gui/container/tinkering_compressor.png",
-            "ascent": 13,
-            "height": 166,
-            "chars": [
-                "\u9024"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "gm4:gui/container/tinkering_compressor.png",
-            "ascent": -32768,
-            "height": -83,
-            "chars": [
-                "\u9025"
             ]
         },
         {
