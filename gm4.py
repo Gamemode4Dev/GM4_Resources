@@ -71,10 +71,17 @@ def build_modules(ctx: Context):
 			},
 			"output": OUTPUT,
 			"pipeline": [
-				"gm4.populate_credits"
+				"copy_folders",
+				"gm4.populate_credits",
 			],
 			"meta": {
 				"contributors": contributors,
+				"copy_folders": {
+					"resource_pack": {
+						  # "assets/minecraft/optifine/": "assets/minecraft/optifine/*",
+							"assets/minecraft/optifine/": "assets/minecraft/optifine/**/*"
+						}
+				}
 			}
 		}))
 		print(f"Generated {id}")
