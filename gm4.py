@@ -71,15 +71,14 @@ def build_modules(ctx: Context):
 			},
 			"output": OUTPUT,
 			"pipeline": [
-				"copy_folders",
+				"beet.contrib.copy_files",
 				"gm4.populate_credits",
 			],
 			"meta": {
 				"contributors": contributors,
-				"copy_folders": {
+				"copy_files": {
 					"resource_pack": {
-						  # "assets/minecraft/optifine/": "assets/minecraft/optifine/*",
-							"assets/minecraft/optifine/": "assets/minecraft/optifine/**/*"
+							"assets/minecraft/optifine/": "gm4_resource_pack/assets/minecraft/optifine/"
 						}
 				}
 			}
