@@ -13,7 +13,7 @@ def run(cmd: list[str]) -> str:
 
 
 def build_modules(ctx: Context):
-	version = os.getenv("VERSION", "1.18")
+	version = os.getenv("VERSION", "1.19")
 
 	modules = [{"id": p.name} for p in sorted(ctx.directory.glob("gm4_*"))]
 	print(f"[GM4] Found {len(modules)} modules")
@@ -71,15 +71,14 @@ def build_modules(ctx: Context):
 			},
 			"output": OUTPUT,
 			"pipeline": [
-				"copy_folders",
+				"beet.contrib.copy_files",
 				"gm4.populate_credits",
 			],
 			"meta": {
 				"contributors": contributors,
-				"copy_folders": {
+				"copy_files": {
 					"resource_pack": {
-						  # "assets/minecraft/optifine/": "assets/minecraft/optifine/*",
-							"assets/minecraft/optifine/": "assets/minecraft/optifine/**/*"
+							"assets/minecraft/optifine/": "gm4_resource_pack/assets/minecraft/optifine/"
 						}
 				}
 			}
