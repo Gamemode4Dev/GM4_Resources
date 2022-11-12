@@ -185,6 +185,7 @@
     "block.gm4.zauber_tank.swiftness": "Zauber Swiftness Potion Tank",
     "block.gm4.zauber_tank.wormhole": "Wormhole Tank",
 
+    "container.gm4.auto_crafter": "Set\u00a0Recipe\u00a0Shape",
     "container.gm4.block_compressor": "Compression\u00a0Amount",
     "container.gm4.custom_crafter": "Custom\u00a0Crafter",
     "container.gm4.disassembler": "Disassembler",
