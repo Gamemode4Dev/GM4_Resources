@@ -8,7 +8,8 @@ ARMOR_MATERIALS=("leather","chainmail","iron","golden","diamond","netherite")
 def preprocess_data(data):
   newData = pandas.DataFrame(columns=["Item","Index","Category","Module","Name","Model","Texture","Parent"])
   for i, row in data.iterrows():
-    newData = newData.append(specialHandler(row))
+    extra = pandas.DataFrame(specialHandler(row), columns=["Item","Index","Category","Module","Name","Model","Texture","Parent"])
+    newData = pandas.concat([newData,extra])
   newData["Index"] = pandas.to_numeric(newData["Index"])
   return newData
 

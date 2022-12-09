@@ -70,17 +70,14 @@ def build_modules(ctx: Context):
 				"zipped": True,
 			},
 			"output": OUTPUT,
+			"require": [
+        "beet.contrib.optifine",
+			],
 			"pipeline": [
-				"beet.contrib.copy_files",
 				"gm4.populate_credits",
 			],
 			"meta": {
-				"contributors": contributors,
-				"copy_files": {
-					"resource_pack": {
-							"assets/minecraft/optifine/": "gm4_resource_pack/assets/minecraft/optifine/"
-						}
-				}
+				"contributors": contributors
 			}
 		}))
 		print(f"Generated {id}")
