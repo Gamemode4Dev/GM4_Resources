@@ -1,5 +1,5 @@
 {
-  "last_commit": "c57c2398a4ece23ed699e7dd10607bdf9f19f191",
+  "last_commit": "7d2b6e81b329f6f39e1a92a5bbfe749d5abd8bf1",
   "modules": [
     {
       "id": "gm4_resource_pack",
@@ -76,6 +76,9 @@
       "links": [
         "https://twitter.com/ToffeeMax"
       ]
+    },
+    "Kyrkis": {
+      "name": "Kyrkis"
     },
     "Hozz": {
       "name": "Hozz"
