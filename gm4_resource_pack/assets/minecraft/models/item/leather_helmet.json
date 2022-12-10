@@ -1,105 +1,531 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/leather_helmet",
-        "layer1": "item/leather_helmet_overlay"
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_helmet",
+    "layer1": "item/leather_helmet_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "gm4:item/sky_dimension/leather_helmet_1"
     },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "gm4:item/sky_dimension/leather_helmet_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "minecraft:item/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 103
-            },
-            "model": "gm4:item/metallurgy/shamir/aluminium/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 104
-            },
-            "model": "minecraft:item/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 106
-            },
-            "model": "gm4:item/metallurgy/shamir/aluminium/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 107
-            },
-            "model": "minecraft:item/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 124
-            },
-            "model": "gm4:item/metallurgy/shamir/curies_bismium/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 125
-            },
-            "model": "minecraft:item/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420001
-            },
-            "model": "gm4:item/sky_dimension/leather_helmet_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420002
-            },
-            "model": "minecraft:item/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420103
-            },
-            "model": "gm4:item/metallurgy/shamir/aluminium/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420104
-            },
-            "model": "minecraft:item/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420106
-            },
-            "model": "gm4:item/metallurgy/shamir/aluminium/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420107
-            },
-            "model": "minecraft:item/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420124
-            },
-            "model": "gm4:item/metallurgy/shamir/curies_bismium/leather_helmet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3420125
-            },
-            "model": "minecraft:item/leather_helmet"
-        }
-    ]
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "minecraft:item/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "gm4:item/metallurgy/shamir/aluminium/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "minecraft:item/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "gm4:item/metallurgy/shamir/aluminium/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "minecraft:item/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 124
+      },
+      "model": "gm4:item/metallurgy/shamir/curies_bismium/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 125
+      },
+      "model": "minecraft:item/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "hats:item/hats/chefs_hat_new"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "hats:item/hats/cap_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "hats:item/hats/top_hat_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "hats:item/hats/chicken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "hats:item/hats/small_hat_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "hats:item/hats/bunny_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "hats:item/hats/gold_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "hats:item/hats/eye_patch"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "hats:item/hats/butterfly"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "item/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "hats:item/hats/ufo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "hats:item/hats/witch_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "hats:item/hats/light"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "hats:item/hats/cat_ears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "hats:item/hats/halo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "hats:item/hats/horns_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "hats:item/hats/wig_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10017
+      },
+      "model": "hats:item/hats/graduation_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10018
+      },
+      "model": "hats:item/hats/straw_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10019
+      },
+      "model": "hats:item/hats/cloud"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10020
+      },
+      "model": "hats:item/hats/mushroom"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10021
+      },
+      "model": "hats:item/hats/arrow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10022
+      },
+      "model": "hats:item/hats/top_hat_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10023
+      },
+      "model": "hats:item/hats/reindeer_horns"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10024
+      },
+      "model": "hats:item/hats/santa_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10025
+      },
+      "model": "hats:item/hats/bunny_ears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10026
+      },
+      "model": "hats:item/hats/fantasy_ears"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10027
+      },
+      "model": "hats:item/hats/bucket_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10028
+      },
+      "model": "hats:item/hats/piston"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10029
+      },
+      "model": "hats:item/hats/lightning"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10030
+      },
+      "model": "hats:item/hats/hat_stack"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10031
+      },
+      "model": "hats:item/hats/fedora"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10032
+      },
+      "model": "hats:item/hats/side_bows"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10033
+      },
+      "model": "hats:item/hats/back_bow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10034
+      },
+      "model": "hats:item/hats/side_bow_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10035
+      },
+      "model": "hats:item/hats/side_bow_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10036
+      },
+      "model": "hats:item/hats/hardhat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10037
+      },
+      "model": "hats:item/hats/cap_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10038
+      },
+      "model": "hats:item/hats/cap_2_back"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10039
+      },
+      "model": "hats:item/hats/cap_2_left"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10040
+      },
+      "model": "hats:item/hats/cap_2_right"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10041
+      },
+      "model": "hats:item/hats/cardboard_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10042
+      },
+      "model": "hats:item/hats/archaeology_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10043
+      },
+      "model": "hats:item/hats/flamingo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10044
+      },
+      "model": "hats:item/hats/heart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10045
+      },
+      "model": "hats:item/hats/cowboy_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10046
+      },
+      "model": "hats:item/hats/books"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10047
+      },
+      "model": "hats:item/hats/raccoon_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10048
+      },
+      "model": "hats:item/hats/umbrella"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10049
+      },
+      "model": "hats:item/hats/lilac_crown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10050
+      },
+      "model": "hats:item/hats/aquarium"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10051
+      },
+      "model": "hats:item/hats/headphones_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10052
+      },
+      "model": "hats:item/hats/headphones_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10053
+      },
+      "model": "hats:item/hats/headphones_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10054
+      },
+      "model": "hats:item/hats/headphones_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10055
+      },
+      "model": "hats:item/hats/rainbow_headphones"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10056
+      },
+      "model": "hats:item/hats/cat_basket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10057
+      },
+      "model": "hats:item/hats/shulker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10058
+      },
+      "model": "hats:item/hats/beret"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10059
+      },
+      "model": "hats:item/hats/big_hair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10060
+      },
+      "model": "hats:item/hats/sun_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10061
+      },
+      "model": "hats:item/hats/question_mark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10062
+      },
+      "model": "hats:item/hats/exclamation_mark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10063
+      },
+      "model": "hats:item/hats/question_and_exclamation_mark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10064
+      },
+      "model": "hats:item/hats/angry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10065
+      },
+      "model": "hats:item/hats/pirate_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10066
+      },
+      "model": "item/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100131
+      },
+      "model": "hats:item/hats/fedora_villager"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100132
+      },
+      "model": "item/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100142
+      },
+      "model": "hats:item/hats/archaeology_hat_villager"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 100142
+      },
+      "model": "item/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3420001
+      },
+      "model": "gm4:item/sky_dimension/leather_helmet_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3420002
+      },
+      "model": "minecraft:item/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3420103
+      },
+      "model": "gm4:item/metallurgy/shamir/aluminium/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3420104
+      },
+      "model": "minecraft:item/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3420106
+      },
+      "model": "gm4:item/metallurgy/shamir/aluminium/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3420107
+      },
+      "model": "minecraft:item/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3420124
+      },
+      "model": "gm4:item/metallurgy/shamir/curies_bismium/leather_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3420125
+      },
+      "model": "minecraft:item/leather_helmet"
+    }
+  ]
 }

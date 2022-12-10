@@ -1,0 +1,20 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/gold_nugget"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1001
+			},
+			"model": "hats:item/merit"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1002
+			},
+			"model": "item/gold_nugget"
+		}
+	]
+}
