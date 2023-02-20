@@ -1,31 +1,48 @@
 [
     {
         "name": "Andante",
-        "links": ["https://twitter.com/andantett"]
+        "links": [
+            "https://twitter.com/andantett"
+        ]
     },
     {
         "name": "BluePsychoRanger",
-        "links": ["https://twitter.com/BluPsychoRanger"]
+        "links": [
+            "https://twitter.com/BluPsychoRanger"
+        ]
     },
     {
         "name": "JP12",
-        "links": ["https://github.com/jpeterik12"]
+        "links": [
+            "https://github.com/jpeterik12"
+        ]
     },
     {
         "name": "Memo",
-        "links": ["https://linktr.ee/miraku_memo"]
+        "links": [
+            "https://linktr.ee/miraku_memo"
+        ]
     },
     {
         "name": "Misode",
-        "links": ["https://twitter.com/misode_"]
+        "links": [
+            "https://twitter.com/misode_"
+        ]
     },
     {
         "name": "SarguCopperpot",
-        "links": ["https://twitter.com/SarguCopperpot"]
+        "links": [
+            "https://twitter.com/SarguCopperpot"
+        ]
     },
     {
         "name": "ToffeeMax",
-        "links": ["https://twitter.com/ToffeeMax"]
+        "links": [
+            "https://twitter.com/ToffeeMax"
+        ]
+    },
+    {
+        "name": "Kyrkis"
     },
     {
         "name": "Hozz"

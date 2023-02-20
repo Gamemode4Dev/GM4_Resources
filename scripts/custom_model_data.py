@@ -7,6 +7,7 @@ import special_cases
 import generate_gm4
 import preprocess
 
+VERSION = "1.19"
 NAMESPACE = "gm4"
 CMD_PREFIXES = (0, 3420000) # legacy and registered prefixes
 
@@ -18,7 +19,7 @@ DOC_URL = f"https://docs.google.com/spreadsheets/d/{DOC_ID}/gviz/tq?tqx=out:csv&
 PR_SHEET = "PRs"
 PR_URL = f"https://docs.google.com/spreadsheets/d/{DOC_ID}/gviz/tq?tqx=out:csv&sheet={PR_SHEET}"
 
-MODELS_URL = "https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/1.19/assets/minecraft/models/item/_all.json"
+MODELS_URL = f"https://raw.githubusercontent.com/misode/mcmeta/{VERSION}-summary/assets/model/data.min.json"
 
 CATEGORIES = {
   "block": "block/",
@@ -43,6 +44,8 @@ def write_json(path, content):
 data = pandas.read_csv(DOC_URL)
 data = pandas.concat([data,pandas.read_csv(PR_URL)])
 models = json.load(urllib.request.urlopen(MODELS_URL))
+
+models = {k.replace('item/',''):v for k,v in models.items() if 'item/' in k}
 generated_models = set()
 
 data = preprocess.preprocess_data(data)
