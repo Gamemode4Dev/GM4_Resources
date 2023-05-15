@@ -13,7 +13,7 @@ def run(cmd: list[str]) -> str:
 
 
 def build_modules(ctx: Context):
-	version = os.getenv("VERSION", "1.19")
+	version = os.getenv("VERSION", "1.19.4")
 
 	modules = [{"id": p.name} for p in sorted(ctx.directory.glob("gm4_*"))]
 	print(f"[GM4] Found {len(modules)} modules")
