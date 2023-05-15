@@ -1,0 +1,87 @@
+{
+  "last_commit": "651f9fe0ff438b9ab8632366b26c3e7495edcc97",
+  "modules": [
+    {
+      "id": "gm4_resource_pack",
+      "name": "Resource Pack",
+      "description": "Use our resource pack for the definitive Gamemode 4 experience! This resource pack does not touch vanilla textures, but adds textures and models to most Gamemode 4 blocks, items and mobs.",
+      "categories": [],
+      "libraries": [],
+      "requires": [],
+      "recommends": [],
+      "wiki_link": "",
+      "video_link": "",
+      "credits": {
+        "Textures": [
+          "Memo",
+          "Hozz"
+        ],
+        "Translations": [
+          "ToffeeMax",
+          "SarguCopperpot",
+          "TheRedCommander",
+          "KompetenterKeks"
+        ],
+        "Management": [
+          "Andante",
+          "JP12",
+          "Misode"
+        ],
+        "Font Magic": [
+          "BluePsychoRanger"
+        ]
+      },
+      "hidden": false
+    }
+  ],
+  "contributors": {
+    "Andante": {
+      "name": "Andante",
+      "links": [
+        "https://twitter.com/andantett"
+      ]
+    },
+    "BluePsychoRanger": {
+      "name": "BluePsychoRanger",
+      "links": [
+        "https://twitter.com/BluPsychoRanger"
+      ]
+    },
+    "JP12": {
+      "name": "JP12",
+      "links": [
+        "https://github.com/jpeterik12"
+      ]
+    },
+    "Memo": {
+      "name": "Memo",
+      "links": [
+        "https://linktr.ee/miraku_memo"
+      ]
+    },
+    "Misode": {
+      "name": "Misode",
+      "links": [
+        "https://twitter.com/misode_"
+      ]
+    },
+    "SarguCopperpot": {
+      "name": "SarguCopperpot",
+      "links": [
+        "https://twitter.com/SarguCopperpot"
+      ]
+    },
+    "ToffeeMax": {
+      "name": "ToffeeMax",
+      "links": [
+        "https://twitter.com/ToffeeMax"
+      ]
+    },
+    "Kyrkis": {
+      "name": "Kyrkis"
+    },
+    "Hozz": {
+      "name": "Hozz"
+    }
+  }
+}
