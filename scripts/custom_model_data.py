@@ -7,7 +7,7 @@ import special_cases
 import generate_gm4
 import preprocess
 
-VERSION = "1.19.4"
+VERSION = "1.20"
 NAMESPACE = "gm4"
 CMD_PREFIXES = (0, 3420000) # legacy and registered prefixes
 
