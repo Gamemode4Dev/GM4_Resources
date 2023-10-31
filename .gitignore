@@ -10,3 +10,6 @@ __pycache__/
 
 ### Beet ###
 out/
+
+### Virtual Env ###
+.venv
